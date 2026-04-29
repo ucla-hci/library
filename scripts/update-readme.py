@@ -20,6 +20,10 @@ def get_title_from_file(filepath):
     # Fallback to filename if no title found
     return filepath.stem.replace('_', ' ')
 
+def get_relative_path(filepath, repo_root):
+    """Get relative path from repo root to file."""
+    return str(Path(filepath).relative_to(repo_root))
+
 def generate_readme(repo_root):
     """Generate README content from paper notes structure."""
     readme_path = Path(repo_root) / 'README.md'
@@ -61,7 +65,8 @@ def generate_readme(repo_root):
         for file in sorted(files):
             file_path = dir_path / file
             title = get_title_from_file(file_path)
-            lines.append(f"- {title}")
+            rel_path = get_relative_path(file_path, repo_root)
+            lines.append(f"- [{title}]({rel_path})")
         
         # Process subdirectories
         for subdir_name, subdir_path in subdirs:
@@ -78,7 +83,8 @@ def generate_readme(repo_root):
             for file in sorted(subfiles):
                 file_path = subdir_path / file
                 title = get_title_from_file(file_path)
-                lines.append(f"- {title}")
+                rel_path = get_relative_path(file_path, repo_root)
+                lines.append(f"- [{title}]({rel_path})")
         
         lines.append("")
     
