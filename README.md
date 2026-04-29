@@ -3,8 +3,8 @@ Notes of what we read
 
 ## Books
 
-- 1. An Applied Information-Processing Psychology
-- 1. A Framework for the Study
+- Card, Moran, and Newell: The Psychology of Human-Computer Interaction
+- Creswell: Research Design
 
 ## Science
 

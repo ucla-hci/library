@@ -1,4 +1,6 @@
-# 1. An Applied Information-Processing Psychology
+# Card, Moran, and Newell: The Psychology of Human-Computer Interaction
+
+## 1. An Applied Information-Processing Psychology
 
 ### Main focus of this book
 
@@ -51,7 +53,7 @@
 > The yield for computer science that can flow from an applied psychology of human-computer interaction is engineering methods for taking the properties of users into account during system design.
 >
 
-# 2. The Human Information-Processor
+## 2. The Human Information-Processor
 
 ### Human the information processor
 

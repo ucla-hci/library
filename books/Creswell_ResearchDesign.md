@@ -1,4 +1,6 @@
-# 1. A Framework for the Study
+# Creswell: Research Design
+
+## 1. A Framework for the Study
 
 ### Paradigm
 > Paradigms in the human and social sciences help us understand phenomena ... paradigms encompass both theories and methods.
