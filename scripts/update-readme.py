@@ -7,9 +7,18 @@ Organizes papers by directory (section) with bullet points for each file.
 import os
 from pathlib import Path
 
-def get_display_name(filename):
-    """Convert filename to display name (remove .md extension)."""
-    return filename.replace('.md', '').replace('_', ' ')
+def get_title_from_file(filepath):
+    """Extract the first # heading from a markdown file."""
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if line.startswith('# '):
+                    return line[2:]  # Remove '# ' prefix
+    except Exception:
+        pass
+    # Fallback to filename if no title found
+    return filepath.stem.replace('_', ' ')
 
 def generate_readme(repo_root):
     """Generate README content from paper notes structure."""
@@ -50,7 +59,9 @@ def generate_readme(repo_root):
         
         # Add files directly in this directory
         for file in sorted(files):
-            lines.append(f"- {get_display_name(file)}")
+            file_path = dir_path / file
+            title = get_title_from_file(file_path)
+            lines.append(f"- {title}")
         
         # Process subdirectories
         for subdir_name, subdir_path in subdirs:
@@ -65,7 +76,9 @@ def generate_readme(repo_root):
                        if f.endswith('.md') and not f.startswith('.')]
             
             for file in sorted(subfiles):
-                lines.append(f"- {get_display_name(file)}")
+                file_path = subdir_path / file
+                title = get_title_from_file(file_path)
+                lines.append(f"- {title}")
         
         lines.append("")
     

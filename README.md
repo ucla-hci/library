@@ -3,15 +3,15 @@ Notes of what we read
 
 ## Books
 
-- CardMoranNewell ThePsychologyofHumanComputerInteraction
-- Creswell ResearchDesign
+- 1. An Applied Information-Processing Psychology
+- 1. A Framework for the Study
 
 ## Science
 
 ### Co Discovery
 
-- lin hypobench
-- yu unlocking-the-potential-of-ai-researchers-in-scientific-discovery
+- Lin et al.: HypoBench: Towards Systematic and Principled Benchmarking for Hypothesis Generation
+- Yu et al.: Unlocking the Potential of AI Researchers in Scientific Discovery: What Is Missing?
 ### Unsorted
 
-- shao sciscigpt
+- Shao et al.: SciSciGPT: advancing human–AI collaboration in the science of science
