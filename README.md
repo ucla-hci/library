@@ -15,7 +15,7 @@ Notes of what we read
 - [Yu et al.: Unlocking the Potential of AI Researchers in Scientific Discovery: What Is Missing?](science/co-discovery/yu_unlocking-the-potential-of-ai-researchers-in-scientific-discovery.md)
 ### Collaboration
 
-- [Lastname et al.: Title](science/collaboration/katz_what-is-research-collaboration.md)
+- [Katz et al.: What Is Research Collaboration?](science/collaboration/katz_what-is-research-collaboration.md)
 ### Unsorted
 
 - [Shao et al.: SciSciGPT: advancing human–AI collaboration in the science of science](science/unsorted/shao_sciscigpt.md)

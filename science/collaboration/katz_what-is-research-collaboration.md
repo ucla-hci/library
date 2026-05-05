@@ -1,6 +1,6 @@
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
-# Lastname et al.: Title
+# Katz et al.: What Is Research Collaboration?
 
 ## One Sentence
 <!-- summarize the paper in one sentence, ideally with one figure as well -->
