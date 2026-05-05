@@ -10,6 +10,7 @@ Notes of what we read
 
 ### Co Discovery
 
+- [Josephson & Josephson: Abductive Inference - Chapter 1. Concept analysis of abduction](science/co-discovery/josephson_abductive-inference.md)
 - [Lin et al.: HypoBench: Towards Systematic and Principled Benchmarking for Hypothesis Generation](science/co-discovery/lin_hypobench.md)
 - [Yu et al.: Unlocking the Potential of AI Researchers in Scientific Discovery: What Is Missing?](science/co-discovery/yu_unlocking-the-potential-of-ai-researchers-in-scientific-discovery.md)
 ### Collaboration
