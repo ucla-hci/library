@@ -1,12 +1,14 @@
-# One Sentence
+# Sourati et al.: Accelerating Science with Human-Aware Artificial Intelligence
+
+## One Sentence
 > ... incorporating the distribution of human expertise by training unsupervised models on simulated inferences that are cognitively accessible to experts dramatically improves (by up to 400%) AI prediction of future discoveries beyond models focused on research content alone, especially when relevant literature is sparse.
 
 Reading the following figure is key to understand this paper:
 
 ![[Pasted image 20260323093702.png]]
-# More Sentences
+## More Sentences
 
-# Key Points
+## Key Points
 ### Limitations of existing AI for science
 > ... such efforts typically ignore the distribution of scientists and inventors--the human prediction engines who continuously alter the landscape of discovery and invention.
 ### Definition of discovery
@@ -32,9 +34,9 @@ Simulate _human thinking_ as **random walks over this graph**
 ### Human-like vs. human-avoiding discovery
 The density of certain areas in the graph indicates popularity of discovery. By computationally walking the graph we can control whether/how discovery can follow a more human-like or human-avoiding path.
 
-# Other Notes
+## Other Notes
 
-# Take-Away
+## Take-Away
 - I wonder how the hypergraph+random walk approach can be pivoted into something with humans in the loop
 - Source code: https://github.com/jsourati/accelerate-discoveries
 

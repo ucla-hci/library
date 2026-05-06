@@ -1,9 +1,11 @@
-# One Sentence
+# Zenil et al.: The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence
+
+## One Sentence
 
 
-# More Sentences
+## More Sentences
 
-# Key Points
+## Key Points
 ### Overrelying on LM will eventually lead to collapse
 > Large Language Models, for example, exhibit statistical inertia when trained recursively on their own outputs, leading to degenerative feedback or model collapse. Should such feedback propagate into scientific discovery pipelines, the consequence would not merely be the degradation of models but a broader epistemic collapse, in which science itself becomes self-referential and narrow.
 
@@ -15,13 +17,13 @@
 ### Well-summarized limitation of AI4Science
 > Yet, while transformative, these systems do not yet alter the epistemic foundations of science. They expedite established procedures but remain anchored to human-defined objectives, loss functions, and validation standards
 
-# Other Notes
+## Other Notes
 ### Humans might slow down AI's exploration of hypothesis space
 > ... restricting AI to hyman comprehensibility may also prevent exploration of hypothesis spaces that, while initially unintuitive, could lead to major breakthroughs.
 
 ### Three metrics to consider
 > ... discovery time, interaction overhead, and error propagation across these stages ...
 
-# Take-Away
+## Take-Away
 
 

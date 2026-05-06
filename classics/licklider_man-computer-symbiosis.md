@@ -1,9 +1,11 @@
-# One Sentence
+# Licklider et al.: Man-Computer Symbiosis
+
+## One Sentence
 This article envisions a future of symbiotic relationship between men and computers: 1) the aim is to formulate and solve open-ended problem together in real-time; 2) the division of labor is for men to specify high-level directions, hypotheses, and references while computers can perform low-level data retrieval, processing and presentation tasks; and 3) the requirements include memory, communicative language, and input/output.
-# More Sentences
+## More Sentences
 >The main aims are 1) to let computers facilitate formulative thinking as they now facilitate the solution of formulated problems, and 2) to enable men and computers to cooperate in making decisions and controlling complex situations without inflexible dependence on predetermined programs.
 
-# Key Points
+## Key Points
 ### What is NOT symbiotic systems
 
 > ... the human operators are responsible mainly for functions that it proved infeasible to automate. Such systems (”humanly extended machines, ” ...) are not symbiotic systems.
@@ -38,7 +40,7 @@ The two exchange their “output” iteratively.
 
 > The first involves problem-solving, hill-climbing, self-organizing programs. The second involves real-time concatenation of preprogrammed segments and closed subroutines which the human operator can designate and call into action simply by name. ... ... the second path ... has been relatively negelected.
 
-# Other Notes
+## Other Notes
 ### What is symbosis?
 
 > ... “living together in intimate association, or even close union, of two dissimilar organisms”

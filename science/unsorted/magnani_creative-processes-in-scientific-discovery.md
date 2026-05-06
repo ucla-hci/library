@@ -1,8 +1,10 @@
-# One Sentence
+# Magnani et al.: Creative Processes in Scientific Discovery
 
-# More Sentences
+## One Sentence
 
-# Key Points
+## More Sentences
+
+## Key Points
 ### Nice re-cap of hypothesis vs. justification
 >Philosophers of science in the twentieth century have distinguished between the *logic of discovery* and the *logic of justification*. Most have concluded that there is no logic of discovery and, more over, that a rational model of discovery is impossible. Scientific discovery is irrational; there is no reasoning based on hypothesis generation.
 
@@ -21,10 +23,10 @@
 Example criteria to assess the goodness of a hypothesis
 > *Consilience* can measure how much a hypothesis explains ... the aim is not the sheer amount of data explained, but its relative significance.
 > *Simplicity* ... deals with the problem of the level of conceptual complexity of hypotheses when their consiliences are equal
-# Other Notes
+## Other Notes
 ### Understanding how some consider scientific discovery as a search problem
 > The computational method known as heuristic search is in some sense a revival of those old ideas of induction by elimination, but with machine methods of generation and search substituted for exhaustive enumeration.
 
-# Take-Away
+## Take-Away
 
 
