@@ -5,6 +5,7 @@ Notes of what we read
 
 - [Card, Moran, and Newell: The Psychology of Human-Computer Interaction](books/CardMoranNewell_ThePsychologyofHumanComputerInteraction.md)
 - [Creswell: Research Design](books/Creswell_ResearchDesign.md)
+- [Godfrey-Smith: Theory and Reality](books/godfrey-smith_theory-and-reality.md)
 
 ## Classics
 
