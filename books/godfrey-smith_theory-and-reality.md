@@ -25,3 +25,25 @@
 
 ### What "objective" means
 > Sometimes objectivity is taken to mean the absence of bias: objectivity is impartiality or fairness. Bt the term is also often used to express claims about whether the existence of something is independent of our minds.
+
+### What makes science special?
+**Perspective 1: empiricism and science**
+> Empiricism: the only source of genuine knowledge about the world is experience.
+
+> In general, the empiricist tradition has tended to see the differences between science and everyday thinking as just differences of detail and degree.
+
+... i.e., no fundamental difference
+
+> But science is especially successful because it is organized, systematic, and particularly responsive to experience.
+
+> ... although empiricism is true in broad terms, and all knowledge comes from experience, this tells us nothing about what differentiates science from other areas of human thought
+
+**Perspective 2: mathematics and science**
+> What makes science different from other kinds of investigation, and especially successful, is its attempt to understand the natural world using mathematical concepts and tools.
+
+> ... mathematics used as a tool within an empiricist outlook is what makes science special.
+
+**Perspective 3: social structure and science**
+> What makes science different from other kinds of investigation, and especially successful, is its unique social structure.
+
+> An empiricist might argue that this social organization made scientific communities uniquely responsive to experience.
