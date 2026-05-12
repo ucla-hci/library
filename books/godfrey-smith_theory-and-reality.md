@@ -47,3 +47,27 @@
 > What makes science different from other kinds of investigation, and especially successful, is its unique social structure.
 
 > An empiricist might argue that this social organization made scientific communities uniquely responsive to experience.
+
+### Scientific Revolution: historical context
+> The Scientific Revolution occured roughly between 1550 and 1700 in Europe. ...
+> In religion, the Catholic Church had been challenged by the rise of Protestantism. The Renaissance of the fifteenth and sixteenth centuries had included a partial opening of intellectual culture. Populations were growing (recovering from the Black Death), and there was increased activity in commerce and trade.
+
+### Instrumentalism
+Theory only needs to be good enough for predicting the future.
+> ... holds that we should think of theories only as predictive tools rather than as attempts to describe the hidden structure of nature.
+
+## Empiricism
+
+### On pattern recognition
+> ... classical empiricism saw the mind largely as a pattern-recognition device
+
+### Rationalists vs. empiricists
+> Rationalists such as Descartes and G. W. Leibniz believed that pure reasoning can be a route to knowledge that does not depend on experience. Mathematics seemed to be a compelling example of this kind of knowledge. 
+
+> Empiricists like Locke and Hume insisted that experience is our way of finding out what the world is like.
+
+Kant's best-part-of-both-world view:
+> ... a sophisticated intermediate position was developed by the German philosopher Immanuel Kant. Kant argue that all our thinking involves a subtle interaction between sensory experience and preexisting mental structures that we use to make sense of experience. Concepts such as space, time, and causation cannot be derived from experience, because a person must already have these concepts in order to use experience to learn about the world.
+
+### Characterization of empiricists
+> ... it is fair to say that the empiricist tradition has tended to be (1) pro-science, (2) worldly rather than religious, and (3) politically moderate or liberal ...
