@@ -33,8 +33,29 @@ Coarse-grained criteria:
 Unstructured and sub-optimal search:
 > Unstructured and sub-optimal search of the idea space through either refinement of a generated base-idea (exploitation) ..., or through initial search and plan (exploration) without subsequent refinement of promising ideas.
 
+### Agent architecture
+**Ideation agent**
+> ... navigates the search space of possibile research ideas, ...  generates and iteratively improves the research brief
+
+**Review agent**
+> ... providing *reward* and *feedback* ... delivering targeted, actionable feedback on each aspect of the taxonomy for distinct segments of the current research-brief ... This fine-grained feedback is verified by the researcher and ommitted if deemed irrelevant. Then the reciew agent computes reward based on the scores of the verified aspects of the feedback.
+
+**Retrieval agent**
+> ... synthesizes queries targeted to retrieve literature relevant to the research goal.
+
+How the agents work together:
+1. Ideation Agent = main actor
+It generates and revises the research brief. It decides/executes actions such as: generate a new brief, refine with retrieved literature, refine with review feedback, or refine with user feedback. In MCTS terms, each action creates a new node in the idea tree.
+
+2. Retrieval Agent = grounding/context provider
+Given the research goal, it generates literature queries, retrieves and summarizes relevant papers, and supplies cited knowledge back to the ideation agent. Its role is not to create the idea directly, but to make the ideation agent’s refinement more literature-grounded.
+
+3. Review Agent = critic/reward provider
+It evaluates each research brief, assigns scores/reward, and can provide fine-grained feedback on specific parts of the brief using the review taxonomy. This feedback then becomes input for another ideation step.
+
 ## Other Notes
 <!-- other things, not so important, but good to know -->
 
 ## Take-Away
 <!-- critiques, ideas, actionable things, etc. -->
+The taxonomy of review criteria could be useful -- in Appendix A.
