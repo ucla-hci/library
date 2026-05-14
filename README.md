@@ -36,3 +36,4 @@ Notes of what we read
 ## Unsorted
 
 - [Béchard: The next AI revolution could start with world models](unsorted/bechard_next-ai-world-models.md)
+- [Feng et al.: Cocoa: Co-Planning and Co-Execution with AI Agents](unsorted/feng_cocoa-coplanning-coexecution-with-ai-agents.md)

@@ -71,3 +71,28 @@ Kant's best-part-of-both-world view:
 
 ### Characterization of empiricists
 > ... it is fair to say that the empiricist tradition has tended to be (1) pro-science, (2) worldly rather than religious, and (3) politically moderate or liberal ...
+
+### Logical positivism
+> ... championed reason over the obsecure, the logical over the intuitive. The logical positivists were also internationalists, and liked the idea of a universal and precise language that everyone could use to communicate clearly.
+
+### Earlier empiricism vs. logical positivism
+> Earlier empiricist views were based on views about the ind and perception. Logical positivism, in contrast, was based in large part on theories about language--especially about what language can and can't express. Perhaps their central idea was the verifiability theory of meaning.
+
+### Logical positivism's verifiability theory of meaning
+> ... verifiability here refers to verifiability in principle, not in practice. ... conclusive verification or testing was not required. There just had to be the possibility of finding observational evidence that would count for or against the proposition in question.
+
+> ... knowing the meaning of a sentence is knowing how to verify it ... if a sentence has no possible method of verification, it has no meaning.
+
+> Some sentences are true or false simply in virtue of the meaning or the words within them, regardless of how the world happens to be; these are analytic. 
+> A synthetic sentence is true or false in virtue of both the meaning of the words in the sentence and how the world actually is.
+
+> For logical positivism, mathematical propositions do not describe the world; they merely record our decision to use symbols in a particular way.
+
+### Logical positivism's acceptance of errors
+> There is always the possibility of error, but that does not stop some claims in science from being supported by evidence. The logical positivists accepted and embraced the fact that error is always possible. ... did not think that science ever reaches absolute certainty.
+
+### Summative characteristic of logical positivism
+> Logical positivism was a revolutionary, uncompromising version of empiricism, based largely on a theory of language. The aim of science ... is to track and anticipate patterns in experience ... "what every scientist seeks, and seeks alone, are ... the rules which govern the connection of experiences, and by which alone they can be predicted."
+
+### Summary on empiricism
+> ... empiricism was organized around an ideal of intellectual flexibility as a mark of science and rationality. We see this ina famous metaphor used by Neurath. He said that in our attempts to learn about the world and improve our ideas, we are "like sailors who have to rebuild their ship on the open sea." The sailors replace pieces of their ship plank by plank, in a way that eventually results in major changes, but is constrained by the need to keep the ship afloat during the process.
