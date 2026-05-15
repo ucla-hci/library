@@ -25,6 +25,7 @@ Notes of what we read
 - [Sourati et al.: Accelerating Science with Human-Aware Artificial Intelligence](science/hypothesis-generation/sourati_accelerating-science-with-human-aware-artificial-intelligence.md)
 - [Yu et al.: Unlocking the Potential of AI Researchers in Scientific Discovery: What Is Missing?](science/hypothesis-generation/yu_unlocking-the-potential-of-ai-researchers-in-scientific-discovery.md)
 - [Zenil et al.: The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence](science/hypothesis-generation/zenil_the-future-of-fundamental-science-led-by-generative-closed-loop-artificial-intelligence.md)
+- [Zhou et al.: Hypothesis Generation with Large Language Models](science/hypothesis-generation/zhou_hypothesis-generation-with-large-langauge-models.md)
 ### Hypothesis Validation
 
 - [Cong et al.: Labos: The AI-XR Co-Scientist That Sees and Works with Humans](science/hypothesis-validation/cong_labos-the-ai-xr-co-scientist-that-sees-and-works-with-humans.md)

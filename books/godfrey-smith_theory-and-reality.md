@@ -96,3 +96,13 @@ Kant's best-part-of-both-world view:
 
 ### Summary on empiricism
 > ... empiricism was organized around an ideal of intellectual flexibility as a mark of science and rationality. We see this ina famous metaphor used by Neurath. He said that in our attempts to learn about the world and improve our ideas, we are "like sailors who have to rebuild their ship on the open sea." The sailors replace pieces of their ship plank by plank, in a way that eventually results in major changes, but is constrained by the need to keep the ship afloat during the process.
+
+### Logical empiricism
+> ... scientific theories are aimed at describing unobservable real structures adn processes ...
+
+
+![Feigl](../_assets/feigl.png)
+*Empiricists' view of theories*
+
+### How observation might change experiences
+> ... when you act you often change your own experience. This is tru both in everyday cases ... and in more complicated cases, when we build a particle accelerator that can create observations that would never otherwise be possible.
