@@ -22,6 +22,7 @@ Notes of what we read
 - [Garikaparthi et al.: IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery](science/hypothesis-generation/garikaparthi_iris-interactive-research-ideation-system-for-accelerating-scientific-discovery.md)
 - [Josephson & Josephson: Abductive Inference - Chapter 1. Concept analysis of abduction](science/hypothesis-generation/josephson_abductive-inference.md)
 - [Lin et al.: HypoBench: Towards Systematic and Principled Benchmarking for Hypothesis Generation](science/hypothesis-generation/lin_hypobench.md)
+- [Liu et al.: Literature Meets Data: A Synergistic Approach to Hypothesis Generation](science/hypothesis-generation/liu_literature-meets-data.md)
 - [Sourati et al.: Accelerating Science with Human-Aware Artificial Intelligence](science/hypothesis-generation/sourati_accelerating-science-with-human-aware-artificial-intelligence.md)
 - [Yu et al.: Unlocking the Potential of AI Researchers in Scientific Discovery: What Is Missing?](science/hypothesis-generation/yu_unlocking-the-potential-of-ai-researchers-in-scientific-discovery.md)
 - [Zenil et al.: The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence](science/hypothesis-generation/zenil_the-future-of-fundamental-science-led-by-generative-closed-loop-artificial-intelligence.md)
