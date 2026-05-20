@@ -23,6 +23,7 @@ Notes of what we read
 - [Josephson & Josephson: Abductive Inference - Chapter 1. Concept analysis of abduction](science/hypothesis-generation/josephson_abductive-inference.md)
 - [Lin et al.: HypoBench: Towards Systematic and Principled Benchmarking for Hypothesis Generation](science/hypothesis-generation/lin_hypobench.md)
 - [Liu et al.: Literature Meets Data: A Synergistic Approach to Hypothesis Generation](science/hypothesis-generation/liu_literature-meets-data.md)
+- [Majumder et al.: DiscoveryBench: Towards Data-Driven Discovery with Large Language Models](science/hypothesis-generation/majumder_discoverybench-towards-data-driven-discovery-with-large-language-models.md)
 - [Sourati et al.: Accelerating Science with Human-Aware Artificial Intelligence](science/hypothesis-generation/sourati_accelerating-science-with-human-aware-artificial-intelligence.md)
 - [Yu et al.: Unlocking the Potential of AI Researchers in Scientific Discovery: What Is Missing?](science/hypothesis-generation/yu_unlocking-the-potential-of-ai-researchers-in-scientific-discovery.md)
 - [Zenil et al.: The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence](science/hypothesis-generation/zenil_the-future-of-fundamental-science-led-by-generative-closed-loop-artificial-intelligence.md)
