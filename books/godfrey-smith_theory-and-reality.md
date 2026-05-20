@@ -106,3 +106,28 @@ Kant's best-part-of-both-world view:
 
 ### How observation might change experiences
 > ... when you act you often change your own experience. This is tru both in everyday cases ... and in more complicated cases, when we build a particle accelerator that can create observations that would never otherwise be possible.
+
+## 3. Evidence and Induction
+
+### The problem of induction
+> What reason do we have for expecting patterns observed in our past experience to hold in the future?
+
+> Induction is psychologically natural to us. Despite this, Hume thought it had no rational basis; it is just a habit we all have.
+
+### Logical empiricists' version of induction?
+> ... the aim was to give an account of the relationships between the statements that make up a scientific theory and statements describing observations, which make the observations support the theory
+
+### Induction vs. projection
+> ... in a projection, we infer from a number of observed cases to arrive at a prediction about the next case, not to a generalization about all cases.
+
+This seems to describes what machine learning is doing.
+
+### Abduction
+Below are just a few different ways of describing abduction
+> We are not inferring to a generalization, but to a hypothesis about a structure or event that would explain our data
+
+The most common framing---
+> "inference to the best explanation"
+
+The author of this book prefers---
+> "explanatory inference"
