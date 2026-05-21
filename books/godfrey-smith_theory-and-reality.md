@@ -131,3 +131,35 @@ The most common framing---
 
 The author of this book prefers---
 > "explanatory inference"
+
+## 4. Popper
+
+### Falsificationism
+> ... claims that a hypothesis is scientific if and only if it has the potential to be refuted by some possible observation.
+
+### Observation can only refute, not confirm hypotheses
+> Crucially, for Popper it is never possible to confirm or establish a theory by showing its agreement with observations. Confirmation is a myth. The only thing an observational test can do is to show that a theory is false. So the truth of a scientific theory can never by supported  by observational evidence, not even a little bit, and not even if the theory makes a huge number of predictions that all come out as expected.
+
+### Popper's view of science as a system of hypotheses
+> I think that we shall have to get accustomed to the idea that we must not look upon science as a "body of knowledge," but rather as a system of hypotheses; that is to say, as a system of guesses of anticipations which in principle cannot be justified, but with which we work as long as they stand up to tests, and of which we are never justified in saying that we know they are "true" or "more or less certain" or even "probable".
+
+### Popper's two-step cycle of scientific changes
+Seems to correspond to hypothesis generation vs. validation:
+
+> ... a two-step cycle that repeats endlessly. 
+
+> Stage 1 ini the cycle is *conjecture*--a scientist will ofer a hypothesis that might describe and explain some part of the world. ... 
+
+> Stage 2 in the cycle is *attempted refutation*--they hypothesis is subjected to critical testing, in an attempt to show that it is false. 
+
+> Once the hypothesis is refuted, we go back to stage 1 again ...
+
+### What makes a good or great scientist
+> For popper, a good or great scientist is someone who combines two features, one corresponding to each stage of the cycle. The first feature is an ability to come up with imaginative, creative, and risky ideas. The second is a hard-headed willingness to subject these imaginative ideas to rigorous critical testing.
+
+### Popper's influence on scientists
+Many scientists have been inspired by Popper, e.g., 
+> Popper taught him that is *OK* to be wrong. It is good to be wrong, if you and others can learn from the error.
+
+### The scientific way of handling an idea ...
+> ... is to try to connect it with other ideas, to embed it in a larger conceptual structure, in a way that *exposes it to observation*.

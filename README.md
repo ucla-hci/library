@@ -15,6 +15,7 @@ Notes of what we read
 
 ### Collaboration
 
+- [Ben-Menahem et al.: Coordinating Knowledge Creation in Multidisciplinary Teams: Evidence from Early-Stage Drug Discovery](science/collaboration/ben-menahem_coordinating-knowledge-creation-in-multidisciplinary-teams.md)
 - [Katz et al.: What Is Research Collaboration?](science/collaboration/katz_what-is-research-collaboration.md)
 ### Hypothesis Generation
 
