@@ -163,3 +163,18 @@ Many scientists have been inspired by Popper, e.g.,
 
 ### The scientific way of handling an idea ...
 > ... is to try to connect it with other ideas, to embed it in a larger conceptual structure, in a way that *exposes it to observation*.
+
+## Theories and Frameworks
+
+### Feyerabend's deepest conviction ...
+> ... was that science is an aspect of human creativity. Scientific ideas and scientific change are to be assessed in those terms.
+
+> ... what is important in all intellectual work, including science, is the free development of creativity and imagination. Nothing should be allowed to interfere with this.
+
+## Science is Political
+
+### Argument: science shouldn't be value-free
+> ... science is a human activity, and all human activities are guided by values of some sort. But this might be a desire to understand, a desire to resolve questions about how the world works. If so, that is not "value-free." A particular goal is being pursued because we value understanding. The ideal of an absence of values in science is really not an issue; it is all a question of what kinds of values, and what kinds of goals, are in play.
+
+### Two kinds of values
+> ... "epistemic" refers to knowledge and evidence ... Understanding the world is an epistemic value. Protecting the environment, or advancing the power of your nation over other nations, is a nonepistemic goal.
