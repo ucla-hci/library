@@ -148,7 +148,7 @@ Seems to correspond to hypothesis generation vs. validation:
 
 > ... a two-step cycle that repeats endlessly. 
 
-> Stage 1 ini the cycle is *conjecture*--a scientist will ofer a hypothesis that might describe and explain some part of the world. ... 
+> Stage 1 ini the cycle is *conjecture*--a scientist will offer a hypothesis that might describe and explain some part of the world. ... 
 
 > Stage 2 in the cycle is *attempted refutation*--they hypothesis is subjected to critical testing, in an attempt to show that it is false. 
 
