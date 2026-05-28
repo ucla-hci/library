@@ -178,3 +178,18 @@ Many scientists have been inspired by Popper, e.g.,
 
 ### Two kinds of values
 > ... "epistemic" refers to knowledge and evidence ... Understanding the world is an epistemic value. Protecting the environment, or advancing the power of your nation over other nations, is a nonepistemic goal.
+
+## Explanation, Laws, and Causes
+
+### Against "inference to the best explanation"
+The author believes that abduction cannot be oversimplified as ranking possible explanations:
+> ... that term suggest that there is a single measure of "explanatory goodness" involved; the option that is best as an explanation is the one most likely to be true. 
+
+## Truth,m Simplicity, and Other Problems
+
+### The better epistemic version of Occam's razor
+Instead of---
+> "We should prefer simpler theories because they are more likely to be true"
+
+... it should be---
+> "In many situations it is good to start by working with simple theories, and see how they fare, because this is more likely to get us to the truth in the end."
