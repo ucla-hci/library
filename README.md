@@ -25,6 +25,7 @@ Notes of what we read
 - [Lin et al.: HypoBench: Towards Systematic and Principled Benchmarking for Hypothesis Generation](science/hypothesis-generation/lin_hypobench.md)
 - [Liu et al.: Literature Meets Data: A Synergistic Approach to Hypothesis Generation](science/hypothesis-generation/liu_literature-meets-data.md)
 - [Majumder et al.: DiscoveryBench: Towards Data-Driven Discovery with Large Language Models](science/hypothesis-generation/majumder_discoverybench-towards-data-driven-discovery-with-large-language-models.md)
+- [Nigam et al.: An interactive co-pilot for accelerated research ideation](science/hypothesis-generation/nigam_an-interactive-copilot-for-accelerated-research-ideation.md)
 - [Pu et al.: IdeaSynth: Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback](science/hypothesis-generation/pu_ideasynth.md)
 - [Sourati et al.: Accelerating Science with Human-Aware Artificial Intelligence](science/hypothesis-generation/sourati_accelerating-science-with-human-aware-artificial-intelligence.md)
 - [Yu et al.: Unlocking the Potential of AI Researchers in Scientific Discovery: What Is Missing?](science/hypothesis-generation/yu_unlocking-the-potential-of-ai-researchers-in-scientific-discovery.md)
