@@ -44,3 +44,4 @@ Notes of what we read
 
 - [Béchard: The next AI revolution could start with world models](unsorted/bechard_next-ai-world-models.md)
 - [Feng et al.: Cocoa: Co-Planning and Co-Execution with AI Agents](unsorted/feng_cocoa-coplanning-coexecution-with-ai-agents.md)
+- [Zeng et al.: MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents](unsorted/zeng_mementogui.md)
