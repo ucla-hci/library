@@ -73,7 +73,7 @@ Kant's best-part-of-both-world view:
 > ... it is fair to say that the empiricist tradition has tended to be (1) pro-science, (2) worldly rather than religious, and (3) politically moderate or liberal ...
 
 ### Logical positivism
-> ... championed reason over the obsecure, the logical over the intuitive. The logical positivists were also internationalists, and liked the idea of a universal and precise language that everyone could use to communicate clearly.
+> ... championed reason over the obscure, the logical over the intuitive. The logical positivists were also internationalists, and liked the idea of a universal and precise language that everyone could use to communicate clearly.
 
 ### Earlier empiricism vs. logical positivism
 > Earlier empiricist views were based on views about the ind and perception. Logical positivism, in contrast, was based in large part on theories about language--especially about what language can and can't express. Perhaps their central idea was the verifiability theory of meaning.
