@@ -35,6 +35,7 @@ Notes of what we read
 ### Hypothesis Validation
 
 - [Cong et al.: Labos: The AI-XR Co-Scientist That Sees and Works with Humans](science/hypothesis-validation/cong_labos-the-ai-xr-co-scientist-that-sees-and-works-with-humans.md)
+- [Ghareeb et al.: A multi-agent system for automating scientific discovery](science/hypothesis-validation/ghareeb_a-multi-agent-system-for-automating-scientific-discovery.md)
 ### Unsorted
 
 - [Leslie et al.: Does the Sun Rise for ChatGPT? Scientific Discovery in the Age of Generative AI](science/unsorted/leslie_does-the-sun-rise-for-chatgpt-scientific-discovery-in-the-age-of-generative-ai.md)
