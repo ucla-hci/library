@@ -5,7 +5,7 @@
 
 > Cognitive science encompasses at least six fields: psychology, neuroscience, linguistics, anthropology, philosophy, and artificial intelligence.
 
-## What is the Cognitive Science of Science
+## I. What is the Cognitive Science of Science
 
 ### The importance of supporting science
 > Science is one of the greatest achievements of human civilization, contributing both to the acquisition of knowledge and to people's well-being through technological advances in areas from medicine to electronics.
@@ -15,3 +15,45 @@
 
 ### Computer modeling informs our understanding of cognition
 > ... thinking about how to write a computer program in a familiar programming language enables a cognitive scientist to express and develop ideas about what parts and interactions might be responsible for some psychological phenomena. Hence the development of cognitive theories, models, and programs is a highly interactive process in which theories stimulate the production of programs and vice versa.
+
+## II. Explanation & Justification
+
+### Explanation is part of abduction
+> ... explanation is a key aspect of justifying the acceptance of hypotheses and theories. If theory choice is governed by inference to the best explanation, ..., then explanation is directly relevant to the question of what theories we should accept as true.
+
+### The three major processes of explanation
+1. providing an explanation from available information
+2. generating new hypotheses that provide explanations, and
+3. evaluating competing explanations.
+
+### The four major theoretical approaches of explanation
+1. deductive, using logic or rule-based systems;
+2. schematic, using explanation patterns or analogies;
+3. probabilistic, using Bayesian networks; and
+4. Neural, using networks of artificial neurons.
+
+### Deductive vs. schematic approaches of explanation
+Deductive:
+```
+Anyone with influenza has fever, aches, and cough.
+You have influenza.
+So, you have fever, aches, and cough
+```
+
+Schematic:
+```
+Explanatory pattern: Typically, influenza causes fever, aches, and cough
+Explanatory target: You have fever, aches, and cough
+Schema instantiation: Maybe you have influenza.
+```
+
+The key difference is that
+> ... the relation between explainers (i.e., the explanation) and the explanatory target (i.e., what the explanation tries to explain) is looser than logical deduction.
+
+### The probabilistic approach of explanation
+> A target can be explained by specifying that it is probable given the state of affairs described by the explainers.
+
+```
+The probability of having fever, aches, and coughs given finluenza is high.
+So influenza explains why you have fever, aches, and cough.
+```
