@@ -6,6 +6,7 @@ Organizes papers by directory (section) with bullet points for each file.
 
 import os
 from pathlib import Path
+from urllib.parse import quote
 
 def get_title_from_file(filepath):
     """Extract the first # heading from a markdown file."""
@@ -21,8 +22,9 @@ def get_title_from_file(filepath):
     return filepath.stem.replace('_', ' ')
 
 def get_relative_path(filepath, repo_root):
-    """Get relative path from repo root to file."""
-    return str(Path(filepath).relative_to(repo_root))
+    """Get a safe, URL-encoded relative path for Markdown links."""
+    rel_path = Path(filepath).relative_to(repo_root)
+    return quote(str(rel_path), safe='/%')
 
 def generate_readme(repo_root):
     """Generate README content from paper notes structure."""
