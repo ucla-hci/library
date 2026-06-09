@@ -54,6 +54,35 @@ The key difference is that
 > A target can be explained by specifying that it is probable given the state of affairs described by the explainers.
 
 ```
-The probability of having fever, aches, and coughs given finluenza is high.
+The probability of having fever, aches, and coughs given influenza is high.
 So influenza explains why you have fever, aches, and cough.
 ```
+
+### A nice formalization of deduction
+
+```
+C1, C2, ..., Ck
+L1, L2, ..., Lr
+---
+E
+```
+
+> Here the Cs are sentences describing particular facts, the Ls are general laws, and E is the sentence explained by virtue of being a logical consequence of the other sentences.
+
+### Criteria for the best explanations
+> ... consilience, which is a measure of how much a hypothesis explains;
+
+> simplicity, which is a measure of how few additional assumptions a hypothesis needs to carry out an explanation; and
+
+> analogy, which favors hypotheses whose explanations are analogous to accepted ones.
+
+
+## III. Discovery and Creativity
+
+### Creativity includes scientific discovery?
+> ... the study of scientific discovery is part of the larger enterprise of investigating creativity in general
+
+> It is an interesting question whether the same cognitive processes are involved in the creative leaps in scientific discovery, technological invention, artistic imagination, and social innovation
+
+### Historical context of hypothesis generation
+> Much subsequent work by computer scientists has looked at processes by which computers and people can generate new hypotheses ... There is even a Robot Scientist that tests hypotheses as well as generating them.

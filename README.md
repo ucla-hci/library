@@ -12,6 +12,13 @@ Notes of what we read
 
 - [Licklider et al.: Man-Computer Symbiosis](classics/licklider_man-computer-symbiosis.md)
 
+## Genui
+
+### Pattern Genui
+
+- [Borchers — A pattern approach to interaction design](genui/pattern-genui/Borchers — A pattern approach to interaction desig 2140b2facd298086a40ed0746c2548a5.md)
+- [Folmer — nteraction Design Patterns. Interaction Design Foundation](genui/pattern-genui/Folmer — nteraction Design Patterns Interaction De 1c10b2facd2980d9be26dd9bcbbf616f.md)
+
 ## Science
 
 ### Collaboration
