@@ -25,6 +25,7 @@ Notes of what we read
 
 - [Abdel-Rehim et al.: Scientific Hypothesis Generation by Large Language Models](computationa-scientific-discovery/hypothesis-generation/abdel-rehim_scientific-hypothesis-generation-by-large-language-models.md)
 - [Garikaparthi et al.: IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery](computationa-scientific-discovery/hypothesis-generation/garikaparthi_iris-interactive-research-ideation-system-for-accelerating-scientific-discovery.md)
+- [Gottweis et al.: Accelerating scientific discovery with Co-Scientist](computationa-scientific-discovery/hypothesis-generation/gottweis_accelerating-scientific-discovery-with-co-scientist.md)
 - [Josephson & Josephson: Abductive Inference - Chapter 1. Concept analysis of abduction](computationa-scientific-discovery/hypothesis-generation/josephson_abductive-inference.md)
 - [Lin et al.: HypoBench: Towards Systematic and Principled Benchmarking for Hypothesis Generation](computationa-scientific-discovery/hypothesis-generation/lin_hypobench.md)
 - [Liu et al.: Literature Meets Data: A Synergistic Approach to Hypothesis Generation](computationa-scientific-discovery/hypothesis-generation/liu_literature-meets-data.md)
