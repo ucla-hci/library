@@ -76,6 +76,7 @@ Notes of what we read
 - [Wang et al. — TargetHunter An In Silico Target Identification Tool for Predicting Therapeutic](computational-scientific-discovery/unsorted/Wang%20et%20al%20%E2%80%94%20TargetHunter%20An%20In%20Silico%20Target%20Iden%202525f1c171664fa49e3d227001b9f72c.md)
 - [Williams et al. — Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases](computational-scientific-discovery/unsorted/Williams%20et%20al%20%E2%80%94%20Cheaper%20faster%20drug%20development%20v%201130b2facd2980228f42fc501116791a.md)
 - [Magnani et al.: Creative Processes in Scientific Discovery](computational-scientific-discovery/unsorted/magnani_creative-processes-in-scientific-discovery.md)
+- [Pun et al.: Target identification and assessment in the era of AI](computational-scientific-discovery/unsorted/pun_target-identification-and-assessment-in-the-era-of-ai.md)
 - [Shao et al.: SciSciGPT: advancing human–AI collaboration in the science of science](computational-scientific-discovery/unsorted/shao_sciscigpt.md)
 
 ## Genui
@@ -89,5 +90,4 @@ Notes of what we read
 
 - [Béchard: The next AI revolution could start with world models](unsorted/bechard_next-ai-world-models.md)
 - [Feng et al.: Cocoa: Co-Planning and Co-Execution with AI Agents](unsorted/feng_cocoa-coplanning-coexecution-with-ai-agents.md)
-- [Pun et al.: Target identification and assessment in the era of AI](unsorted/pun_target-identification-and-assessment-in-the-era-of-ai.md)
 - [Zeng et al.: MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents](unsorted/zeng_mementogui.md)
