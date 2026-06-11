@@ -86,3 +86,26 @@ E
 
 ### Historical context of hypothesis generation
 > Much subsequent work by computer scientists has looked at processes by which computers and people can generate new hypotheses ... There is even a Robot Scientist that tests hypotheses as well as generating them.
+
+### What is human creativity?
+> We propose that human creativity requires the combination of previously unconnected mental representations constituted by patterns of neural activity.
+
+Specifically---
+> 1. Creativity results from novel combinations of representations
+> 2. In humans, mental representations are patterns of neural activity
+> 3. Neural representations are multimodal, encompassing information that can be visual, auditory, tactile, olfactory, gustatory, knesthetic, and emotional, as well as verbal.
+> 4. Neural representations are combined by convolution, a kind of twisting together of existing representations
+> 5. The causes of creative activity reside not just in psychological and neural mechanisms, but also in social and molecular mechanisms
+
+### Examples of creativity being a marriage of two disparate concepts
+> Many scientific discoveries can be understood as instances of conceptual combination, in which new theoretical concepts arise by putting together old ones.
+
+Example: voice + water wave = sound wave
+> The concept of sound and wave are part of everyday thinking connecting phenomena such as voice and water waves.
+
+Example: breeders' selection + natural survival = natural selection
+> ... Darwin combined familiar ideas about selection done by breeders with the natural process of struggle for survival among animals to generate the mechanism of natural selection
+
+
+### Neural activity is sensory-invariant
+> In addition to words and other linguistic structures, the creative mind can employ a full range of sensory modalities derived from sight, hearing, touch, smell, taste, and motor control
