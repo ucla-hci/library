@@ -106,6 +106,15 @@ Example: voice + water wave = sound wave
 Example: breeders' selection + natural survival = natural selection
 > ... Darwin combined familiar ideas about selection done by breeders with the natural process of struggle for survival among animals to generate the mechanism of natural selection
 
+### Combination to achieve novelty is a general phenomenon
+> ... as an instance of the ubiquitous "binding problem" ... first recognized in studies of perception, where it is problematic how the brain manages to integrate various features of an object into a unified representation.
 
 ### Neural activity is sensory-invariant
 > In addition to words and other linguistic structures, the creative mind can employ a full range of sensory modalities derived from sight, hearing, touch, smell, taste, and motor control
+
+### Hebb's theory of *Eureka!* moments
+> Combination produces a new scientific idea that sets off a new sequence of ideas and constitutes a different way of seeing the problem situation by reorienting the whole pattern of cortical activity. The new combination of ideas that result from the connection of cell-assemblies forms a functional system that ecites the arousal system, producing the *Eureka!* emotional effect.
+
+Another related theory:
+> When two representations are combined by convolution into a new one, the brain aytomatically performs an evaluation of the relevance of the new representation to its goals ... no emotional reaction to mundane combinations ... But some combinations are surprising ...
+
