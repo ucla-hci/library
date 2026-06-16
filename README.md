@@ -20,6 +20,8 @@ Notes of what we read
 - [Katz et al.: What Is Research Collaboration?](computational-scientific-discovery/collaboration/katz_what-is-research-collaboration.md)
 ### General
 
+- [Chen et al. — Towards an explanatory and computational theory of scientific discovery](computational-scientific-discovery/general/Chen%20et%20al%20%E2%80%94%20Towards%20an%20explanatory%20and%20computatio%2049631e6cb4054d3197be32caf5123009.md)
+- [Deelman et al.: The future of scientific workflows](computational-scientific-discovery/general/deelman_the-future-of-scientific-workflows.md)
 - [Leslie et al.: Does the Sun Rise for ChatGPT? Scientific Discovery in the Age of Generative AI](computational-scientific-discovery/general/leslie_does-the-sun-rise-for-chatgpt-scientific-discovery-in-the-age-of-generative-ai.md)
 ### Hypothesis Generation
 
@@ -43,7 +45,6 @@ Notes of what we read
 - [Ghareeb et al.: A multi-agent system for automating scientific discovery](computational-scientific-discovery/hypothesis-validation/ghareeb_a-multi-agent-system-for-automating-scientific-discovery.md)
 ### Unsorted
 
-- [Chen et al. — Towards an explanatory and computational theory of scientific discovery](computational-scientific-discovery/unsorted/Chen%20et%20al%20%E2%80%94%20Towards%20an%20explanatory%20and%20computatio%2049631e6cb4054d3197be32caf5123009.md)
 - [Cheng et al. — Artificial intelligence and open science in discovery of disease-modifying medicines for Alzheimer’s disease](computational-scientific-discovery/unsorted/Cheng%20et%20al%20%E2%80%94%20Artificial%20intelligence%20and%20open%20sci%2017e0b2facd2980f4ac24fa9bf4e3eb42.md)
 - [D’Agostino McGowan, Peng, and Hicks — Design Principles for Data Analysis](computational-scientific-discovery/unsorted/D%E2%80%99Agostino%20McGowan%2C%20Peng%2C%20and%20Hicks%20%E2%80%94%20Design%20Princ%202324422fa6be409eb0257b3fbd49d5e7.md)
 - [D’Agostino McGowan, Peng, and Hicks — Evaluating the Alignment of a Data Analysis between Analyst and Audience](computational-scientific-discovery/unsorted/D%E2%80%99Agostino%20McGowan%2C%20Peng%2C%20and%20Hicks%20%E2%80%94%20Evaluating%20t%2091a2c4ac5aec4bb98352b784e6af61a3.md)
@@ -89,6 +90,5 @@ Notes of what we read
 ## Unsorted
 
 - [Béchard: The next AI revolution could start with world models](unsorted/bechard_next-ai-world-models.md)
-- [Deelman et al.: The future of scientific workflows](unsorted/deelman_the-future-of-scientific-workflows.md)
 - [Feng et al.: Cocoa: Co-Planning and Co-Execution with AI Agents](unsorted/feng_cocoa-coplanning-coexecution-with-ai-agents.md)
 - [Zeng et al.: MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents](unsorted/zeng_mementogui.md)
