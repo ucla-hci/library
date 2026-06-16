@@ -89,5 +89,6 @@ Notes of what we read
 ## Unsorted
 
 - [Béchard: The next AI revolution could start with world models](unsorted/bechard_next-ai-world-models.md)
+- [Deelman et al.: The future of scientific workflows](unsorted/deelman_the-future-of-scientific-workflows.md)
 - [Feng et al.: Cocoa: Co-Planning and Co-Execution with AI Agents](unsorted/feng_cocoa-coplanning-coexecution-with-ai-agents.md)
 - [Zeng et al.: MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents](unsorted/zeng_mementogui.md)

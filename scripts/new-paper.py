@@ -1,6 +1,12 @@
 #!/usr/bin/env python3
 """
 Create a new paper note from _template.md in the root unsorted directory.
+
+Usage:
+    scripts/new-paper.py "Author" "Paper Title"
+
+Example:
+    scripts/new-paper.py "Thagard" "The Cognitive Science of Science"
 """
 
 import argparse
