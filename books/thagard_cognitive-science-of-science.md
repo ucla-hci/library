@@ -118,3 +118,32 @@ Example: breeders' selection + natural survival = natural selection
 Another related theory:
 > When two representations are combined by convolution into a new one, the brain aytomatically performs an evaluation of the relevance of the new representation to its goals ... no emotional reaction to mundane combinations ... But some combinations are surprising ...
 
+### Decomposing the "Aha!" moment
+> ... the Aha! experience requires a triple convolution, binding
+> (1) two representations into an original one,
+> (2) cognitive appraisal and physiological perception into a combined assessment of significance, and
+> (3) the combined representation and the integrated cognitive/physiological emotional response into a unified representation (pattern of neural activity) of the creative representation and its emotional value.
+
+> ... all these processes take place concurrently, with a constant flow of activation among the regions of the brain crucial for different kinds of cognition, perception, and emotion.
+
+```mermaid
+flowchart LR
+    C1[Concept 1] -- convolute --> CC[Combined concept]
+    C2[Concept 2] -- convolute --> CC
+
+    A[Appraisal] -- convolute --> ER[Emotional reaction]
+    P[Physiology] -- convolute --> ER
+
+    CC -- convolute --> AH[Aha!]
+    ER -- convolute --> AH
+```
+### Combinatorial conjecture
+> ... all creativity, including scientific discovery and technological invention, results from combinations of mental representations.
+
+### Welling's four creative processes
+- application of existing knowledge,
+- analogy,
+- combination of concepts, and
+- abstraction
+
+Each of these processes involves combining concepts: the first three are obvious; abstraction isn't. But we can think of abstraction is combining seemingly disparate instances to develop a common representation.

@@ -1,6 +1,6 @@
 https://www.nature.com/articles/s41586-024-07146-0
 
-symbiotic computing for science:
+Computational scientific discovery
 https://academic.oup.com/qje/article-abstract/139/2/751/7515309?redirectedFrom=fulltext
 https://dl.acm.org/doi/10.1145/2623330.2623667
 https://www.nature.com/articles/s41586-026-10652-y
@@ -10,6 +10,7 @@ https://arxiv.org/pdf/2502.18864
 https://arxiv.org/pdf/2408.06292
 https://arxiv.org/pdf/2502.09858
 https://dl.acm.org/doi/pdf/10.1145/3715336.3735789
+Dunbar (1993), Concept Discovery in a Scientific Domain
 
 genui:
 https://dl.acm.org/doi/10.1145/3772318.3791666
