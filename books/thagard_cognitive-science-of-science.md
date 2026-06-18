@@ -147,3 +147,26 @@ flowchart LR
 - abstraction
 
 Each of these processes involves combining concepts: the first three are obvious; abstraction isn't. But we can think of abstraction is combining seemingly disparate instances to develop a common representation.
+
+### Four kinds of hypotheses in medical discovery
+> - hypotheses about basic biological processes relevant to health;
+> - hypotheses about the causes of disease;
+> - hypotheses about the treatment of disease;
+> - hypotheses about how physical instruments can contribute to the diagnosis and treatment.
+
+### Relationship among these medical hypotheses
+> It might seem that the most rational way for medicine to progress would be from basic biological understanding to knowledge of the causes of a disease to treatments for the disease. Often, however, effective treatments have been found long before deep understanding of the biological processes they affect.
+
+### Abduction in medical diagnosis
+```
+Anomaly: People have disease D with symptoms S.
+Hypothesis: Cause C can produce S.
+Inference: So maybe C is the explanation of D.
+```
+
+A concrete example of the above--
+```
+Anomaly: People have cholera with symptoms of diarrhea, etc.
+Hypothesis: Infection by a bacterium might cause such symptoms
+Inference: So maybe bacteria infection is the explanation of cholera
+```
