@@ -24,6 +24,7 @@ Notes of what we read
 ### General
 
 - [Chen et al. — Towards an explanatory and computational theory of scientific discovery](computational-scientific-discovery/general/Chen%20et%20al%20%E2%80%94%20Towards%20an%20explanatory%20and%20computatio%2049631e6cb4054d3197be32caf5123009.md)
+- [D’Agostino McGowan, Peng, and Hicks — Design Principles for Data Analysis](computational-scientific-discovery/general/D%E2%80%99Agostino%20McGowan%2C%20Peng%2C%20and%20Hicks%20%E2%80%94%20Design%20Princ%202324422fa6be409eb0257b3fbd49d5e7.md)
 - [Deelman et al.: The future of scientific workflows](computational-scientific-discovery/general/deelman_the-future-of-scientific-workflows.md)
 - [Leslie et al.: Does the Sun Rise for ChatGPT? Scientific Discovery in the Age of Generative AI](computational-scientific-discovery/general/leslie_does-the-sun-rise-for-chatgpt-scientific-discovery-in-the-age-of-generative-ai.md)
 ### Hypothesis Generation
@@ -48,7 +49,6 @@ Notes of what we read
 - [Ghareeb et al.: A multi-agent system for automating scientific discovery](computational-scientific-discovery/hypothesis-validation/ghareeb_a-multi-agent-system-for-automating-scientific-discovery.md)
 ### Unsorted
 
-- [D’Agostino McGowan, Peng, and Hicks — Design Principles for Data Analysis](computational-scientific-discovery/unsorted/D%E2%80%99Agostino%20McGowan%2C%20Peng%2C%20and%20Hicks%20%E2%80%94%20Design%20Princ%202324422fa6be409eb0257b3fbd49d5e7.md)
 - [D’Agostino McGowan, Peng, and Hicks — Evaluating the Alignment of a Data Analysis between Analyst and Audience](computational-scientific-discovery/unsorted/D%E2%80%99Agostino%20McGowan%2C%20Peng%2C%20and%20Hicks%20%E2%80%94%20Evaluating%20t%2091a2c4ac5aec4bb98352b784e6af61a3.md)
 - [Feger et al. —  Gamification in Science: A Study of Requirements in the Context of Reproducible Research](computational-scientific-discovery/unsorted/Feger%20et%20al%20%E2%80%94%20Gamification%20in%20Science%20A%20Study%20of%20R%203fdf18a0bb6649c788e49ccbf790650e.md)
 - [Feger et al. —  ‘Yes, I comply!’: Motivations and Practices around Research Data Management and Reuse across Scientific Fields](computational-scientific-discovery/unsorted/Feger%20et%20al%20%E2%80%94%20%E2%80%98Yes%2C%20I%20comply%21%E2%80%99%20Motivations%20and%20Pra%204949ca5c2f36451dbd3dfd955291fb14.md)
