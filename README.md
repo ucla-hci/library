@@ -40,6 +40,7 @@ Notes of what we read
 - [Nigam et al.: An interactive co-pilot for accelerated research ideation](computational-scientific-discovery/hypothesis-generation/nigam_an-interactive-copilot-for-accelerated-research-ideation.md)
 - [Pu et al.: IdeaSynth: Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback](computational-scientific-discovery/hypothesis-generation/pu_ideasynth.md)
 - [Sourati et al.: Accelerating Science with Human-Aware Artificial Intelligence](computational-scientific-discovery/hypothesis-generation/sourati_accelerating-science-with-human-aware-artificial-intelligence.md)
+- [Valdes-Perez et al.: Principles of human-computer collaboration for knowledge discovery in science](computational-scientific-discovery/hypothesis-generation/valdes-perez_principles-of-human-computer-collaboration-for-knowledge-discovery-in-science.md)
 - [Yu et al.: Unlocking the Potential of AI Researchers in Scientific Discovery: What Is Missing?](computational-scientific-discovery/hypothesis-generation/yu_unlocking-the-potential-of-ai-researchers-in-scientific-discovery.md)
 - [Zenil et al.: The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence](computational-scientific-discovery/hypothesis-generation/zenil_the-future-of-fundamental-science-led-by-generative-closed-loop-artificial-intelligence.md)
 - [Zhou et al.: Hypothesis Generation with Large Language Models](computational-scientific-discovery/hypothesis-generation/zhou_hypothesis-generation-with-large-langauge-models.md)
