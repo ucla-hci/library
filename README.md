@@ -25,6 +25,7 @@ Notes of what we read
 
 - [Chen et al. — Towards an explanatory and computational theory of scientific discovery](computational-scientific-discovery/general/Chen%20et%20al%20%E2%80%94%20Towards%20an%20explanatory%20and%20computatio%2049631e6cb4054d3197be32caf5123009.md)
 - [D’Agostino McGowan, Peng, and Hicks — Design Principles for Data Analysis](computational-scientific-discovery/general/D%E2%80%99Agostino%20McGowan%2C%20Peng%2C%20and%20Hicks%20%E2%80%94%20Design%20Princ%202324422fa6be409eb0257b3fbd49d5e7.md)
+- [Stanford Philosophy Department — Scientific Discovery](computational-scientific-discovery/general/Stanford%20Philosophy%20Department%20%E2%80%94%20Scientific%20Discov%20090a5c887f904fa88888bfd4abe635f0.md)
 - [Deelman et al.: The future of scientific workflows](computational-scientific-discovery/general/deelman_the-future-of-scientific-workflows.md)
 - [Leslie et al.: Does the Sun Rise for ChatGPT? Scientific Discovery in the Age of Generative AI](computational-scientific-discovery/general/leslie_does-the-sun-rise-for-chatgpt-scientific-discovery-in-the-age-of-generative-ai.md)
 ### Hypothesis Generation
@@ -48,9 +49,11 @@ Notes of what we read
 
 - [Cong et al.: Labos: The AI-XR Co-Scientist That Sees and Works with Humans](computational-scientific-discovery/hypothesis-validation/cong_labos-the-ai-xr-co-scientist-that-sees-and-works-with-humans.md)
 - [Ghareeb et al.: A multi-agent system for automating scientific discovery](computational-scientific-discovery/hypothesis-validation/ghareeb_a-multi-agent-system-for-automating-scientific-discovery.md)
+### Random
+
+- [D’Agostino McGowan, Peng, and Hicks — Evaluating the Alignment of a Data Analysis between Analyst and Audience](computational-scientific-discovery/random/D%E2%80%99Agostino%20McGowan%2C%20Peng%2C%20and%20Hicks%20%E2%80%94%20Evaluating%20t%2091a2c4ac5aec4bb98352b784e6af61a3.md)
 ### Unsorted
 
-- [D’Agostino McGowan, Peng, and Hicks — Evaluating the Alignment of a Data Analysis between Analyst and Audience](computational-scientific-discovery/unsorted/D%E2%80%99Agostino%20McGowan%2C%20Peng%2C%20and%20Hicks%20%E2%80%94%20Evaluating%20t%2091a2c4ac5aec4bb98352b784e6af61a3.md)
 - [Feger et al. —  Gamification in Science: A Study of Requirements in the Context of Reproducible Research](computational-scientific-discovery/unsorted/Feger%20et%20al%20%E2%80%94%20Gamification%20in%20Science%20A%20Study%20of%20R%203fdf18a0bb6649c788e49ccbf790650e.md)
 - [Feger et al. —  ‘Yes, I comply!’: Motivations and Practices around Research Data Management and Reuse across Scientific Fields](computational-scientific-discovery/unsorted/Feger%20et%20al%20%E2%80%94%20%E2%80%98Yes%2C%20I%20comply%21%E2%80%99%20Motivations%20and%20Pra%204949ca5c2f36451dbd3dfd955291fb14.md)
 - [Gil — Thoughtful artificial intelligence: Forging a new partnership for data science and scientific discovery](computational-scientific-discovery/unsorted/Gil%20%E2%80%94%20Thoughtful%20artificial%20intelligence%20Forging%20a%20305d6e6e02d4435d8a703a1292c0d18a.md)
@@ -75,7 +78,6 @@ Notes of what we read
 - [Simon — Scientific discovery as problem solving: reply to critics](computational-scientific-discovery/unsorted/Simon%20%E2%80%94%20Scientific%20discovery%20as%20problem%20solving%20re%2059ef68e21d6b4f61bc519acf5c0022b8.md)
 - [Simon — The Theory of Scientific Discovery](computational-scientific-discovery/unsorted/Simon%20%E2%80%94%20The%20Theory%20of%20Scientific%20Discovery%20115938b3d4594515a3d4b41f4c84d347.md)
 - [Singer et al. — On biases of attention in scientific discovery](computational-scientific-discovery/unsorted/Singer%20et%20al%20%E2%80%94%20On%20biases%20of%20attention%20in%20scientifi%2030ad9854f5884c0e9fb5929d6234be82.md)
-- [Stanford Philosophy Department — Scientific Discovery](computational-scientific-discovery/unsorted/Stanford%20Philosophy%20Department%20%E2%80%94%20Scientific%20Discov%20090a5c887f904fa88888bfd4abe635f0.md)
 - [Taylor et al. — At the interface of biology and computation](computational-scientific-discovery/unsorted/Taylor%20et%20al%20%E2%80%94%20At%20the%20interface%20of%20biology%20and%20com%201260b2facd29804eb7e5cda516d08f0b.md)
 - [Wang et al. — TargetHunter An In Silico Target Identification Tool for Predicting Therapeutic](computational-scientific-discovery/unsorted/Wang%20et%20al%20%E2%80%94%20TargetHunter%20An%20In%20Silico%20Target%20Iden%202525f1c171664fa49e3d227001b9f72c.md)
 - [Williams et al. — Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases](computational-scientific-discovery/unsorted/Williams%20et%20al%20%E2%80%94%20Cheaper%20faster%20drug%20development%20v%201130b2facd2980228f42fc501116791a.md)

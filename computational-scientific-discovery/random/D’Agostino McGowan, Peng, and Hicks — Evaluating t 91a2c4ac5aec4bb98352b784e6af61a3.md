@@ -11,13 +11,13 @@
 
 # One Sentence
 
----
+
 
 Formalize the discrepancies that might arise as analysts develop statistical analyses for analysis readers/audiences. 
 
 # More Sentences
 
----
+
 
 Frames analyses as having “producers” (analysts) and “consumers” (audience).
 
@@ -25,14 +25,13 @@ The model describes how there may be discrepancies in expectations as well as ho
 
 # Key Points
 
----
+
 
 # Other Notes
 
----
+
 
 Interesting to see how design principles can give rise to more formal treatment and inspection of data analyses. Could we do something similar for scientific discovery in some way?
 
 # Take-Away
 
----
