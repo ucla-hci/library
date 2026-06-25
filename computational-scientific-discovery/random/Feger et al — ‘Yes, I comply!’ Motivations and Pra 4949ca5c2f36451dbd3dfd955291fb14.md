@@ -16,13 +16,13 @@ intro={As science becomes increasingly data-intensive, the requirements for comp
 
 # One Sentence
 
----
+
 
 The authors introduce a stage-based model of personal RDM commitment evolution based on the five core concepts which describe requirements, drivers, and boundaries in the development of commitment for RDM, essential for generating reproducible research artifacts: Practice, Adoption, Barriers, Education, and Impact. 
 
 # More Sentences
 
----
+
 
 **Practice** reflects the diversity in terms of data collection, resource sharing, and reuse within and across diverse fields of science. Related to this core concept, participants stressed the role of data management tools and services, with particular regard to the exchange of information within and across institutes.
 
@@ -35,20 +35,18 @@ In the **Barriers** core concept, four technical key barriers are described: int
 
 # Key Points
 
----
+
 
 The model improves our understanding of how researchers transition from non-reproducible practices to sustained commitment for comprehensive RDM.
 
-![스크린샷 2024-08-13 오전 11.30.10.png](../../_assets/feger_et_al_yes_i_comply_motivations_and_pra_4949ca5c2f36451dbd3dfd955291fb14-%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2024-08-13_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%258C%25E1%2585%25A5%25E1%2586%25AB_11.30.10.png)
+![스크린샷 2024-08-13 오전 11.30.10.png](../../_assets/feger_et_al_yes_i_comply_motivations_and_pra_4949ca5c2f36451dbd3dfd955291fb14-%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-08-13_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_11.30.10.png)
 
 Supporting RDM is crucial to ensuring that research outputs are reproducible and reusable. This study emphasizes that comprehensive documentation, preservation, sharing, and reuse are essential practices for generating reproducible research results.
 
-![스크린샷 2024-08-13 오전 11.31.30.png](../../_assets/feger_et_al_yes_i_comply_motivations_and_pra_4949ca5c2f36451dbd3dfd955291fb14-%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2024-08-13_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%258C%25E1%2585%25A5%25E1%2586%25AB_11.31.30.png)
+![스크린샷 2024-08-13 오전 11.31.30.png](../../_assets/feger_et_al_yes_i_comply_motivations_and_pra_4949ca5c2f36451dbd3dfd955291fb14-%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-08-13_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_11.31.30.png)
 
 # Other Notes
 
----
+
 
 # Take-Away
-
----
