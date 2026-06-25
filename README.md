@@ -48,6 +48,7 @@ Notes of what we read
 ### Hypothesis Validation
 
 - [Cong et al.: Labos: The AI-XR Co-Scientist That Sees and Works with Humans](computational-scientific-discovery/hypothesis-validation/cong_labos-the-ai-xr-co-scientist-that-sees-and-works-with-humans.md)
+- [Gao et al.: AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation](computational-scientific-discovery/hypothesis-validation/gao_autoscientists-self-organizing-agent-teams-for-long-running-scientific-experimentation.md)
 - [Ghareeb et al.: A multi-agent system for automating scientific discovery](computational-scientific-discovery/hypothesis-validation/ghareeb_a-multi-agent-system-for-automating-scientific-discovery.md)
 ### Random
 
@@ -96,6 +97,5 @@ Notes of what we read
 
 - [Béchard: The next AI revolution could start with world models](unsorted/bechard_next-ai-world-models.md)
 - [Feng et al.: Cocoa: Co-Planning and Co-Execution with AI Agents](unsorted/feng_cocoa-coplanning-coexecution-with-ai-agents.md)
-- [Gao et al.: AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation](unsorted/gao_autoscientists-self-organizing-agent-teams-for-long-running-scientific-experimentation.md)
 - [Ludwig et al.: Machine Learning as a Tool for Hypothesis Generation](unsorted/ludwig_machine-learning-as-a-tool-for-hypothesis-generation.md)
 - [Zeng et al.: MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents](unsorted/zeng_mementogui.md)
