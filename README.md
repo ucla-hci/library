@@ -96,5 +96,6 @@ Notes of what we read
 
 - [Béchard: The next AI revolution could start with world models](unsorted/bechard_next-ai-world-models.md)
 - [Feng et al.: Cocoa: Co-Planning and Co-Execution with AI Agents](unsorted/feng_cocoa-coplanning-coexecution-with-ai-agents.md)
+- [Gao et al.: AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation](unsorted/gao_autoscientists-self-organizing-agent-teams-for-long-running-scientific-experimentation.md)
 - [Ludwig et al.: Machine Learning as a Tool for Hypothesis Generation](unsorted/ludwig_machine-learning-as-a-tool-for-hypothesis-generation.md)
 - [Zeng et al.: MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents](unsorted/zeng_mementogui.md)

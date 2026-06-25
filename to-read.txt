@@ -7,6 +7,8 @@ https://www.nature.com/articles/s41586-026-10652-y
 https://www.nature.com/articles/s41586-026-10644-y
 https://www.nature.com/articles/s41586-023-06792-0
 https://arxiv.org/pdf/2502.18864
+https://arxiv.org/abs/2502.13138
+https://github.com/karpathy/autoresearch
 https://arxiv.org/pdf/2408.06292
 https://arxiv.org/pdf/2502.09858
 https://dl.acm.org/doi/pdf/10.1145/3715336.3735789
@@ -19,3 +21,11 @@ https://arxiv.org/pdf/2509.16779
 
 others:
 https://www.tandfonline.com/doi/pdf/10.1207/s15327051hci1302_1?casa_token=4PUjU5R9TP4AAAAA:7qd9V4hYqopm49gjMXcWRfeI9xJqNUU8i8BelSiqDP0MKMM-7Lh_JxNWcgFdso_dsAZOguPkEBR0yxo
+
+1. Autoresearch (Karpathy, 2026) - must-read baseline because this paper repeatedly contrasts against its single-agent, single-trajectory loop, especially on GPT nanochat.
+2. AIDE (Jiang et al., 2025) - another key single-agent/code-exploration baseline; useful for understanding what AutoScientists claims to improve over.
+3. Towards an AI Co-Scientist (Gottweis et al., 2025) - closest conceptual neighbor for hypothesis generation, debate, and refinement in scientific discovery.
+4. BioML-Bench (Miller et al., 2025) - important if judging the benchmark/evaluation side rather than the agent architecture itself.
+5. Biomni (Huang et al., 2025) and STELLA (Jin et al., 2026) - relevant biomedical-agent baselines used in the BioML-Bench comparison.
+6. Agent Laboratory (Schmidgall et al., 2025) and AstaBench (Bragg et al., 2025) - useful for the broader "agents as research assistants / scientific benchmark" context.
+7. The Virtual Lab (Swanson et al., 2025), ROBIN (Ghareeb et al., 2025), and CASCADE / AlphaEvolve / AI-Researcher style systems - worth skimming for alternative multi-agent or code-evolution approaches, but less central to the specific AutoScientists claim than AIDE, Autoresearch, and AI Co-Scientist.
