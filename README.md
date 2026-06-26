@@ -53,10 +53,10 @@ Notes of what we read
 ### Random
 
 - [D’Agostino McGowan, Peng, and Hicks — Evaluating the Alignment of a Data Analysis between Analyst and Audience](computational-scientific-discovery/random/D%E2%80%99Agostino%20McGowan%2C%20Peng%2C%20and%20Hicks%20%E2%80%94%20Evaluating%20t%2091a2c4ac5aec4bb98352b784e6af61a3.md)
+- [Feger et al. —  Gamification in Science: A Study of Requirements in the Context of Reproducible Research](computational-scientific-discovery/random/Feger%20et%20al%20%E2%80%94%20Gamification%20in%20Science%20A%20Study%20of%20R%203fdf18a0bb6649c788e49ccbf790650e.md)
 - [Feger et al. —  ‘Yes, I comply!’: Motivations and Practices around Research Data Management and Reuse across Scientific Fields](computational-scientific-discovery/random/Feger%20et%20al%20%E2%80%94%20%E2%80%98Yes%2C%20I%20comply%21%E2%80%99%20Motivations%20and%20Pra%204949ca5c2f36451dbd3dfd955291fb14.md)
 ### Unsorted
 
-- [Feger et al. —  Gamification in Science: A Study of Requirements in the Context of Reproducible Research](computational-scientific-discovery/unsorted/Feger%20et%20al%20%E2%80%94%20Gamification%20in%20Science%20A%20Study%20of%20R%203fdf18a0bb6649c788e49ccbf790650e.md)
 - [Gil — Thoughtful artificial intelligence: Forging a new partnership for data science and scientific discovery](computational-scientific-discovery/unsorted/Gil%20%E2%80%94%20Thoughtful%20artificial%20intelligence%20Forging%20a%20305d6e6e02d4435d8a703a1292c0d18a.md)
 - [Gil — Will AI write scientific papers in the future?](computational-scientific-discovery/unsorted/Gil%20%E2%80%94%20Will%20AI%20write%20scientific%20papers%20in%20the%20futur%20619386014dac4c7698b744addadd2596.md)
 - [Grolemund & Wickham - A cognitive interpretation of data analysis](computational-scientific-discovery/unsorted/Grolemund%20%26%20Wickham%20-%20A%20cognitive%20interpretation%20o%20e39e8e58d35247198756bcd8a5c99645.md)

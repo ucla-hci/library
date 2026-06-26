@@ -13,19 +13,19 @@
 
 # One Sentence
 
----
+
 
 This paper proposes an interface to support the reproducibility of science by applying gamification theory, allowing researchers to explore **creative approaches** based on accurate verification of past research (domain: High Energy Physics).
 
 # More Sentences
 
----
+
 
 The reproducibility of science is the cornerstone of scientific discovery because researchers can determine the present status of scientific discovery in their field by verifying previous works accurately. 
 
 # Key Points
 
----
+
 
 **Two Prototypes:** To encourage researchers to participate, two contrasting gamification strategies were applied in the design of interactive prototypes.
 
@@ -37,11 +37,11 @@ The reproducibility of science is the cornerstone of scientific discovery becaus
 
 # Other Notes
 
----
+
 
 # Take-Away
 
----
+
 
 Supporting the reproducibility of science can be one way to support scientific discovery (SD), given that SD involves finding new approaches based on scientific facts, and supporting reproducibility allows researchers to understand scientific facts accurately. 
 
