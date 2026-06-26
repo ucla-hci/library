@@ -92,6 +92,43 @@ Notes of what we read
 
 - [Borchers — A pattern approach to interaction design](genui/pattern-genui/Borchers%20%E2%80%94%20A%20pattern%20approach%20to%20interaction%20desig%202140b2facd298086a40ed0746c2548a5.md)
 - [Folmer — nteraction Design Patterns. Interaction Design Foundation](genui/pattern-genui/Folmer%20%E2%80%94%20nteraction%20Design%20Patterns%20Interaction%20De%201c10b2facd2980d9be26dd9bcbbf616f.md)
+### Unread
+
+- [Chung, Hong, et al. — Development and Evaluation of Emerging Design Patterns for Ubiquitous Computing](genui/unread/Chung%20%E2%80%94%20Evaluation%20Emerging%20Patterns%20Ubiquitous%20Computing%20e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6.md)
+- [Dearden & Finlay — Pattern Languages in HCI: A Critical Review](genui/unread/Dearden%20%E2%80%94%20Pattern%20Languages%20in%20HCI%20Critical%20Review%20b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7.md)
+- [Landay & Borriello — Design Patterns for Ubiquitous Computing](genui/unread/Landay%20%E2%80%94%20Design%20Patterns%20Ubiquitous%20Computing%20a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2.md)
+- [Neil — Mobile Design Pattern Gallery: UI Patterns for Smartphone Apps](genui/unread/Neil%20%E2%80%94%20Mobile%20Design%20Pattern%20Gallery%20UI%20Smartphone%20d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9.md)
+- [Nguyen et al. — Deep Learning UI Design Patterns of Mobile Apps](genui/unread/Nguyen%20%E2%80%94%20Deep%20Learning%20UI%20Design%20Patterns%20Mobile%20f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7.md)
+- [Nilsson — Design Patterns for User Interface for Mobile Applications](genui/unread/Nilsson%20%E2%80%94%20Design%20Patterns%20UI%20Mobile%20Applications%20d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5.md)
+- [Punchoojit & Hongwarittorrn — Usability Studies on Mobile UI Design Patterns: A Systematic Literature Review](genui/unread/Punchoojit%20%E2%80%94%20Usability%20Studies%20Mobile%20UI%20Design%20Patterns%20SLR%20e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0.md)
+- [Seffah — The Evolution of Design Patterns in HCI](genui/unread/Seffah%20%E2%80%94%20Evolution%20Design%20Patterns%20HCI%20b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3.md)
+- [Sinnig et al. — Bringing Formalism and Unification to HCI Design Patterns](genui/unread/Sinnig%20%E2%80%94%20Formalism%20Unification%20HCI%20Design%20Patterns%20c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4.md)
+- [Tidwell, Brewer & Valencia — Designing Interfaces: Patterns for Effective Interaction Design](genui/unread/Tidwell%20%E2%80%94%20Designing%20Interfaces%20Patterns%20Effective%20Interaction%20c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8.md)
+- [van Duyne, Landay & Hong — The Design of Sites: Patterns for Creating Winning Web Sites](genui/unread/vanDuyne%20%E2%80%94%20Design%20of%20Sites%20Patterns%20Web%20Experience%20f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1.md)
+- [van Welie & van der Veer — Pattern Languages in Interaction Design: Structure and Organization](genui/unread/vanWelie%20%E2%80%94%20Pattern%20Languages%20in%20Interaction%20Design%20a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d7.md)
+
+## Search
+
+### Hci Hypo Vali
+
+- [HCI + Hypothesis Validation — Literature Index](search/hci-hypo-vali/_index.md)
+- [Choi et al.: Concept-Driven Visual Analytics](search/hci-hypo-vali/choi_concept-driven-va.md)
+- [Choi et al.: Visual (dis)Confirmation](search/hci-hypo-vali/choi_visual-disconfirmation.md)
+- [Corvo et al.: IIComPath — Visual Analytics for Hypothesis-Driven Exploration in Computational Pathology](search/hci-hypo-vali/corvo_iicompath.md)
+- [Guo et al.: Causalvis — Visualizations for Causal Inference](search/hci-hypo-vali/guo_causalvis.md)
+- [Guo et al.: VMC — A Grammar for Visualizing Statistical Model Checks](search/hci-hypo-vali/guo_vmc-grammar-model-checks.md)
+- [Hullman & Gelman: Designing for Interactive EDA Requires Theories of Graphical Inference](search/hci-hypo-vali/hullman_graphical-inference.md)
+- [Jing et al.: VIADS — A Visual Analytic Tool to Assist Hypothesis Generation in Clinical Research](search/hci-hypo-vali/jing_viads.md)
+- [Kale et al.: EVM — Incorporating Model Checking into Exploratory Visual Analysis](search/hci-hypo-vali/kale_evm-model-checking.md)
+- [Kehrer et al.: Hypothesis Generation in Climate Research with Interactive Visual Data Exploration](search/hci-hypo-vali/kehrer_climate-hypothesis-generation.md)
+- [Klahr & Dunbar: Dual Space Search During Scientific Reasoning (SDDS)](search/hci-hypo-vali/klahr_sdds-dual-space.md)
+- [Koonchanok et al.: Data Prophecy](search/hci-hypo-vali/koonchanok_data-prophecy.md)
+- [Koonchanok et al.: Visual Belief Elicitation Reduces False Discovery](search/hci-hypo-vali/koonchanok_visual-belief-elicitation.md)
+- [Mirel & Görg: Scientists' Sensemaking when Hypothesizing about Disease Mechanisms](search/hci-hypo-vali/mirel_sensemaking-disease-hypotheses.md)
+- [scratch-pad](search/hci-hypo-vali/scratch-pad.md)
+- [Sivaraman et al.: Divisi — Interactive Search and Visualization for Scalable Exploratory Subgroup Analysis](search/hci-hypo-vali/sivaraman_divisi.md)
+- [Suh et al.: A Grammar of Hypotheses for Visualization, Data, and Analysis](search/hci-hypo-vali/suh_grammar-of-hypotheses.md)
+- [Zhang et al.: GuidedStats — Guided Statistical Workflows with Interactive Explanations and Assumption Checking](search/hci-hypo-vali/zhang_guidedstats.md)
 
 ## Unsorted
 
