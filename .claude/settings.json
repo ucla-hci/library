@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sips --cropOffset 0 0 -c 600 1530 /private/tmp/claude-502/-Users-prof-biu-dev-library/26401d52-d529-4035-8380-93a8a542b649/scratchpad/page4_full.png --out /private/tmp/claude-502/-Users-prof-biu-dev-library/26401d52-d529-4035-8380-93a8a542b649/scratchpad/page4_top600.png)",
+      "Bash(sips --cropOffset 600 0 -c 300 1530 /private/tmp/claude-502/-Users-prof-biu-dev-library/26401d52-d529-4035-8380-93a8a542b649/scratchpad/page4_full.png --out /private/tmp/claude-502/-Users-prof-biu-dev-library/26401d52-d529-4035-8380-93a8a542b649/scratchpad/page4_mid.png)",
+      "Bash(sips --cropOffset -515 0 -c 600 1530 /private/tmp/claude-502/-Users-prof-biu-dev-library/26401d52-d529-4035-8380-93a8a542b649/scratchpad/page4_full.png --out /private/tmp/claude-502/-Users-prof-biu-dev-library/26401d52-d529-4035-8380-93a8a542b649/scratchpad/page4_fig3.png)"
+    ]
+  }
+}
