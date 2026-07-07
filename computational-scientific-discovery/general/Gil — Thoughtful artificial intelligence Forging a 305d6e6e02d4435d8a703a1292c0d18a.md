@@ -26,17 +26,14 @@
 
 # One Sentence
 
----
 
 In this paper, the author describes a new class of AI with various properties supportive of the scientific discovery work.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### Human factors that hinder scientists’ work
 
@@ -55,7 +52,6 @@ AI should be able to conduct …
 
 # Other Notes
 
----
 
 Scientific discovery vs. data science
 
@@ -64,7 +60,6 @@ Scientific discovery vs. data science
 
 # Take-Away
 
----
 
 - Design SDST that targets at addressing specific human limitations (rather than realizing some workflow)
 - Occam’s razor for designing human-AI collaboration: humans are good at System I thinking and AI at System II?

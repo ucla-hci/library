@@ -25,6 +25,7 @@ Notes of what we read
 
 - [Chen et al. — Towards an explanatory and computational theory of scientific discovery](computational-scientific-discovery/general/Chen%20et%20al%20%E2%80%94%20Towards%20an%20explanatory%20and%20computatio%2049631e6cb4054d3197be32caf5123009.md)
 - [D’Agostino McGowan, Peng, and Hicks — Design Principles for Data Analysis](computational-scientific-discovery/general/D%E2%80%99Agostino%20McGowan%2C%20Peng%2C%20and%20Hicks%20%E2%80%94%20Design%20Princ%202324422fa6be409eb0257b3fbd49d5e7.md)
+- [Gil — Thoughtful artificial intelligence: Forging a new partnership for data science and scientific discovery](computational-scientific-discovery/general/Gil%20%E2%80%94%20Thoughtful%20artificial%20intelligence%20Forging%20a%20305d6e6e02d4435d8a703a1292c0d18a.md)
 - [Stanford Philosophy Department — Scientific Discovery](computational-scientific-discovery/general/Stanford%20Philosophy%20Department%20%E2%80%94%20Scientific%20Discov%20090a5c887f904fa88888bfd4abe635f0.md)
 - [Deelman et al.: The future of scientific workflows](computational-scientific-discovery/general/deelman_the-future-of-scientific-workflows.md)
 - [Leslie et al.: Does the Sun Rise for ChatGPT? Scientific Discovery in the Age of Generative AI](computational-scientific-discovery/general/leslie_does-the-sun-rise-for-chatgpt-scientific-discovery-in-the-age-of-generative-ai.md)
@@ -42,6 +43,7 @@ Notes of what we read
 - [Nigam et al.: An interactive co-pilot for accelerated research ideation](computational-scientific-discovery/hypothesis-generation/nigam_an-interactive-copilot-for-accelerated-research-ideation.md)
 - [Pu et al.: IdeaSynth: Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback](computational-scientific-discovery/hypothesis-generation/pu_ideasynth.md)
 - [Sourati et al.: Accelerating Science with Human-Aware Artificial Intelligence](computational-scientific-discovery/hypothesis-generation/sourati_accelerating-science-with-human-aware-artificial-intelligence.md)
+- [Swanson et al.: An interactive system for finding complementary literatures](computational-scientific-discovery/hypothesis-generation/swanson_an-interactive-system-for-finding-complementary-literatures.md)
 - [Valdes-Perez et al.: Principles of human-computer collaboration for knowledge discovery in science](computational-scientific-discovery/hypothesis-generation/valdes-perez_principles-of-human-computer-collaboration-for-knowledge-discovery-in-science.md)
 - [Yu et al.: Unlocking the Potential of AI Researchers in Scientific Discovery: What Is Missing?](computational-scientific-discovery/hypothesis-generation/yu_unlocking-the-potential-of-ai-researchers-in-scientific-discovery.md)
 - [Zenil et al.: The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence](computational-scientific-discovery/hypothesis-generation/zenil_the-future-of-fundamental-science-led-by-generative-closed-loop-artificial-intelligence.md)
@@ -58,7 +60,6 @@ Notes of what we read
 - [Feger et al. —  ‘Yes, I comply!’: Motivations and Practices around Research Data Management and Reuse across Scientific Fields](computational-scientific-discovery/random/Feger%20et%20al%20%E2%80%94%20%E2%80%98Yes%2C%20I%20comply%21%E2%80%99%20Motivations%20and%20Pra%204949ca5c2f36451dbd3dfd955291fb14.md)
 ### Unsorted
 
-- [Gil — Thoughtful artificial intelligence: Forging a new partnership for data science and scientific discovery](computational-scientific-discovery/unsorted/Gil%20%E2%80%94%20Thoughtful%20artificial%20intelligence%20Forging%20a%20305d6e6e02d4435d8a703a1292c0d18a.md)
 - [Gil — Will AI write scientific papers in the future?](computational-scientific-discovery/unsorted/Gil%20%E2%80%94%20Will%20AI%20write%20scientific%20papers%20in%20the%20futur%20619386014dac4c7698b744addadd2596.md)
 - [Grolemund & Wickham - A cognitive interpretation of data analysis](computational-scientific-discovery/unsorted/Grolemund%20%26%20Wickham%20-%20A%20cognitive%20interpretation%20o%20e39e8e58d35247198756bcd8a5c99645.md)
 - [Hope et al. — A Computational Inflection for Scientific Discovery](computational-scientific-discovery/unsorted/Hope%20et%20al%20%E2%80%94%20A%20Computational%20Inflection%20for%20Scient%200e09b88b233b4f229210c8e32859691e.md)
@@ -136,5 +137,4 @@ Notes of what we read
 - [Béchard: The next AI revolution could start with world models](unsorted/bechard_next-ai-world-models.md)
 - [Feng et al.: Cocoa: Co-Planning and Co-Execution with AI Agents](unsorted/feng_cocoa-coplanning-coexecution-with-ai-agents.md)
 - [Ludwig et al.: Machine Learning as a Tool for Hypothesis Generation](unsorted/ludwig_machine-learning-as-a-tool-for-hypothesis-generation.md)
-- [Swanson et al.: An interactive system for finding complementary literatures](unsorted/swanson_an-interactive-system-for-finding-complementary-literatures.md)
 - [Zeng et al.: MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents](unsorted/zeng_mementogui.md)
