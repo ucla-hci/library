@@ -22,13 +22,13 @@
 
 # One Sentence
 
----
+
 
 This paper reviews authors’ series of work of task-guided retrieval of rich information (academic publications, online forum discussions, etc.) to assist scientists’ work by helping them overcome their cognitive limitations.
 
 # More Sentences
 
----
+
 
 The two desiderata considered by this series of work:
 
@@ -40,7 +40,7 @@ The two desiderata considered by this series of work:
 
 # Key Points
 
----
+
 
 ### How human minds are the bottleneck of scientific discovery
 
@@ -60,7 +60,7 @@ The two desiderata considered by this series of work:
 
 ### An example of scientists’ bias in their work
 
-> … to identify protein-protein interactions (PPIs) … a significant “bias of locality,” where explorations of PPIs are launced more frequently from those that were most recently studied, rather than following more general prioritization of exploration.
+> … to identify protein-protein interactions (PPIs) … a significant “bias of locality,” where explorations of PPIs are launched more frequently from those that were most recently studied, rather than following more general prioritization of exploration.
 > 
 
 ### How the proposed information retrieval differs from traditional approaches
@@ -101,8 +101,7 @@ Example #4:
 
 # Other Notes
 
----
+
 
 # Take-Away
 
----

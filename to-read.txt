@@ -25,8 +25,6 @@ https://www.tandfonline.com/doi/pdf/10.1207/s15327051hci1302_1?casa_token=4PUjU5
 Carrillo et al. related readings:
 Banker et al. (2024), Machine-assisted social psychology hypothesis generation
 https://doi.org/10.1037/amp0001222
-Hope et al. (2023), A Computational Inflection for Scientific Discovery
-https://doi.org/10.1145/3576896
 Nuzzo (2015), How scientists fool themselves-and how they can stop
 https://doi.org/10.1038/526182a
 Dell'Acqua (2021), Falling asleep at the wheel: Human/AI collaboration in a field experiment on HR recruiters
