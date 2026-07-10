@@ -35,6 +35,7 @@ Notes of what we read
 
 - [Bridewell et al. — An interactive environment for the modeling and discovery of scientific knowledge](computational-scientific-discovery/hypothesis-generation/Bridewell%20et%20al%20%E2%80%94%20An%20interactive%20environment%20for%20t%201340b2facd2980a7aa04ce7b51337f2c.md)
 - [Abdel-Rehim et al.: Scientific Hypothesis Generation by Large Language Models](computational-scientific-discovery/hypothesis-generation/abdel-rehim_scientific-hypothesis-generation-by-large-language-models.md)
+- [Carrillo et al.: A Workflow for Human-Centered Machine-Assisted Hypothesis Generation](computational-scientific-discovery/hypothesis-generation/carrillo_a-workflow-for-human-centered-machine-assisted-hypothesis-generation.md)
 - [Garikaparthi et al.: IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery](computational-scientific-discovery/hypothesis-generation/garikaparthi_iris-interactive-research-ideation-system-for-accelerating-scientific-discovery.md)
 - [Gottweis et al.: Accelerating scientific discovery with Co-Scientist](computational-scientific-discovery/hypothesis-generation/gottweis_accelerating-scientific-discovery-with-co-scientist.md)
 - [Josephson & Josephson: Abductive Inference - Chapter 1. Concept analysis of abduction](computational-scientific-discovery/hypothesis-generation/josephson_abductive-inference.md)
