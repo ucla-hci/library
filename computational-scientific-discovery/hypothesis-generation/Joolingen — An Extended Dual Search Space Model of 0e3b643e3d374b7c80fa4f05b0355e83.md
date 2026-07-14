@@ -20,7 +20,7 @@ learning},
 
 # One Sentence
 
----
+
 
 - This paper discusses the decomposition of hypothesis space in scientific discovery.
     - Universal hypothesis space
@@ -28,16 +28,16 @@ learning},
     - Effective learner search space
     - Target conceptual model
     
-    ![스크린샷 2024-06-13 오후 1.31.10.png](../../_assets/joolingen_an_extended_dual_search_space_model_of_0e3b643e3d374b7c80fa4f05b0355e83-%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2024-06-13_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_1.31.10.png)
+![Diagram of the universal, learner, and effective hypothesis spaces](../../_assets/joolingen-extended-dual-search-space-hypothesis-spaces.png)
     
 
 # More Sentences
 
----
+
 
 # Key Points
 
----
+
 
 ## The decomposition of hypothesis space
 
@@ -53,11 +53,11 @@ learning},
 
 # Other Notes
 
----
+
 
 # Take-Away
 
----
+
 
 ## Applying this theory into our task (identifying protein candidates for wet-lab)
 
@@ -88,3 +88,6 @@ learning},
     - AI and Molecular similarity
         1. AI-based approach: DiffDock model
         2. Molecular similarity-based: Tanimoto coefficient (if the ligand of some protein is similar to the researchers’ ligand, the protein has high possibility of docking with the researchers’ ligand.
+
+### Motivating mapping the hypothesis space
+The theory of these spaces suggests the sheer layers of unknown, thus the need to map the hypothesis space.
