@@ -94,6 +94,7 @@ Notes of what we read
 
 - [Asdaque et al.: Novice Developers Produce Larger Review Overhead for Project Maintainers while Vibe Coding](genui/asdaque_novice-developers-produce-larger-review-overhead-for-project-maintainers-while-vibe-coding.md)
 - [Cao et al.: Generative and Malleable User Interfaces with Generative and Evolving Task-Driven Data Model](genui/cao_generative-and-malleable-user-interfaces-with-generative-and-evolving-task-driven-data-model.md)
+- [Jenkyn et al.: The Death of Prompt Engineering: Why LLM Specifications Are the New Application Code](genui/jenkyn_the-death-of-prompt-engineering-why-llm-specifications-are-the-new-application-code.md)
 
 ### Pattern Genui
 
