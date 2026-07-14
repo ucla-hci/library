@@ -24,8 +24,21 @@ It's the subtasks that might share similar nature:
 ### What scientific discover boils down to
 > Thus, for problem solving we postulate an information-processing system that creates problem representations and searches selectively through trees of intermediate situations, seeking the goal situation and using heuristics to guide its search.
 
+### A detailed formulation of scientific discovery
+Again, feels quite narrow, almost indistinguishable from modern data science?
+> The starting point for the discoveries with which we shall be concerned is a body of data and/or some scientific laws that are presumed to be already known. The goal is a new law, or pattern, that describes the data (and possible, explains them)
+
+> ... what is the criterion for testing the proposed solution to a discovery problem? In our programs the criterion simply is that the law that is discovered should fit the data set well enough
+
+### Scientific discovery is a satisficing process ...
+... verification serves to inform, not to refute
+> The function of verification procedures is not to provide scientists with unattainable certainty or uniqueness for discoveries, but to inform them about the risks they are running in committing themselves to hypotheses that have been discovered and to provide guidance that may enhance their chances of making relatively durable discoveries.
+
 ## Other Notes
 <!-- other things, not so important, but good to know -->
+
+### Historical context of hypothesis generation vs. validation
+> Since the 1930s it has often been denied that the process of discovery is a proper topic for philosophy. Karl Popper (1961), and others, banished it from the philosophy of science. Only since the mid 1970s has there been a renewal of interest in the nature of the discovery process and the logic underlying it.
 
 ## Take-Away
 <!-- critiques, ideas, actionable things, etc. -->
