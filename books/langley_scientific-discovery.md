@@ -34,11 +34,23 @@ Again, feels quite narrow, almost indistinguishable from modern data science?
 ... verification serves to inform, not to refute
 > The function of verification procedures is not to provide scientists with unattainable certainty or uniqueness for discoveries, but to inform them about the risks they are running in committing themselves to hypotheses that have been discovered and to provide guidance that may enhance their chances of making relatively durable discoveries.
 
+### This book's stance on whether there is a theory of discovery
+> On the contrary, we shall see that the scientist has reasons for what he does when he is generating new theories as well as when he is testing those already found. The efficacy ("rationality," "logicality") of the discovery or generation process is as susceptible to evaluation and criticism as is the process of verification. 
+
 ## Other Notes
 <!-- other things, not so important, but good to know -->
 
 ### Historical context of hypothesis generation vs. validation
 > Since the 1930s it has often been denied that the process of discovery is a proper topic for philosophy. Karl Popper (1961), and others, banished it from the philosophy of science. Only since the mid 1970s has there been a renewal of interest in the nature of the discovery process and the logic underlying it.
+
+### This book's view of creativity in scientific discovery
+> We have already characterized discovery as a sequence of steps, each of which represents a small advance from an initial state of knowledge to a new state (of) knowledge, and all, some, or none of which, taken individually might seem creative.
+
+### On whether statistic tests can validate theory
+> These tests are best regarded not as indications of the truth or the falsity of theories but as measures of the precision with which the data have been measured.
+
+### Why the "vulnerability" of a theory is a good thing
+> The more vulnerable a theory is to falsification (i.e., the larger the number of potentially falsifying observations) the better, for that means that we are not likely to be long deceived into thinking the theory valid if it in fact is not.
 
 ## Take-Away
 <!-- critiques, ideas, actionable things, etc. -->
