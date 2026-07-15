@@ -30,6 +30,7 @@ Notes of what we read
 - [Gil — Thoughtful artificial intelligence: Forging a new partnership for data science and scientific discovery](computational-scientific-discovery/general/Gil%20%E2%80%94%20Thoughtful%20artificial%20intelligence%20Forging%20a%20305d6e6e02d4435d8a703a1292c0d18a.md)
 - [Gil — Will AI write scientific papers in the future?](computational-scientific-discovery/general/Gil%20%E2%80%94%20Will%20AI%20write%20scientific%20papers%20in%20the%20futur%20619386014dac4c7698b744addadd2596.md)
 - [Hope et al. — A Computational Inflection for Scientific Discovery](computational-scientific-discovery/general/Hope%20et%20al%20%E2%80%94%20A%20Computational%20Inflection%20for%20Scient%200e09b88b233b4f229210c8e32859691e.md)
+- [Kang et al. —  ComLittee: Literature Discovery with Personal Elected Author Committees](computational-scientific-discovery/general/Kang%20et%20al%20%E2%80%94%20ComLittee%20Literature%20Discovery%20with%20P%209a5792decf384a3e8981fa2c7f3848e8.md)
 - [Stanford Philosophy Department — Scientific Discovery](computational-scientific-discovery/general/Stanford%20Philosophy%20Department%20%E2%80%94%20Scientific%20Discov%20090a5c887f904fa88888bfd4abe635f0.md)
 - [Deelman et al.: The future of scientific workflows](computational-scientific-discovery/general/deelman_the-future-of-scientific-workflows.md)
 - [Leslie et al.: Does the Sun Rise for ChatGPT? Scientific Discovery in the Age of Generative AI](computational-scientific-discovery/general/leslie_does-the-sun-rise-for-chatgpt-scientific-discovery-in-the-age-of-generative-ai.md)
@@ -67,7 +68,6 @@ Notes of what we read
 - [Grolemund & Wickham - A cognitive interpretation of data analysis](computational-scientific-discovery/random/Grolemund%20%26%20Wickham%20-%20A%20cognitive%20interpretation%20o%20e39e8e58d35247198756bcd8a5c99645.md)
 ### Unsorted
 
-- [Kang et al. —  ComLittee: Literature Discovery with Personal Elected Author Committees](computational-scientific-discovery/unsorted/Kang%20et%20al%20%E2%80%94%20ComLittee%20Literature%20Discovery%20with%20P%209a5792decf384a3e8981fa2c7f3848e8.md)
 - [Karpatne et al. — Theory-Guided Data Science: A New Paradigm for Scientific Discovery from Data](computational-scientific-discovery/unsorted/Karpatne%20et%20al%20%E2%80%94%20Theory-Guided%20Data%20Science%20A%20New%20%2035354a3f21bc42c4bd01aa2e903d640b.md)
 - [Khanal et al. — A natural language interface for interactively exploring ocean science data](computational-scientific-discovery/unsorted/Khanal%20et%20al%20%E2%80%94%20A%20natural%20language%20interface%20for%20in%2019f0b2facd298058bdc1dce4deeee798.md)
 - [King et al. — Functional genomic hypothesis generation and experimentation by a robot scientist](computational-scientific-discovery/unsorted/King%20et%20al%20%E2%80%94%20Functional%20genomic%20hypothesis%20generat%2001ce3eac5c0245c9a65ee21e74ad7051.md)
