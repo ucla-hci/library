@@ -19,6 +19,7 @@ Notes of what we read
 
 - [Ben-Menahem et al.: Coordinating Knowledge Creation in Multidisciplinary Teams: Evidence from Early-Stage Drug Discovery](computational-scientific-discovery/collaboration/ben-menahem_coordinating-knowledge-creation-in-multidisciplinary-teams.md)
 - [Katz et al.: What Is Research Collaboration?](computational-scientific-discovery/collaboration/katz_what-is-research-collaboration.md)
+- [Love et al.: Interpersonal relationship drive successful team science](computational-scientific-discovery/collaboration/love_interpersonal-relationship-drive-successful-team-science.md)
 ### Domain Specific
 
 - [Cheng et al. — Artificial intelligence and open science in discovery of disease-modifying medicines for Alzheimer’s disease](computational-scientific-discovery/domain-specific/Cheng%20et%20al%20%E2%80%94%20Artificial%20intelligence%20and%20open%20sci%2017e0b2facd2980f4ac24fa9bf4e3eb42.md)
