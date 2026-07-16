@@ -26,17 +26,17 @@
 
 # One Sentence
 
----
+
 
 This paper introduced a new paradigm of using scientific theories to guide the design, learning, inference, and usage of data science methods.
 
 # More Sentences
 
----
+
 
 # Key Points
 
----
+
 
 ### Why conventional data science  might be insufficient for scientific discovery
 
@@ -88,13 +88,12 @@ An example:
 
 # Other Notes
 
----
+
 
 ### A common problem in scientific domains …
-
+(Also in agreement with Simon et al.'s view of scientific discovery as problem solving)
 > … is to represent relationships among physical variables, e.g., the combustion pressure and launch velocity of a rocket or the shape of an aircraft wing and its resultant air drag.
 > 
 
 # Take-Away
 
----
