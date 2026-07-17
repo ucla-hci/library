@@ -37,3 +37,8 @@ https://static1.squarespace.com/static/604b23e38c22a96e9c78879e/t/62d5d9448d061f
 5. Biomni (Huang et al., 2025) and STELLA (Jin et al., 2026) - relevant biomedical-agent baselines used in the BioML-Bench comparison.
 6. Agent Laboratory (Schmidgall et al., 2025) and AstaBench (Bragg et al., 2025) - useful for the broader "agents as research assistants / scientific benchmark" context.
 7. The Virtual Lab (Swanson et al., 2025), ROBIN (Ghareeb et al., 2025), and CASCADE / AlphaEvolve / AI-Researcher style systems - worth skimming for alternative multi-agent or code-evolution approaches, but less central to the specific AutoScientists claim than AIDE, Autoresearch, and AI Co-Scientist.
+
+- [19] Karl Duncker and Lynne S. Lees. 1945. “On Problem-Solving.” *Psychological Monographs* 58(5), i. — The classic source for functional fixedness, relevant to the motivation for exposing scientists to unfamiliar facets.
+- [51] A. Terry Purcell and John S. Gero. 1996. “Design and Other Types of Fixation.” *Design Studies* 17(4), 363–383. — A review and experimental account of how prior examples constrain design ideation.
+- [7] Margaret A. Boden. 2004. *The Creative Mind: Myths and Mechanisms*. Routledge. — A foundational account of combinational, exploratory, and transformational creativity.
+- [56] Dean Keith Simonton. 2021. “[Scientific Creativity: Discovery and Invention as Combinatorial](https://doi.org/10.3389/fpsyg.2021.721104).” *Frontiers in Psychology* 12. — Develops the view of scientific creativity as combinations of existing components.
