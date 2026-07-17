@@ -22,7 +22,6 @@ series = {UIST '24}
 
 # One Sentence
 
----
 
 This paper describes FathomGPT—a natural language interface for scientists to explore the FathomNet image database
 
@@ -30,7 +29,6 @@ This paper describes FathomGPT—a natural language interface for scientists to 
 
 # More Sentences
 
----
 
 How LMs uniquely enable FathomGPT:
 
@@ -43,11 +41,9 @@ How LMs uniquely enable FathomGPT:
 
 # Key Points
 
----
 
 # Other Notes
 
----
 
 ### Cite this to motivate SDST
 
@@ -56,7 +52,6 @@ How LMs uniquely enable FathomGPT:
 
 # Take-Away
 
----
 
 ### Bootstrapping evaluation with some events
 

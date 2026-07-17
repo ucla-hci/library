@@ -23,6 +23,7 @@ Notes of what we read
 ### Domain Specific
 
 - [Cheng et al. — Artificial intelligence and open science in discovery of disease-modifying medicines for Alzheimer’s disease](computational-scientific-discovery/domain-specific/Cheng%20et%20al%20%E2%80%94%20Artificial%20intelligence%20and%20open%20sci%2017e0b2facd2980f4ac24fa9bf4e3eb42.md)
+- [Khanal et al. — A natural language interface for interactively exploring ocean science data](computational-scientific-discovery/domain-specific/Khanal%20et%20al%20%E2%80%94%20A%20natural%20language%20interface%20for%20in%2019f0b2facd298058bdc1dce4deeee798.md)
 ### General
 
 - [Chen et al. — Towards an explanatory and computational theory of scientific discovery](computational-scientific-discovery/general/Chen%20et%20al%20%E2%80%94%20Towards%20an%20explanatory%20and%20computatio%2049631e6cb4054d3197be32caf5123009.md)
@@ -70,7 +71,6 @@ Notes of what we read
 - [Grolemund & Wickham - A cognitive interpretation of data analysis](computational-scientific-discovery/random/Grolemund%20%26%20Wickham%20-%20A%20cognitive%20interpretation%20o%20e39e8e58d35247198756bcd8a5c99645.md)
 ### Unsorted
 
-- [Khanal et al. — A natural language interface for interactively exploring ocean science data](computational-scientific-discovery/unsorted/Khanal%20et%20al%20%E2%80%94%20A%20natural%20language%20interface%20for%20in%2019f0b2facd298058bdc1dce4deeee798.md)
 - [King et al. — Functional genomic hypothesis generation and experimentation by a robot scientist](computational-scientific-discovery/unsorted/King%20et%20al%20%E2%80%94%20Functional%20genomic%20hypothesis%20generat%2001ce3eac5c0245c9a65ee21e74ad7051.md)
 - [Klahr & Dunbar — Dual Space Search During Scientific Reasoning](computational-scientific-discovery/unsorted/Klahr%20%26%20Dunbar%20%E2%80%94%20Dual%20Space%20Search%20During%20Scientif%20ab068a86252640bca9a4045f9f78b8f6.md)
 - [Klahr & Simon - Studies of Scientific Discovery: Complementary Approaches and Convergent Fining](computational-scientific-discovery/unsorted/Klahr%20%26%20Simon%20-%20Studies%20of%20Scientific%20Discovery%20Co%20371e92e0bdaa45dc85dad99547ddbaea.md)
