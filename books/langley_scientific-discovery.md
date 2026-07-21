@@ -37,6 +37,13 @@ Again, feels quite narrow, almost indistinguishable from modern data science?
 ### This book's stance on whether there is a theory of discovery
 > On the contrary, we shall see that the scientist has reasons for what he does when he is generating new theories as well as when he is testing those already found. The efficacy ("rationality," "logicality") of the discovery or generation process is as susceptible to evaluation and criticism as is the process of verification. 
 
+### A normative theory of discovery and its connection to heuristics
+> A normative theory of discovery  would be a set of criteria for judging the efficacy and the efficiency of processes used to discover scientific theories.
+
+(Tool support actually assumes there exist such theories.)
+
+> ... normative statements can be made about the discovery process ... take the form of descriptions of good heuristics, or of evaluative statements about the relative merits of different heuristics or other methods.
+
 ## Other Notes
 <!-- other things, not so important, but good to know -->
 
