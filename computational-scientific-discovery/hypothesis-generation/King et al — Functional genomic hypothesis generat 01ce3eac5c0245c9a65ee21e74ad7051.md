@@ -27,22 +27,22 @@
 
 # One Sentence
 
----
+
 
 This paper describes an end-to-end software/hardware robot scientist that can automatically generate hypotheses, design experiments, carry out the experiments, and measure the results.
 
 # More Sentences
 
----
+
 
 ### The software platform …
 
 > … consists of background knowledge about the biological problem, a logical inference engine, hypothesis generation code (abduction), experiment selection code (deduction), and the Laboratory Information Management System (LIMS) code that integrates the whole system.
-> 
+
 
 # Key Points
 
----
+
 
 ### The gist of experiments run by the system
 
@@ -59,7 +59,13 @@ This paper describes an end-to-end software/hardware robot scientist that can au
 A hypothesis is which path is sufficient and necessary for a knock-out mutant to grow
 
 > The model infers (deduces) that a knock-out mutant will grow if, and only if, a path can be found from the input metabolites to the three aromatic amino acids. This allows the model to compute the phenotype of a particular knockout or to be used to infer missing reactions that could explain an observed phenotype (abduction).
-> 
+
+This is not a contradiction: the system uses **abduction and deduction at different stages and in opposite directions**.
+
+- **Abduction generates hypotheses:** given an observed phenotype and the background model, the system infers candidate missing reactions that *could explain* why the mutant grew or failed to grow. In shorthand: observation + background knowledge → possible explanatory hypothesis.
+- **Deduction derives predictions from each hypothesis:** once a candidate pathway/model is specified, the system works forward through it to predict whether a particular knockout mutant should grow. In shorthand: hypothesis + experimental conditions → predicted phenotype.
+
+The overall cycle is therefore: abductively propose candidate pathway models, deductively predict what each model implies for possible experiments, select and run a discriminating experiment, and use its observed result to eliminate inconsistent hypotheses. The quoted sentence describes both directions: “compute the phenotype” is deduction, whereas “infer missing reactions” is abduction.
 
 ### The importance of experiment selection
 
@@ -70,7 +76,7 @@ AI probably can’t predict the results so that experiments are unnecessary; but
 
 # Other Notes
 
----
+
 
 ### The background of the scientific field: functional genomics
 
@@ -79,7 +85,7 @@ AI probably can’t predict the results so that experiments are unnecessary; but
 
 # Take-Away
 
----
+
 
 - Does not involve human in the loop
 - To support a given scientific field, it is important to define the representation of hypothesis, thus the hypothesis space.
