@@ -119,6 +119,10 @@ Notes of what we read
 - [van Duyne, Landay & Hong — The Design of Sites: Patterns for Creating Winning Web Sites](genui/unread/vanDuyne%20%E2%80%94%20Design%20of%20Sites%20Patterns%20Web%20Experience%20f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1.md)
 - [van Welie & van der Veer — Pattern Languages in Interaction Design: Structure and Organization](genui/unread/vanWelie%20%E2%80%94%20Pattern%20Languages%20in%20Interaction%20Design%20a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d7.md)
 
+## Others
+
+- [Bødker et al.: Understanding Representation in Design](others/bdker_understanding-representation-in-design.md)
+
 ## Search
 
 ### Hci Hypo Vali
@@ -144,7 +148,6 @@ Notes of what we read
 
 ## Unsorted
 
-- [Bødker et al.: Understanding Representation in Design](unsorted/bdker_understanding-representation-in-design.md)
 - [Béchard: The next AI revolution could start with world models](unsorted/bechard_next-ai-world-models.md)
 - [Feng et al.: Cocoa: Co-Planning and Co-Execution with AI Agents](unsorted/feng_cocoa-coplanning-coexecution-with-ai-agents.md)
 - [Ludwig et al.: Machine Learning as a Tool for Hypothesis Generation](unsorted/ludwig_machine-learning-as-a-tool-for-hypothesis-generation.md)
