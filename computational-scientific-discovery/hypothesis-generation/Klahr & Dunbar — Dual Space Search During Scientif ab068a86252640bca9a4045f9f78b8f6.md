@@ -25,27 +25,32 @@
 
 # One Sentence
 
----
+
 
 This paper proposes a  theory of scientific discovery that unified two traditionally disjoint views of concept-formation vs. problem-solving as a dual-space search process: searching in the “space of rules” for a concept or solution, which is then tested on a subset from the “space of instances”. 
 
 # More Sentences
 
----
+The **hypothesis space** is the set of candidate rules that might explain how the system works, together with ways of generating, modifying, and selecting those rules. It is therefore the paper's version of the “space of rules.” A scientist can search it using prior knowledge—for example, by recalling how a similar device works—or revise it in response to evidence.
+
+The **experiment space** is the set of possible interventions or observations that could be made: which inputs to try, which variables to change, and which outcomes to inspect. It corresponds to the “space of instances,” although an experiment is more than an instance alone: it includes deliberately selecting or constructing an instance, running it, and observing the result. Scientific discovery alternates between the spaces. A hypothesis suggests an informative experiment; its result may support or reject that hypothesis, refine it, or generate a new one. Thus search can proceed from rule to instance (hypothesis testing) or from observed instances to a rule (induction).
 
 # Key Points
 
----
+
 
 ### The general, historical view of SD
 
 > … must master two related skills: knowing where to look and understanding what is seen. The first skill—*experimental design*—involves the design of experimental and observational procedures. The second skill—*hypothesis formation—*involves the formation and evaluation of theory.
-> 
+
+Here, **“where to look” means choosing where evidence should come from**, not deciding what explanation to seek. Experimental design selects the cases, variables, interventions, and measurements most likely to distinguish among possibilities—literally directing observation toward an informative part of the experiment space. **“Understanding what is seen” means giving an observation theoretical meaning**: deciding which hypothesis predicted it, whether it counts as support or disconfirmation, and what new or revised rule could explain it.
+
+The phrasing can feel backward because hypotheses plainly help determine where to look, while surprising observations can suggest what they mean or what to examine next. That intuition is correct and is central to the dual-search account. The labels describe the immediate products of the two activities—an experiment selects evidence; a hypothesis interprets evidence—not two independent stages. In SDDS they form a feedback loop: hypotheses guide experiments, experimental outcomes reshape the hypothesis space, and the revised hypotheses guide subsequent experiments. ([Klahr & Dunbar, 1988](https://www.cmu.edu/dietrich/psychology/pdf/klahr/PDFs/klahr_dunbar881.pdf))
 
 ### The two disjoint views of SD
 
 > … *concept-formation view*. The argument here is that much of scientific reasoning consists of forming new concepts on the basis of experimental evidence. … *problem-solving view*, is exemplified by … a search process similar in structure to any problem-solving task, albeit within a complex search space.
-> 
+
 
 ### The unified view of SD
 
@@ -57,7 +62,7 @@ This paper proposes a  theory of scientific discovery that unified two tradition
 > … hypotheses can be generated either from prior knowledge or by generating from the results of prior experiments.
 > 
 
-> None of hour subjects started with the correct general frame. However, once they were driven to it by earlier failed hypotheses and observation of results, they were able to form the correct hypothesis.
+> None of our subjects started with the correct general frame. However, once they were driven to it by earlier failed hypotheses and observation of results, they were able to form the correct hypothesis.
 > 
 
 ### When/who to use which: hypothesis and experiment spaces
@@ -70,7 +75,7 @@ This paper proposes a  theory of scientific discovery that unified two tradition
 
 # Other Notes
 
----
+
 
 ### Confirmation bias in designing experiments
 
@@ -89,5 +94,3 @@ This paper proposes a  theory of scientific discovery that unified two tradition
 > 
 
 # Take-Away
-
----

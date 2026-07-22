@@ -41,6 +41,7 @@ Notes of what we read
 - [Bridewell et al. — An interactive environment for the modeling and discovery of scientific knowledge](computational-scientific-discovery/hypothesis-generation/Bridewell%20et%20al%20%E2%80%94%20An%20interactive%20environment%20for%20t%201340b2facd2980a7aa04ce7b51337f2c.md)
 - [Joolingen — An Extended Dual Search Space Model of Scientific Discovery Learning](computational-scientific-discovery/hypothesis-generation/Joolingen%20%E2%80%94%20An%20Extended%20Dual%20Search%20Space%20Model%20of%200e3b643e3d374b7c80fa4f05b0355e83.md)
 - [King et al. — Functional genomic hypothesis generation and experimentation by a robot scientist](computational-scientific-discovery/hypothesis-generation/King%20et%20al%20%E2%80%94%20Functional%20genomic%20hypothesis%20generat%2001ce3eac5c0245c9a65ee21e74ad7051.md)
+- [Klahr & Dunbar — Dual Space Search During Scientific Reasoning](computational-scientific-discovery/hypothesis-generation/Klahr%20%26%20Dunbar%20%E2%80%94%20Dual%20Space%20Search%20During%20Scientif%20ab068a86252640bca9a4045f9f78b8f6.md)
 - [Abdel-Rehim et al.: Scientific Hypothesis Generation by Large Language Models](computational-scientific-discovery/hypothesis-generation/abdel-rehim_scientific-hypothesis-generation-by-large-language-models.md)
 - [Carrillo et al.: A Workflow for Human-Centered Machine-Assisted Hypothesis Generation](computational-scientific-discovery/hypothesis-generation/carrillo_a-workflow-for-human-centered-machine-assisted-hypothesis-generation.md)
 - [Garikaparthi et al.: IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery](computational-scientific-discovery/hypothesis-generation/garikaparthi_iris-interactive-research-ideation-system-for-accelerating-scientific-discovery.md)
@@ -72,7 +73,6 @@ Notes of what we read
 - [Grolemund & Wickham - A cognitive interpretation of data analysis](computational-scientific-discovery/random/Grolemund%20%26%20Wickham%20-%20A%20cognitive%20interpretation%20o%20e39e8e58d35247198756bcd8a5c99645.md)
 ### Unsorted
 
-- [Klahr & Dunbar — Dual Space Search During Scientific Reasoning](computational-scientific-discovery/unsorted/Klahr%20%26%20Dunbar%20%E2%80%94%20Dual%20Space%20Search%20During%20Scientif%20ab068a86252640bca9a4045f9f78b8f6.md)
 - [Klahr & Simon - Studies of Scientific Discovery: Complementary Approaches and Convergent Fining](computational-scientific-discovery/unsorted/Klahr%20%26%20Simon%20-%20Studies%20of%20Scientific%20Discovery%20Co%20371e92e0bdaa45dc85dad99547ddbaea.md)
 - [Langley — Integrated Systems for Computational Scientific Discovery](computational-scientific-discovery/unsorted/Langley%20%E2%80%94%20Integrated%20Systems%20for%20Computational%20Sci%201110b2facd2980569759c198602d1b2f.md)
 - [Lee et al. —  PapersaperWeaver: Enriching Topical Paper Alerts by Contextualizing Recommended Papers with User-collected Papers](computational-scientific-discovery/unsorted/Lee%20et%20al%20%E2%80%94%20PapersaperWeaver%20Enriching%20Topical%20Pap%203523c51ccee14d0b91893d9c50b6b614.md)
