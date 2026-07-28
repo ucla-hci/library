@@ -1,4 +1,4 @@
-# Klahr & Simon - Studies of Scientific Discovery: Complementary Approaches and Convergent Fining
+# Klahr & Simon - Studies of Scientific Discovery: Complementary Approaches and Convergent Finding
 
 ```
 @article{klahr1999studies,
@@ -26,17 +26,17 @@
 
 # One Sentence
 
----
+
 
 This paper presents major approaches to the study of science by viewing them through the lens of the theory of human problem-solving. 
 
 # More Sentences
 
----
+
 
 # Key Points
 
----
+
 
 **Scientific discovery as problem-solving: from the initial state to the goal state.**
 
@@ -48,7 +48,7 @@ This paper presents major approaches to the study of science by viewing them thr
 
 **Multiple search spaces from two states (initial and goal states)**
 
-![스크린샷 2024-06-28 오후 5.52.00.png](../../_assets/klahr_simon_studies_of_scientific_discovery_co_371e92e0bdaa45dc85dad99547ddbaea-%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2024-06-28_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_5.52.00.png)
+![Diagram of the four scientific-discovery search spaces](../../_assets/klahr-simon-multiple-search-spaces.png)
 
 - Hypothesis and representation spaces
     - Search in the hypothesis space (goal state): generating a new hypothesis is a type of problem-solving in which the initial state consists of some knowledge about the domain, and the goal state is a hypothesis that can account for some or all of that knowledge in a more concise form.
@@ -70,11 +70,11 @@ This paper presents major approaches to the study of science by viewing them thr
 
 # Other Notes
 
----
+
 
 # Take-Away
 
----
+
 
 The role of AI might be to support the definition process. Since the definition process is tailored to specific domains or disciplines, scientists should spend tremendous time broadening the scope of their knowledge. 
 

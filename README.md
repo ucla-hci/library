@@ -35,6 +35,7 @@ Notes of what we read
 - [Hope et al. — A Computational Inflection for Scientific Discovery](computational-scientific-discovery/general/Hope%20et%20al%20%E2%80%94%20A%20Computational%20Inflection%20for%20Scient%200e09b88b233b4f229210c8e32859691e.md)
 - [Kang et al. —  ComLittee: Literature Discovery with Personal Elected Author Committees](computational-scientific-discovery/general/Kang%20et%20al%20%E2%80%94%20ComLittee%20Literature%20Discovery%20with%20P%209a5792decf384a3e8981fa2c7f3848e8.md)
 - [Karpatne et al. — Theory-Guided Data Science: A New Paradigm for Scientific Discovery from Data](computational-scientific-discovery/general/Karpatne%20et%20al%20%E2%80%94%20Theory-Guided%20Data%20Science%20A%20New%20%2035354a3f21bc42c4bd01aa2e903d640b.md)
+- [Klahr & Simon - Studies of Scientific Discovery: Complementary Approaches and Convergent Finding](computational-scientific-discovery/general/Klahr%20%26%20Simon%20-%20Studies%20of%20Scientific%20Discovery%20Co%20371e92e0bdaa45dc85dad99547ddbaea.md)
 - [Stanford Philosophy Department — Scientific Discovery](computational-scientific-discovery/general/Stanford%20Philosophy%20Department%20%E2%80%94%20Scientific%20Discov%20090a5c887f904fa88888bfd4abe635f0.md)
 - [Deelman et al.: The future of scientific workflows](computational-scientific-discovery/general/deelman_the-future-of-scientific-workflows.md)
 - [Leslie et al.: Does the Sun Rise for ChatGPT? Scientific Discovery in the Age of Generative AI](computational-scientific-discovery/general/leslie_does-the-sun-rise-for-chatgpt-scientific-discovery-in-the-age-of-generative-ai.md)
@@ -75,7 +76,6 @@ Notes of what we read
 - [Grolemund & Wickham - A cognitive interpretation of data analysis](computational-scientific-discovery/random/Grolemund%20%26%20Wickham%20-%20A%20cognitive%20interpretation%20o%20e39e8e58d35247198756bcd8a5c99645.md)
 ### Unsorted
 
-- [Klahr & Simon - Studies of Scientific Discovery: Complementary Approaches and Convergent Fining](computational-scientific-discovery/unsorted/Klahr%20%26%20Simon%20-%20Studies%20of%20Scientific%20Discovery%20Co%20371e92e0bdaa45dc85dad99547ddbaea.md)
 - [Langley — Integrated Systems for Computational Scientific Discovery](computational-scientific-discovery/unsorted/Langley%20%E2%80%94%20Integrated%20Systems%20for%20Computational%20Sci%201110b2facd2980569759c198602d1b2f.md)
 - [Lee et al. —  PapersaperWeaver: Enriching Topical Paper Alerts by Contextualizing Recommended Papers with User-collected Papers](computational-scientific-discovery/unsorted/Lee%20et%20al%20%E2%80%94%20PapersaperWeaver%20Enriching%20Topical%20Pap%203523c51ccee14d0b91893d9c50b6b614.md)
 - [Lu et al. — The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](computational-scientific-discovery/unsorted/Lu%20et%20al%20%E2%80%94%20The%20AI%20Scientist%20Towards%20Fully%20Automate%20fa56581385eb4439a95d341bc502e71b.md)
