@@ -107,6 +107,7 @@ Notes of what we read
 
 - [Borchers — A pattern approach to interaction design](genui/pattern-genui/Borchers%20%E2%80%94%20A%20pattern%20approach%20to%20interaction%20desig%202140b2facd298086a40ed0746c2548a5.md)
 - [Folmer — nteraction Design Patterns. Interaction Design Foundation](genui/pattern-genui/Folmer%20%E2%80%94%20nteraction%20Design%20Patterns%20Interaction%20De%201c10b2facd2980d9be26dd9bcbbf616f.md)
+- [Weisz et al. — Design Principles for Generative AI Applications](genui/pattern-genui/Weisz%20et%20al%20%E2%80%94%20Design%20Principles%20for%20Generative%20AI%20%201c00b2facd29801c8d87f921b74062c5.md)
 
 ### Unread
 
@@ -169,13 +170,6 @@ Notes of what we read
 
 ### Creswell Research Design—Qualitative & Quantitativ
 
-
-### Design Patterns In Hci
-
-- [Author — Title](unsorted/Design%20Patterns%20in%20HCI/Author%20%E2%80%94%20Title%201c00b2facd2980458d4affff877f947a.md)
-- [Borchers — A pattern approach to interaction design](unsorted/Design%20Patterns%20in%20HCI/Borchers%20%E2%80%94%20A%20pattern%20approach%20to%20interaction%20desig%202140b2facd298086a40ed0746c2548a5.md)
-- [Folmer — nteraction Design Patterns. Interaction Design Foundation](unsorted/Design%20Patterns%20in%20HCI/Folmer%20%E2%80%94%20nteraction%20Design%20Patterns%20Interaction%20De%201c10b2facd2980d9be26dd9bcbbf616f.md)
-- [Weisz et al. — Design Principles for Generative AI Applications](unsorted/Design%20Patterns%20in%20HCI/Weisz%20et%20al%20%E2%80%94%20Design%20Principles%20for%20Generative%20AI%20%201c00b2facd29801c8d87f921b74062c5.md)
 
 ### Fairness & Biases
 
