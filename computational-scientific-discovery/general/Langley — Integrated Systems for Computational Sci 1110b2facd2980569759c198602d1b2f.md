@@ -33,15 +33,15 @@ scientific domains in which to test such computational artifacts.},
 
 # One Sentence
 
----
+
 
 # More Sentences
 
----
+
 
 # Key Points
 
----
+
 
 ### Motivation for HAPPIER-like systems
 
@@ -50,14 +50,15 @@ scientific domains in which to test such computational artifacts.},
 
 ### Defining SD in generic, domain-independent terms:
 
-1. Representation of results
+Representation of results
 
 > Given: Scientific data to be described or explained
 Given: Knowledge about the scientific domain
 Given: A space of candidate categories, laws, or models
 Find: Candidates that describe or explain the observations
 > 
-1. Data scarcity
+
+Data scarcity
 
 > … scientific fields often have access to only small or moderately sized samples … in most disciplines sample collection is difficult and expensive.
 > 
@@ -83,7 +84,7 @@ In common:
 > *Astronomy*, which regularly receives new sources of data as the power and resolution of its instruments increases. This offers new opportunities to detect novel object classes, find new qualitative and quantitative relations, and create explanatory models for unexpected phenomena.
 > 
 
-> *Material science*, a largely empirical field that frequently encounters new substances with surprising behaviors. These could support the discovery of new descriptive summaries, which in tern could lead to deeper accounts in terms of structures and processes.
+> *Material science*, a largely empirical field that frequently encounters new substances with surprising behaviors. These could support the discovery of new descriptive summaries, which in turn could lead to deeper accounts in terms of structures and processes.
 > 
 
 > *Intestinal microflora*, which comprise miniature ecosystems with changing populations. Efficient gene sequencing has enabled estimation of relative organism abundances that could support discovery of empirical laws and models that explain the observed dynamics.
@@ -91,7 +92,7 @@ In common:
 
 # Other Notes
 
----
+
 
 ### Key differences between scientific discovery and knowledge discovery
 
@@ -110,7 +111,7 @@ In common:
 
 # Take-Away
 
----
+
 
 ### Maybe target ID is most related to Finding Qualitative Laws
 
