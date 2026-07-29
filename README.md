@@ -3,9 +3,9 @@ Notes of what we read
 
 ## Books
 
+- [Basalla et al.: The Evolution of Technology](books/basalla_the-evolution-of-technology.md)
 - [Card, Moran, and Newell: The Psychology of Human-Computer Interaction](books/CardMoranNewell_ThePsychologyofHumanComputerInteraction.md)
 - [Creswell: Research Design](books/Creswell_ResearchDesign.md)
-- [Basalla et al.: The Evolution of Technology](books/basalla_the-evolution-of-technology.md)
 - [Godfrey-Smith: Theory and Reality](books/godfrey-smith_theory-and-reality.md)
 - [Langley et al.: Scientific Discovery](books/langley_scientific-discovery.md)
 - [The Cognitive Science of Science](books/thagard_cognitive-science-of-science.md)
@@ -14,7 +14,7 @@ Notes of what we read
 
 - [Licklider et al.: Man-Computer Symbiosis](classics/licklider_man-computer-symbiosis.md)
 
-## Computational-scientific-discovery
+## Computational Scientific Discovery
 
 ### Collaboration
 
@@ -22,35 +22,39 @@ Notes of what we read
 - [Katz et al.: What Is Research Collaboration?](computational-scientific-discovery/collaboration/katz_what-is-research-collaboration.md)
 - [Love et al.: Interpersonal relationship drive successful team science](computational-scientific-discovery/collaboration/love_interpersonal-relationship-drive-successful-team-science.md)
 - [Specht et al.: Interdiscipliinary collaoration from diverse science teams can produce significant outcomes](computational-scientific-discovery/collaboration/specht_interdiscipliinary-collaoration-from-diverse-science-teams-can-produce-significant-outcomes.md)
+
 ### Domain Specific
 
 - [Cheng et al. — Artificial intelligence and open science in discovery of disease-modifying medicines for Alzheimer’s disease](computational-scientific-discovery/domain-specific/Cheng%20et%20al%20%E2%80%94%20Artificial%20intelligence%20and%20open%20sci%2017e0b2facd2980f4ac24fa9bf4e3eb42.md)
 - [Khanal et al. — A natural language interface for interactively exploring ocean science data](computational-scientific-discovery/domain-specific/Khanal%20et%20al%20%E2%80%94%20A%20natural%20language%20interface%20for%20in%2019f0b2facd298058bdc1dce4deeee798.md)
+
 ### General
 
 - [Chen et al. — Towards an explanatory and computational theory of scientific discovery](computational-scientific-discovery/general/Chen%20et%20al%20%E2%80%94%20Towards%20an%20explanatory%20and%20computatio%2049631e6cb4054d3197be32caf5123009.md)
+- [Deelman et al.: The future of scientific workflows](computational-scientific-discovery/general/deelman_the-future-of-scientific-workflows.md)
 - [D’Agostino McGowan, Peng, and Hicks — Design Principles for Data Analysis](computational-scientific-discovery/general/D%E2%80%99Agostino%20McGowan%2C%20Peng%2C%20and%20Hicks%20%E2%80%94%20Design%20Princ%202324422fa6be409eb0257b3fbd49d5e7.md)
 - [Gil — Thoughtful artificial intelligence: Forging a new partnership for data science and scientific discovery](computational-scientific-discovery/general/Gil%20%E2%80%94%20Thoughtful%20artificial%20intelligence%20Forging%20a%20305d6e6e02d4435d8a703a1292c0d18a.md)
 - [Gil — Will AI write scientific papers in the future?](computational-scientific-discovery/general/Gil%20%E2%80%94%20Will%20AI%20write%20scientific%20papers%20in%20the%20futur%20619386014dac4c7698b744addadd2596.md)
 - [Hope et al. — A Computational Inflection for Scientific Discovery](computational-scientific-discovery/general/Hope%20et%20al%20%E2%80%94%20A%20Computational%20Inflection%20for%20Scient%200e09b88b233b4f229210c8e32859691e.md)
-- [Kang et al. —  ComLittee: Literature Discovery with Personal Elected Author Committees](computational-scientific-discovery/general/Kang%20et%20al%20%E2%80%94%20ComLittee%20Literature%20Discovery%20with%20P%209a5792decf384a3e8981fa2c7f3848e8.md)
+- [Kang et al. — ComLittee: Literature Discovery with Personal Elected Author Committees](computational-scientific-discovery/general/Kang%20et%20al%20%E2%80%94%20ComLittee%20Literature%20Discovery%20with%20P%209a5792decf384a3e8981fa2c7f3848e8.md)
 - [Karpatne et al. — Theory-Guided Data Science: A New Paradigm for Scientific Discovery from Data](computational-scientific-discovery/general/Karpatne%20et%20al%20%E2%80%94%20Theory-Guided%20Data%20Science%20A%20New%20%2035354a3f21bc42c4bd01aa2e903d640b.md)
 - [Klahr & Simon - Studies of Scientific Discovery: Complementary Approaches and Convergent Finding](computational-scientific-discovery/general/Klahr%20%26%20Simon%20-%20Studies%20of%20Scientific%20Discovery%20Co%20371e92e0bdaa45dc85dad99547ddbaea.md)
-- [Stanford Philosophy Department — Scientific Discovery](computational-scientific-discovery/general/Stanford%20Philosophy%20Department%20%E2%80%94%20Scientific%20Discov%20090a5c887f904fa88888bfd4abe635f0.md)
-- [Deelman et al.: The future of scientific workflows](computational-scientific-discovery/general/deelman_the-future-of-scientific-workflows.md)
 - [Leslie et al.: Does the Sun Rise for ChatGPT? Scientific Discovery in the Age of Generative AI](computational-scientific-discovery/general/leslie_does-the-sun-rise-for-chatgpt-scientific-discovery-in-the-age-of-generative-ai.md)
+- [Messeri et al.: Artificial intelligence and illusions of understanding in scientific research](computational-scientific-discovery/general/messeri_artificial-intelligence-and-illusions-of-understanding-in-scientific-research.md)
+- [Stanford Philosophy Department — Scientific Discovery](computational-scientific-discovery/general/Stanford%20Philosophy%20Department%20%E2%80%94%20Scientific%20Discov%20090a5c887f904fa88888bfd4abe635f0.md)
+
 ### Hypothesis Generation
 
-- [Bridewell et al. — An interactive environment for the modeling and discovery of scientific knowledge](computational-scientific-discovery/hypothesis-generation/Bridewell%20et%20al%20%E2%80%94%20An%20interactive%20environment%20for%20t%201340b2facd2980a7aa04ce7b51337f2c.md)
-- [Joolingen — An Extended Dual Search Space Model of Scientific Discovery Learning](computational-scientific-discovery/hypothesis-generation/Joolingen%20%E2%80%94%20An%20Extended%20Dual%20Search%20Space%20Model%20of%200e3b643e3d374b7c80fa4f05b0355e83.md)
-- [King et al. — Functional genomic hypothesis generation and experimentation by a robot scientist](computational-scientific-discovery/hypothesis-generation/King%20et%20al%20%E2%80%94%20Functional%20genomic%20hypothesis%20generat%2001ce3eac5c0245c9a65ee21e74ad7051.md)
-- [Klahr & Dunbar — Dual Space Search During Scientific Reasoning](computational-scientific-discovery/hypothesis-generation/Klahr%20%26%20Dunbar%20%E2%80%94%20Dual%20Space%20Search%20During%20Scientif%20ab068a86252640bca9a4045f9f78b8f6.md)
 - [Abdel-Rehim et al.: Scientific Hypothesis Generation by Large Language Models](computational-scientific-discovery/hypothesis-generation/abdel-rehim_scientific-hypothesis-generation-by-large-language-models.md)
+- [Bridewell et al. — An interactive environment for the modeling and discovery of scientific knowledge](computational-scientific-discovery/hypothesis-generation/Bridewell%20et%20al%20%E2%80%94%20An%20interactive%20environment%20for%20t%201340b2facd2980a7aa04ce7b51337f2c.md)
 - [Carrillo et al.: A Workflow for Human-Centered Machine-Assisted Hypothesis Generation](computational-scientific-discovery/hypothesis-generation/carrillo_a-workflow-for-human-centered-machine-assisted-hypothesis-generation.md)
 - [Garikaparthi et al.: IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery](computational-scientific-discovery/hypothesis-generation/garikaparthi_iris-interactive-research-ideation-system-for-accelerating-scientific-discovery.md)
 - [Gottweis et al.: Accelerating scientific discovery with Co-Scientist](computational-scientific-discovery/hypothesis-generation/gottweis_accelerating-scientific-discovery-with-co-scientist.md)
+- [Joolingen — An Extended Dual Search Space Model of Scientific Discovery Learning](computational-scientific-discovery/hypothesis-generation/Joolingen%20%E2%80%94%20An%20Extended%20Dual%20Search%20Space%20Model%20of%200e3b643e3d374b7c80fa4f05b0355e83.md)
 - [Josephson & Josephson: Abductive Inference - Chapter 1. Concept analysis of abduction](computational-scientific-discovery/hypothesis-generation/josephson_abductive-inference.md)
 - [Kehrer et al.: Hypothesis Generation in Climnate Research with Interactive Visual Data Exploration](computational-scientific-discovery/hypothesis-generation/kehrer_hypothesis-generation-in-climnate-research-with-interactive-visual-data-exploration.md)
+- [King et al. — Functional genomic hypothesis generation and experimentation by a robot scientist](computational-scientific-discovery/hypothesis-generation/King%20et%20al%20%E2%80%94%20Functional%20genomic%20hypothesis%20generat%2001ce3eac5c0245c9a65ee21e74ad7051.md)
+- [Klahr & Dunbar — Dual Space Search During Scientific Reasoning](computational-scientific-discovery/hypothesis-generation/Klahr%20%26%20Dunbar%20%E2%80%94%20Dual%20Space%20Search%20During%20Scientif%20ab068a86252640bca9a4045f9f78b8f6.md)
 - [Lin et al.: HypoBench: Towards Systematic and Principled Benchmarking for Hypothesis Generation](computational-scientific-discovery/hypothesis-generation/lin_hypobench.md)
 - [Liu et al.: Literature Meets Data: A Synergistic Approach to Hypothesis Generation](computational-scientific-discovery/hypothesis-generation/liu_literature-meets-data.md)
 - [Majumder et al.: DiscoveryBench: Towards Data-Driven Discovery with Large Language Models](computational-scientific-discovery/hypothesis-generation/majumder_discoverybench-towards-data-driven-discovery-with-large-language-models.md)
@@ -63,38 +67,41 @@ Notes of what we read
 - [Yu et al.: Unlocking the Potential of AI Researchers in Scientific Discovery: What Is Missing?](computational-scientific-discovery/hypothesis-generation/yu_unlocking-the-potential-of-ai-researchers-in-scientific-discovery.md)
 - [Zenil et al.: The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence](computational-scientific-discovery/hypothesis-generation/zenil_the-future-of-fundamental-science-led-by-generative-closed-loop-artificial-intelligence.md)
 - [Zhou et al.: Hypothesis Generation with Large Language Models](computational-scientific-discovery/hypothesis-generation/zhou_hypothesis-generation-with-large-langauge-models.md)
+
 ### Hypothesis Validation
 
 - [Cong et al.: Labos: The AI-XR Co-Scientist That Sees and Works with Humans](computational-scientific-discovery/hypothesis-validation/cong_labos-the-ai-xr-co-scientist-that-sees-and-works-with-humans.md)
 - [Gao et al.: AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation](computational-scientific-discovery/hypothesis-validation/gao_autoscientists-self-organizing-agent-teams-for-long-running-scientific-experimentation.md)
 - [Ghareeb et al.: A multi-agent system for automating scientific discovery](computational-scientific-discovery/hypothesis-validation/ghareeb_a-multi-agent-system-for-automating-scientific-discovery.md)
+
 ### Random
 
 - [D’Agostino McGowan, Peng, and Hicks — Evaluating the Alignment of a Data Analysis between Analyst and Audience](computational-scientific-discovery/random/D%E2%80%99Agostino%20McGowan%2C%20Peng%2C%20and%20Hicks%20%E2%80%94%20Evaluating%20t%2091a2c4ac5aec4bb98352b784e6af61a3.md)
-- [Feger et al. —  Gamification in Science: A Study of Requirements in the Context of Reproducible Research](computational-scientific-discovery/random/Feger%20et%20al%20%E2%80%94%20Gamification%20in%20Science%20A%20Study%20of%20R%203fdf18a0bb6649c788e49ccbf790650e.md)
-- [Feger et al. —  ‘Yes, I comply!’: Motivations and Practices around Research Data Management and Reuse across Scientific Fields](computational-scientific-discovery/random/Feger%20et%20al%20%E2%80%94%20%E2%80%98Yes%2C%20I%20comply%21%E2%80%99%20Motivations%20and%20Pra%204949ca5c2f36451dbd3dfd955291fb14.md)
+- [Feger et al. — Gamification in Science: A Study of Requirements in the Context of Reproducible Research](computational-scientific-discovery/random/Feger%20et%20al%20%E2%80%94%20Gamification%20in%20Science%20A%20Study%20of%20R%203fdf18a0bb6649c788e49ccbf790650e.md)
+- [Feger et al. — ‘Yes, I comply!’: Motivations and Practices around Research Data Management and Reuse across Scientific Fields](computational-scientific-discovery/random/Feger%20et%20al%20%E2%80%94%20%E2%80%98Yes%2C%20I%20comply%21%E2%80%99%20Motivations%20and%20Pra%204949ca5c2f36451dbd3dfd955291fb14.md)
 - [Grolemund & Wickham - A cognitive interpretation of data analysis](computational-scientific-discovery/random/Grolemund%20%26%20Wickham%20-%20A%20cognitive%20interpretation%20o%20e39e8e58d35247198756bcd8a5c99645.md)
+
 ### Unsorted
 
 - [Langley — Integrated Systems for Computational Scientific Discovery](computational-scientific-discovery/unsorted/Langley%20%E2%80%94%20Integrated%20Systems%20for%20Computational%20Sci%201110b2facd2980569759c198602d1b2f.md)
-- [Lee et al. —  PapersaperWeaver: Enriching Topical Paper Alerts by Contextualizing Recommended Papers with User-collected Papers](computational-scientific-discovery/unsorted/Lee%20et%20al%20%E2%80%94%20PapersaperWeaver%20Enriching%20Topical%20Pap%203523c51ccee14d0b91893d9c50b6b614.md)
+- [Lee et al. — PapersaperWeaver: Enriching Topical Paper Alerts by Contextualizing Recommended Papers with User-collected Papers](computational-scientific-discovery/unsorted/Lee%20et%20al%20%E2%80%94%20PapersaperWeaver%20Enriching%20Topical%20Pap%203523c51ccee14d0b91893d9c50b6b614.md)
 - [Lu et al. — The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](computational-scientific-discovery/unsorted/Lu%20et%20al%20%E2%80%94%20The%20AI%20Scientist%20Towards%20Fully%20Automate%20fa56581385eb4439a95d341bc502e71b.md)
+- [Magnani et al.: Creative Processes in Scientific Discovery](computational-scientific-discovery/unsorted/magnani_creative-processes-in-scientific-discovery.md)
 - [Morris — Scientists' Perspectives on the Potential for Generative AI in their Fields](computational-scientific-discovery/unsorted/Morris%20%E2%80%94%20Scientists%27%20Perspectives%20on%20the%20Potential%208e076be900d442babe88dc014144dc49.md)
 - [Nuzzo — How scientists fool themselves—and how they can stop](computational-scientific-discovery/unsorted/Nuzzo%20%E2%80%94%20How%20scientists%20fool%20themselves%E2%80%94and%20how%20the%207bb2fcdb24a744d78185ba5e1af9d6ac.md)
-- [Oleksik et al. —  Beyond Data Sharing: Artifact Ecology of a Collaborative](computational-scientific-discovery/unsorted/Oleksik%20et%20al%20%E2%80%94%20Beyond%20Data%20Sharing%20Artifact%20Ecolo%20cfb99b7228e14d3bafd9ff0580967479.md)
-- [Portenoy et al. —  Bursting scientific filter bubbles: Boosting innovation via novel author discovery](computational-scientific-discovery/unsorted/Portenoy%20et%20al%20%E2%80%94%20Bursting%20scientific%20filter%20bubble%20ac2a248e0e124dddb7bc2604243305ab.md)
+- [Oleksik et al. — Beyond Data Sharing: Artifact Ecology of a Collaborative](computational-scientific-discovery/unsorted/Oleksik%20et%20al%20%E2%80%94%20Beyond%20Data%20Sharing%20Artifact%20Ecolo%20cfb99b7228e14d3bafd9ff0580967479.md)
+- [Portenoy et al. — Bursting scientific filter bubbles: Boosting innovation via novel author discovery](computational-scientific-discovery/unsorted/Portenoy%20et%20al%20%E2%80%94%20Bursting%20scientific%20filter%20bubble%20ac2a248e0e124dddb7bc2604243305ab.md)
+- [Pun et al.: Target identification and assessment in the era of AI](computational-scientific-discovery/unsorted/pun_target-identification-and-assessment-in-the-era-of-ai.md)
 - [Schunn & Klahr — A 4-space model of scientific discovery](computational-scientific-discovery/unsorted/Schunn%20%26%20Klahr%20%E2%80%94%20A%204-space%20model%20of%20scientific%20dis%200538c08e8bfb41bab1df880d1e147022.md)
+- [Shao et al.: SciSciGPT: advancing human–AI collaboration in the science of science](computational-scientific-discovery/unsorted/shao_sciscigpt.md)
 - [Simon — Scientific discovery as problem solving: reply to critics](computational-scientific-discovery/unsorted/Simon%20%E2%80%94%20Scientific%20discovery%20as%20problem%20solving%20re%2059ef68e21d6b4f61bc519acf5c0022b8.md)
 - [Simon — The Theory of Scientific Discovery](computational-scientific-discovery/unsorted/Simon%20%E2%80%94%20The%20Theory%20of%20Scientific%20Discovery%20115938b3d4594515a3d4b41f4c84d347.md)
 - [Singer et al. — On biases of attention in scientific discovery](computational-scientific-discovery/unsorted/Singer%20et%20al%20%E2%80%94%20On%20biases%20of%20attention%20in%20scientifi%2030ad9854f5884c0e9fb5929d6234be82.md)
 - [Taylor et al. — At the interface of biology and computation](computational-scientific-discovery/unsorted/Taylor%20et%20al%20%E2%80%94%20At%20the%20interface%20of%20biology%20and%20com%201260b2facd29804eb7e5cda516d08f0b.md)
 - [Wang et al. — TargetHunter An In Silico Target Identification Tool for Predicting Therapeutic](computational-scientific-discovery/unsorted/Wang%20et%20al%20%E2%80%94%20TargetHunter%20An%20In%20Silico%20Target%20Iden%202525f1c171664fa49e3d227001b9f72c.md)
 - [Williams et al. — Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases](computational-scientific-discovery/unsorted/Williams%20et%20al%20%E2%80%94%20Cheaper%20faster%20drug%20development%20v%201130b2facd2980228f42fc501116791a.md)
-- [Magnani et al.: Creative Processes in Scientific Discovery](computational-scientific-discovery/unsorted/magnani_creative-processes-in-scientific-discovery.md)
-- [Pun et al.: Target identification and assessment in the era of AI](computational-scientific-discovery/unsorted/pun_target-identification-and-assessment-in-the-era-of-ai.md)
-- [Shao et al.: SciSciGPT: advancing human–AI collaboration in the science of science](computational-scientific-discovery/unsorted/shao_sciscigpt.md)
 
-## Genui
+## GenUI
 
 - [Asdaque et al.: Novice Developers Produce Larger Review Overhead for Project Maintainers while Vibe Coding](genui/asdaque_novice-developers-produce-larger-review-overhead-for-project-maintainers-while-vibe-coding.md)
 - [Cao et al.: Generative and Malleable User Interfaces with Generative and Evolving Task-Driven Data Model](genui/cao_generative-and-malleable-user-interfaces-with-generative-and-evolving-task-driven-data-model.md)
@@ -103,7 +110,7 @@ Notes of what we read
 - [Nielsen: No More User Interface?](genui/nielsen_no-more-user-interface.md)
 - [Tohidi et al.: Getting the Right Design and the Design Right](genui/tohidi_getting-the-right-design-and-the-design-right.md)
 
-### Pattern Genui
+### Pattern GenUI
 
 - [Borchers — A pattern approach to interaction design](genui/pattern-genui/Borchers%20%E2%80%94%20A%20pattern%20approach%20to%20interaction%20desig%202140b2facd298086a40ed0746c2548a5.md)
 - [Folmer — nteraction Design Patterns. Interaction Design Foundation](genui/pattern-genui/Folmer%20%E2%80%94%20nteraction%20Design%20Patterns%20Interaction%20De%201c10b2facd2980d9be26dd9bcbbf616f.md)
@@ -130,14 +137,14 @@ Notes of what we read
 
 ## Search
 
-### Hci Hypo Vali
+### HCI Hypo Vali
 
-- [HCI + Hypothesis Validation — Literature Index](search/hci-hypo-vali/_index.md)
 - [Choi et al.: Concept-Driven Visual Analytics](search/hci-hypo-vali/choi_concept-driven-va.md)
 - [Choi et al.: Visual (dis)Confirmation](search/hci-hypo-vali/choi_visual-disconfirmation.md)
 - [Corvo et al.: IIComPath — Visual Analytics for Hypothesis-Driven Exploration in Computational Pathology](search/hci-hypo-vali/corvo_iicompath.md)
 - [Guo et al.: Causalvis — Visualizations for Causal Inference](search/hci-hypo-vali/guo_causalvis.md)
 - [Guo et al.: VMC — A Grammar for Visualizing Statistical Model Checks](search/hci-hypo-vali/guo_vmc-grammar-model-checks.md)
+- [HCI + Hypothesis Validation — Literature Index](search/hci-hypo-vali/_index.md)
 - [Hullman & Gelman: Designing for Interactive EDA Requires Theories of Graphical Inference](search/hci-hypo-vali/hullman_graphical-inference.md)
 - [Jing et al.: VIADS — A Visual Analytic Tool to Assist Hypothesis Generation in Clinical Research](search/hci-hypo-vali/jing_viads.md)
 - [Kale et al.: EVM — Incorporating Model Checking into Exploratory Visual Analysis](search/hci-hypo-vali/kale_evm-model-checking.md)
@@ -159,7 +166,7 @@ Notes of what we read
 - [Shao et al.: Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models](unsorted/shao_assisting-in-writing-wikipedia-like-articles-from-scratch-with-large-language-models.md)
 - [Zeng et al.: MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents](unsorted/zeng_mementogui.md)
 
-### Ai With Theory Of Mind
+### AI with Theory of Mind
 
 - [Author — Title](unsorted/AI%20with%20Theory%20of%20Mind/Author%20%E2%80%94%20Title%2064e19833b89846e9bc7ce1f308fa0e5d.md)
 - [Göldi et al. — Intelligent Support Engages Writers Through Relevant Cognitive Processes](unsorted/AI%20with%20Theory%20of%20Mind/Go%CC%88ldi%20et%20al%20%E2%80%94%20Intelligent%20Support%20Engages%20Writers%20%20e7fc915f2a2941979574bbd5f7026aa8.md)
@@ -168,18 +175,15 @@ Notes of what we read
 - [Pynadath & Marsella — PsychSim: modeling theory of mind with decision-theoretic agents](unsorted/AI%20with%20Theory%20of%20Mind/Pynadath%20%26%20Marsella%20%E2%80%94%20PsychSim%20modeling%20theory%20of%20%20df60500ef28440baad4bb596dfaacd5a.md)
 - [Scassellati — Theory of Mind for a Humanoid Robot](unsorted/AI%20with%20Theory%20of%20Mind/Scassellati%20%E2%80%94%20Theory%20of%20Mind%20for%20a%20Humanoid%20Robot%202305f644792b4684b1ac245ff5da65c0.md)
 
-### Creswell Research Design—Qualitative & Quantitativ
-
-
 ### Fairness & Biases
 
+- [\[→HFAI\] Friedman & Nissenbaum — Bias in Computer Systems](unsorted/Fairness%20%26%20Biases/%5B%E2%86%92HFAI%5D%20Friedman%20%26%20Nissenbaum%20%E2%80%94%20Bias%20in%20Computer%20S%202230b2facd29804b914aed633327d1fc.md)
 - [Author — Title](unsorted/Fairness%20%26%20Biases/Author%20%E2%80%94%20Title%201ab0b2facd2980a9a80ff5ee12577c6f.md)
 - [Bianchi et al. — Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale](unsorted/Fairness%20%26%20Biases/Bianchi%20et%20al%20%E2%80%94%20Easily%20Accessible%20Text-to-Image%20Ge%201ab0b2facd2980be9d44d5f4930edd8b.md)
 - [Kim et al. — Fostering Appropriate Reliance on Large Language Models: The Role of Explanations, Sources, and Inconsistencies](unsorted/Fairness%20%26%20Biases/Kim%20et%20al%20%E2%80%94%20Fostering%20Appropriate%20Reliance%20on%20Larg%201df0b2facd2980118419d44314374ad3.md)
 - [Torralba & Efros — Unbiased look at dataset bias](unsorted/Fairness%20%26%20Biases/Torralba%20%26%20Efros%20%E2%80%94%20Unbiased%20look%20at%20dataset%20bias%201eb0b2facd298029a271dd4ad34b8951.md)
-- [[→HFAI] Friedman & Nissenbaum — Bias in Computer Systems](unsorted/Fairness%20%26%20Biases/%5B%E2%86%92HFAI%5D%20Friedman%20%26%20Nissenbaum%20%E2%80%94%20Bias%20in%20Computer%20S%202230b2facd29804b914aed633327d1fc.md)
 
-### Generative Ai For Ux Design
+### Generative AI for UX Design
 
 - [Author — Title](unsorted/Generative%20AI%20for%20UX%20Design/Author%20%E2%80%94%20Title%20c2f4998abea2403ea014b46d9dfef328.md)
 - [Dayama et al. — GRIDS: Interactive Layout Design with Integer Programming](unsorted/Generative%20AI%20for%20UX%20Design/Dayama%20et%20al%20%E2%80%94%20GRIDS%20Interactive%20Layout%20Design%20wit%201b50b2facd2980c2a563ff2b43574827.md)
@@ -203,7 +207,7 @@ Notes of what we read
 - [Uusitalo et al. — “Clay to Play With”: Generative AI Tools in UX and Industrial Design Practice](unsorted/Generative%20AI%20for%20UX%20Design/Uusitalo%20et%20al%20%E2%80%94%20%E2%80%9CClay%20to%20Play%20With%E2%80%9D%20Generative%20AI%2014b490dafda44313835829cab7d537bd.md)
 - [Yang — A study of prototypes, design activity, and design outcome](unsorted/Generative%20AI%20for%20UX%20Design/Yang%20%E2%80%94%20A%20study%20of%20prototypes%2C%20design%20activity%2C%20and%2012e0b2facd2980b7a5f2c7b2a109727d.md)
 
-### Hci Foundations
+### HCI Foundations
 
 - [Author — Title](unsorted/HCI%20Foundations/Author%20%E2%80%94%20Title%209129870291a142519b4bf10dc4ef2a4d.md)
 - [Beaudouin-Lafon et al. — Generative Theories of Interaction](unsorted/HCI%20Foundations/Beaudouin-Lafon%20et%20al%20%E2%80%94%20Generative%20Theories%20of%20Int%2023f9937015e34a098a99d5246339369b.md)
@@ -217,12 +221,12 @@ Notes of what we read
 - [Sutherland — The Ultimate Display](unsorted/HCI%20Foundations/Sutherland%20%E2%80%94%20The%20Ultimate%20Display%205068b74ed9784f8d9ee097fb04e3bc4b.md)
 - [Wobbrock & Kientz — Research contributions in human-computer interaction](unsorted/HCI%20Foundations/Wobbrock%20%26%20Kientz%20%E2%80%94%20Research%20contributions%20in%20huma%20b4b1a468d1fa475ebb37671eca38017c.md)
 
-### Human Agents Interaction
+### Human-Agents Interaction
 
 - [Author — Title](unsorted/Human-Agents%20Interaction/Author%20%E2%80%94%20Title%202220b2facd298079b778cc39504fc544.md)
 - [Lieberman — Autonomous interface agents](unsorted/Human-Agents%20Interaction/Lieberman%20%E2%80%94%20Autonomous%20interface%20agents%202220b2facd2980bd823dc93d6e0aef70.md)
 
-### Human Centered Generative Ai
+### Human-Centered Generative AI
 
 - [Amabile — The social psychology of creativity: A componential conceptualization.](unsorted/Human-Centered%20Generative%20AI/Amabile%20%E2%80%94%20The%20social%20psychology%20of%20creativity%20A%20co%208a83e0a4afdf4c14ae5ca88f4d70248e.md)
 - [Author — Title](unsorted/Human-Centered%20Generative%20AI/Author%20%E2%80%94%20Title%20489ff304ac1c4d99aa4a6993250a103f.md)
@@ -240,9 +244,6 @@ Notes of what we read
 - [Morris — Prompting Considered Harmful](unsorted/Interactivity/Morris%20%E2%80%94%20Prompting%20Considered%20Harmful%2021e0b2facd2980c4b483f9c12ae58479.md)
 - [Zamfirescu-Pereira et al. — Why Johnny Can’t Prompt: How Non-AI Experts Try (and Fail) to Design LLM Prompts](unsorted/Interactivity/Zamfirescu-Pereira%20et%20al%20%E2%80%94%20Why%20Johnny%20Can%E2%80%99t%20Prompt%201b60b2facd29800e81afcbfd2fd79293.md)
 
-### Pearl The Book Of Why
-
-
 ### Scientific Discovery Support Tools
 
 - [Author — Title](unsorted/Scientific%20Discovery%20Support%20Tools/Author%20%E2%80%94%20Title%20d5cc6c7646464545aa9e6ee89f8dce89.md)
@@ -251,26 +252,26 @@ Notes of what we read
 - [Cheng et al. — Artificial intelligence and open science in discovery of disease-modifying medicines for Alzheimer’s disease](unsorted/Scientific%20Discovery%20Support%20Tools/Cheng%20et%20al%20%E2%80%94%20Artificial%20intelligence%20and%20open%20sci%2017e0b2facd2980f4ac24fa9bf4e3eb42.md)
 - [D’Agostino McGowan, Peng, and Hicks — Design Principles for Data Analysis](unsorted/Scientific%20Discovery%20Support%20Tools/D%E2%80%99Agostino%20McGowan%2C%20Peng%2C%20and%20Hicks%20%E2%80%94%20Design%20Princ%202324422fa6be409eb0257b3fbd49d5e7.md)
 - [D’Agostino McGowan, Peng, and Hicks — Evaluating the Alignment of a Data Analysis between Analyst and Audience](unsorted/Scientific%20Discovery%20Support%20Tools/D%E2%80%99Agostino%20McGowan%2C%20Peng%2C%20and%20Hicks%20%E2%80%94%20Evaluating%20t%2091a2c4ac5aec4bb98352b784e6af61a3.md)
-- [Feger et al. —  Gamification in Science: A Study of Requirements in the Context of Reproducible Research](unsorted/Scientific%20Discovery%20Support%20Tools/Feger%20et%20al%20%E2%80%94%20Gamification%20in%20Science%20A%20Study%20of%20R%203fdf18a0bb6649c788e49ccbf790650e.md)
-- [Feger et al. —  ‘Yes, I comply!’: Motivations and Practices around Research Data Management and Reuse across Scientific Fields](unsorted/Scientific%20Discovery%20Support%20Tools/Feger%20et%20al%20%E2%80%94%20%E2%80%98Yes%2C%20I%20comply%21%E2%80%99%20Motivations%20and%20Pra%204949ca5c2f36451dbd3dfd955291fb14.md)
+- [Feger et al. — Gamification in Science: A Study of Requirements in the Context of Reproducible Research](unsorted/Scientific%20Discovery%20Support%20Tools/Feger%20et%20al%20%E2%80%94%20Gamification%20in%20Science%20A%20Study%20of%20R%203fdf18a0bb6649c788e49ccbf790650e.md)
+- [Feger et al. — ‘Yes, I comply!’: Motivations and Practices around Research Data Management and Reuse across Scientific Fields](unsorted/Scientific%20Discovery%20Support%20Tools/Feger%20et%20al%20%E2%80%94%20%E2%80%98Yes%2C%20I%20comply%21%E2%80%99%20Motivations%20and%20Pra%204949ca5c2f36451dbd3dfd955291fb14.md)
 - [Gil — Thoughtful artificial intelligence: Forging a new partnership for data science and scientific discovery](unsorted/Scientific%20Discovery%20Support%20Tools/Gil%20%E2%80%94%20Thoughtful%20artificial%20intelligence%20Forging%20a%20305d6e6e02d4435d8a703a1292c0d18a.md)
 - [Gil — Will AI write scientific papers in the future?](unsorted/Scientific%20Discovery%20Support%20Tools/Gil%20%E2%80%94%20Will%20AI%20write%20scientific%20papers%20in%20the%20futur%20619386014dac4c7698b744addadd2596.md)
 - [Grolemund & Wickham - A cognitive interpretation of data analysis](unsorted/Scientific%20Discovery%20Support%20Tools/Grolemund%20%26%20Wickham%20-%20A%20cognitive%20interpretation%20o%20e39e8e58d35247198756bcd8a5c99645.md)
 - [Hope et al. — A Computational Inflection for Scientific Discovery](unsorted/Scientific%20Discovery%20Support%20Tools/Hope%20et%20al%20%E2%80%94%20A%20Computational%20Inflection%20for%20Scient%200e09b88b233b4f229210c8e32859691e.md)
 - [Joolingen — An Extended Dual Search Space Model of Scientific Discovery Learning](unsorted/Scientific%20Discovery%20Support%20Tools/Joolingen%20%E2%80%94%20An%20Extended%20Dual%20Search%20Space%20Model%20of%200e3b643e3d374b7c80fa4f05b0355e83.md)
-- [Kang et al. —  ComLittee: Literature Discovery with Personal Elected Author Committees](unsorted/Scientific%20Discovery%20Support%20Tools/Kang%20et%20al%20%E2%80%94%20ComLittee%20Literature%20Discovery%20with%20P%209a5792decf384a3e8981fa2c7f3848e8.md)
+- [Kang et al. — ComLittee: Literature Discovery with Personal Elected Author Committees](unsorted/Scientific%20Discovery%20Support%20Tools/Kang%20et%20al%20%E2%80%94%20ComLittee%20Literature%20Discovery%20with%20P%209a5792decf384a3e8981fa2c7f3848e8.md)
 - [Karpatne et al. — Theory-Guided Data Science: A New Paradigm for Scientific Discovery from Data](unsorted/Scientific%20Discovery%20Support%20Tools/Karpatne%20et%20al%20%E2%80%94%20Theory-Guided%20Data%20Science%20A%20New%20%2035354a3f21bc42c4bd01aa2e903d640b.md)
 - [Khanal et al. — A natural language interface for interactively exploring ocean science data](unsorted/Scientific%20Discovery%20Support%20Tools/Khanal%20et%20al%20%E2%80%94%20A%20natural%20language%20interface%20for%20in%2019f0b2facd298058bdc1dce4deeee798.md)
 - [King et al. — Functional genomic hypothesis generation and experimentation by a robot scientist](unsorted/Scientific%20Discovery%20Support%20Tools/King%20et%20al%20%E2%80%94%20Functional%20genomic%20hypothesis%20generat%2001ce3eac5c0245c9a65ee21e74ad7051.md)
 - [Klahr & Dunbar — Dual Space Search During Scientific Reasoning](unsorted/Scientific%20Discovery%20Support%20Tools/Klahr%20%26%20Dunbar%20%E2%80%94%20Dual%20Space%20Search%20During%20Scientif%20ab068a86252640bca9a4045f9f78b8f6.md)
 - [Klahr & Simon - Studies of Scientific Discovery: Complementary Approaches and Convergent Fining](unsorted/Scientific%20Discovery%20Support%20Tools/Klahr%20%26%20Simon%20-%20Studies%20of%20Scientific%20Discovery%20Co%20371e92e0bdaa45dc85dad99547ddbaea.md)
 - [Langley — Integrated Systems for Computational Scientific Discovery](unsorted/Scientific%20Discovery%20Support%20Tools/Langley%20%E2%80%94%20Integrated%20Systems%20for%20Computational%20Sci%201110b2facd2980569759c198602d1b2f.md)
-- [Lee et al. —  PapersaperWeaver: Enriching Topical Paper Alerts by Contextualizing Recommended Papers with User-collected Papers](unsorted/Scientific%20Discovery%20Support%20Tools/Lee%20et%20al%20%E2%80%94%20PapersaperWeaver%20Enriching%20Topical%20Pap%203523c51ccee14d0b91893d9c50b6b614.md)
+- [Lee et al. — PapersaperWeaver: Enriching Topical Paper Alerts by Contextualizing Recommended Papers with User-collected Papers](unsorted/Scientific%20Discovery%20Support%20Tools/Lee%20et%20al%20%E2%80%94%20PapersaperWeaver%20Enriching%20Topical%20Pap%203523c51ccee14d0b91893d9c50b6b614.md)
 - [Lu et al. — The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](unsorted/Scientific%20Discovery%20Support%20Tools/Lu%20et%20al%20%E2%80%94%20The%20AI%20Scientist%20Towards%20Fully%20Automate%20fa56581385eb4439a95d341bc502e71b.md)
 - [Morris — Scientists' Perspectives on the Potential for Generative AI in their Fields](unsorted/Scientific%20Discovery%20Support%20Tools/Morris%20%E2%80%94%20Scientists%27%20Perspectives%20on%20the%20Potential%208e076be900d442babe88dc014144dc49.md)
 - [Nuzzo — How scientists fool themselves—and how they can stop](unsorted/Scientific%20Discovery%20Support%20Tools/Nuzzo%20%E2%80%94%20How%20scientists%20fool%20themselves%E2%80%94and%20how%20the%207bb2fcdb24a744d78185ba5e1af9d6ac.md)
-- [Oleksik et al. —  Beyond Data Sharing: Artifact Ecology of a Collaborative](unsorted/Scientific%20Discovery%20Support%20Tools/Oleksik%20et%20al%20%E2%80%94%20Beyond%20Data%20Sharing%20Artifact%20Ecolo%20cfb99b7228e14d3bafd9ff0580967479.md)
-- [Portenoy et al. —  Bursting scientific filter bubbles: Boosting innovation via novel author discovery](unsorted/Scientific%20Discovery%20Support%20Tools/Portenoy%20et%20al%20%E2%80%94%20Bursting%20scientific%20filter%20bubble%20ac2a248e0e124dddb7bc2604243305ab.md)
+- [Oleksik et al. — Beyond Data Sharing: Artifact Ecology of a Collaborative](unsorted/Scientific%20Discovery%20Support%20Tools/Oleksik%20et%20al%20%E2%80%94%20Beyond%20Data%20Sharing%20Artifact%20Ecolo%20cfb99b7228e14d3bafd9ff0580967479.md)
+- [Portenoy et al. — Bursting scientific filter bubbles: Boosting innovation via novel author discovery](unsorted/Scientific%20Discovery%20Support%20Tools/Portenoy%20et%20al%20%E2%80%94%20Bursting%20scientific%20filter%20bubble%20ac2a248e0e124dddb7bc2604243305ab.md)
 - [Schunn & Klahr — A 4-space model of scientific discovery](unsorted/Scientific%20Discovery%20Support%20Tools/Schunn%20%26%20Klahr%20%E2%80%94%20A%204-space%20model%20of%20scientific%20dis%200538c08e8bfb41bab1df880d1e147022.md)
 - [Simon — Scientific discovery as problem solving: reply to critics](unsorted/Scientific%20Discovery%20Support%20Tools/Simon%20%E2%80%94%20Scientific%20discovery%20as%20problem%20solving%20re%2059ef68e21d6b4f61bc519acf5c0022b8.md)
 - [Simon — The Theory of Scientific Discovery](unsorted/Scientific%20Discovery%20Support%20Tools/Simon%20%E2%80%94%20The%20Theory%20of%20Scientific%20Discovery%20115938b3d4594515a3d4b41f4c84d347.md)
@@ -280,12 +281,12 @@ Notes of what we read
 - [Wang et al. — TargetHunter An In Silico Target Identification Tool for Predicting Therapeutic](unsorted/Scientific%20Discovery%20Support%20Tools/Wang%20et%20al%20%E2%80%94%20TargetHunter%20An%20In%20Silico%20Target%20Iden%202525f1c171664fa49e3d227001b9f72c.md)
 - [Williams et al. — Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases](unsorted/Scientific%20Discovery%20Support%20Tools/Williams%20et%20al%20%E2%80%94%20Cheaper%20faster%20drug%20development%20v%201130b2facd2980228f42fc501116791a.md)
 
-### The Art Of Toolmaking
+### The Art of Toolmaking
 
 - [Author — Title](unsorted/The%20Art%20of%20Toolmaking/Author%20%E2%80%94%20Title%20b8587197be944bc8800bf58646c7cfd4.md)
 - [Gero — Computational Models of Innovative and Creative Design Processes](unsorted/The%20Art%20of%20Toolmaking/Gero%20%E2%80%94%20Computational%20Models%20of%20Innovative%20and%20Crea%2080ac8965f3bb4dffa9ac41f5c9ac08f5.md)
 
-### Trust & Reliance On Ai
+### Trust & Reliance on AI
 
 - [Author — Title](unsorted/Trust%20%26%20Reliance%20on%20AI/Author%20%E2%80%94%20Title%2056604c80c5214941ac8f549697666944.md)
 - [Bansal et al. — Beyond accuracy: The role of mental models in human-AI team performance](unsorted/Trust%20%26%20Reliance%20on%20AI/Bansal%20et%20al%20%E2%80%94%20Beyond%20accuracy%20The%20role%20of%20mental%20%208da0d82ee78c408fa2300fd1821ea9b7.md)

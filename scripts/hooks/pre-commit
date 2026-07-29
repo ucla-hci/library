@@ -1,0 +1,14 @@
+#!/bin/bash
+# Pre-commit hook to update README.md with paper notes listing.
+# Activated by scripts/install-hooks.sh (sets core.hooksPath to this directory).
+set -euo pipefail
+
+GIT_ROOT=$(git rev-parse --show-toplevel)
+
+if ! python3 "$GIT_ROOT/scripts/update-readme.py"; then
+    echo "pre-commit: update-readme.py failed, aborting commit." >&2
+    exit 1
+fi
+
+# Stage the regenerated README so it lands in this commit
+git add -- "$GIT_ROOT/README.md"
