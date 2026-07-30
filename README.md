@@ -32,6 +32,7 @@ Notes of what we read
 
 - [Chen et al. — Towards an explanatory and computational theory of scientific discovery](computational-scientific-discovery/general/Chen%20et%20al%20%E2%80%94%20Towards%20an%20explanatory%20and%20computatio%2049631e6cb4054d3197be32caf5123009.md)
 - [Deelman et al.: The future of scientific workflows](computational-scientific-discovery/general/deelman_the-future-of-scientific-workflows.md)
+- [Dunbar: Concept Discovery in a Scientific Domain](computational-scientific-discovery/general/dunbar_concept-discovery-in-a-scientific-domain.md)
 - [D’Agostino McGowan, Peng, and Hicks — Design Principles for Data Analysis](computational-scientific-discovery/general/D%E2%80%99Agostino%20McGowan%2C%20Peng%2C%20and%20Hicks%20%E2%80%94%20Design%20Princ%202324422fa6be409eb0257b3fbd49d5e7.md)
 - [Gil — Thoughtful artificial intelligence: Forging a new partnership for data science and scientific discovery](computational-scientific-discovery/general/Gil%20%E2%80%94%20Thoughtful%20artificial%20intelligence%20Forging%20a%20305d6e6e02d4435d8a703a1292c0d18a.md)
 - [Gil — Will AI write scientific papers in the future?](computational-scientific-discovery/general/Gil%20%E2%80%94%20Will%20AI%20write%20scientific%20papers%20in%20the%20futur%20619386014dac4c7698b744addadd2596.md)
