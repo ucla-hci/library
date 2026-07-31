@@ -59,6 +59,7 @@ Notes of what we read
 - [Klahr & Dunbar — Dual Space Search During Scientific Reasoning](computational-scientific-discovery/hypothesis-generation/Klahr%20%26%20Dunbar%20%E2%80%94%20Dual%20Space%20Search%20During%20Scientif%20ab068a86252640bca9a4045f9f78b8f6.md)
 - [Lin et al.: HypoBench: Towards Systematic and Principled Benchmarking for Hypothesis Generation](computational-scientific-discovery/hypothesis-generation/lin_hypobench.md)
 - [Liu et al.: Literature Meets Data: A Synergistic Approach to Hypothesis Generation](computational-scientific-discovery/hypothesis-generation/liu_literature-meets-data.md)
+- [Liu et al.: PersonaFlow: Designing LLM-Simulated Expert Perspectives for Enhanced Research Ideation](computational-scientific-discovery/hypothesis-generation/liu_personaflow-designing-llm-simulated-expert-perspectives-for-enhanced-research-ideation.md)
 - [Majumder et al.: DiscoveryBench: Towards Data-Driven Discovery with Large Language Models](computational-scientific-discovery/hypothesis-generation/majumder_discoverybench-towards-data-driven-discovery-with-large-language-models.md)
 - [Nigam et al.: An interactive co-pilot for accelerated research ideation](computational-scientific-discovery/hypothesis-generation/nigam_an-interactive-copilot-for-accelerated-research-ideation.md)
 - [Pu et al.: IdeaSynth: Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback](computational-scientific-discovery/hypothesis-generation/pu_ideasynth.md)
@@ -169,7 +170,6 @@ Notes of what we read
 
 ### AI with Theory of Mind
 
-- [Author — Title](unsorted/AI%20with%20Theory%20of%20Mind/Author%20%E2%80%94%20Title%2064e19833b89846e9bc7ce1f308fa0e5d.md)
 - [Göldi et al. — Intelligent Support Engages Writers Through Relevant Cognitive Processes](unsorted/AI%20with%20Theory%20of%20Mind/Go%CC%88ldi%20et%20al%20%E2%80%94%20Intelligent%20Support%20Engages%20Writers%20%20e7fc915f2a2941979574bbd5f7026aa8.md)
 - [Hiatt & Trafton — A cognitive model of theory of mind](unsorted/AI%20with%20Theory%20of%20Mind/Hiatt%20%26%20Trafton%20%E2%80%94%20A%20cognitive%20model%20of%20theory%20of%20m%20f2f711c951724f4083104eafbcef574c.md)
 - [Mozannar et al. — When to Show a Suggestion? Integrating Human Feedback in AI-Assisted Programming](unsorted/AI%20with%20Theory%20of%20Mind/Mozannar%20et%20al%20%E2%80%94%20When%20to%20Show%20a%20Suggestion%20Integra%2079382deccf9c40d4a799487a78cb45c2.md)
@@ -179,14 +179,12 @@ Notes of what we read
 ### Fairness & Biases
 
 - [\[→HFAI\] Friedman & Nissenbaum — Bias in Computer Systems](unsorted/Fairness%20%26%20Biases/%5B%E2%86%92HFAI%5D%20Friedman%20%26%20Nissenbaum%20%E2%80%94%20Bias%20in%20Computer%20S%202230b2facd29804b914aed633327d1fc.md)
-- [Author — Title](unsorted/Fairness%20%26%20Biases/Author%20%E2%80%94%20Title%201ab0b2facd2980a9a80ff5ee12577c6f.md)
 - [Bianchi et al. — Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale](unsorted/Fairness%20%26%20Biases/Bianchi%20et%20al%20%E2%80%94%20Easily%20Accessible%20Text-to-Image%20Ge%201ab0b2facd2980be9d44d5f4930edd8b.md)
 - [Kim et al. — Fostering Appropriate Reliance on Large Language Models: The Role of Explanations, Sources, and Inconsistencies](unsorted/Fairness%20%26%20Biases/Kim%20et%20al%20%E2%80%94%20Fostering%20Appropriate%20Reliance%20on%20Larg%201df0b2facd2980118419d44314374ad3.md)
 - [Torralba & Efros — Unbiased look at dataset bias](unsorted/Fairness%20%26%20Biases/Torralba%20%26%20Efros%20%E2%80%94%20Unbiased%20look%20at%20dataset%20bias%201eb0b2facd298029a271dd4ad34b8951.md)
 
 ### Generative AI for UX Design
 
-- [Author — Title](unsorted/Generative%20AI%20for%20UX%20Design/Author%20%E2%80%94%20Title%20c2f4998abea2403ea014b46d9dfef328.md)
 - [Dayama et al. — GRIDS: Interactive Layout Design with Integer Programming](unsorted/Generative%20AI%20for%20UX%20Design/Dayama%20et%20al%20%E2%80%94%20GRIDS%20Interactive%20Layout%20Design%20wit%201b50b2facd2980c2a563ff2b43574827.md)
 - [Diefenbach et al. — The state of prototyping practice in the industrial setting: Potential, challenges and implications](unsorted/Generative%20AI%20for%20UX%20Design/Diefenbach%20et%20al%20%E2%80%94%20The%20state%20of%20prototyping%20practi%201530b2facd2980e3b620d847c86d5f81.md)
 - [Feng et al. — How Do UX Practitioners Communicate AI as a Design Material? Artifacts, Conceptions, and Propositions](unsorted/Generative%20AI%20for%20UX%20Design/Feng%20et%20al%20%E2%80%94%20How%20Do%20UX%20Practitioners%20Communicate%20A%208367fff959ed403e8e720c4dd3cef2a5.md)
@@ -210,7 +208,6 @@ Notes of what we read
 
 ### HCI Foundations
 
-- [Author — Title](unsorted/HCI%20Foundations/Author%20%E2%80%94%20Title%209129870291a142519b4bf10dc4ef2a4d.md)
 - [Beaudouin-Lafon et al. — Generative Theories of Interaction](unsorted/HCI%20Foundations/Beaudouin-Lafon%20et%20al%20%E2%80%94%20Generative%20Theories%20of%20Int%2023f9937015e34a098a99d5246339369b.md)
 - [Greenberg — Toolkits and interface creativity](unsorted/HCI%20Foundations/Greenberg%20%E2%80%94%20Toolkits%20and%20interface%20creativity%2049a0dd5666804b4d83e2a5f163c3c801.md)
 - [Hudson & Mankoff — Concepts, Values, and Methods for Technical Human-Computer Interaction Research](unsorted/HCI%20Foundations/Hudson%20%26%20Mankoff%20%E2%80%94%20Concepts%2C%20Values%2C%20and%20Methods%20f%208db56392601e48db81768fe67881fa36.md)
@@ -224,13 +221,11 @@ Notes of what we read
 
 ### Human-Agents Interaction
 
-- [Author — Title](unsorted/Human-Agents%20Interaction/Author%20%E2%80%94%20Title%202220b2facd298079b778cc39504fc544.md)
 - [Lieberman — Autonomous interface agents](unsorted/Human-Agents%20Interaction/Lieberman%20%E2%80%94%20Autonomous%20interface%20agents%202220b2facd2980bd823dc93d6e0aef70.md)
 
 ### Human-Centered Generative AI
 
 - [Amabile — The social psychology of creativity: A componential conceptualization.](unsorted/Human-Centered%20Generative%20AI/Amabile%20%E2%80%94%20The%20social%20psychology%20of%20creativity%20A%20co%208a83e0a4afdf4c14ae5ca88f4d70248e.md)
-- [Author — Title](unsorted/Human-Centered%20Generative%20AI/Author%20%E2%80%94%20Title%20489ff304ac1c4d99aa4a6993250a103f.md)
 - [Cutting et al. — Scatter/gather: A cluster-based approach to browsing large document collections](unsorted/Human-Centered%20Generative%20AI/Cutting%20et%20al%20%E2%80%94%20Scatter%20gather%20A%20cluster-based%20app%200aa7782d508244eea12be8206b4db5f5.md)
 - [Härkönen et al. — Ganspace: Discovering interpretable gan controls](unsorted/Human-Centered%20Generative%20AI/Ha%CC%88rko%CC%88nen%20et%20al%20%E2%80%94%20Ganspace%20Discovering%20interpretabl%20168e41787aef40b694470ac581a88838.md)
 - [Marks et al. — Design galleries: A general approach to setting parameters for computer graphics and animation](unsorted/Human-Centered%20Generative%20AI/Marks%20et%20al%20%E2%80%94%20Design%20galleries%20A%20general%20approach%20%20900ced1f045b4c30b90c97a04275c6d7.md)
@@ -240,14 +235,12 @@ Notes of what we read
 
 ### Interactivity
 
-- [Author — Title](unsorted/Interactivity/Author%20%E2%80%94%20Title%201b60b2facd29807d98d0d361f441385d.md)
 - [Lee et al.— Clarify: Improving Model Robustness With Natural Language Corrections](unsorted/Interactivity/Lee%20et%20al%20%E2%80%94%20Clarify%20Improving%20Model%20Robustness%20Wit%2020d0b2facd2980a9801fc2b2e7a7d6ed.md)
 - [Morris — Prompting Considered Harmful](unsorted/Interactivity/Morris%20%E2%80%94%20Prompting%20Considered%20Harmful%2021e0b2facd2980c4b483f9c12ae58479.md)
 - [Zamfirescu-Pereira et al. — Why Johnny Can’t Prompt: How Non-AI Experts Try (and Fail) to Design LLM Prompts](unsorted/Interactivity/Zamfirescu-Pereira%20et%20al%20%E2%80%94%20Why%20Johnny%20Can%E2%80%99t%20Prompt%201b60b2facd29800e81afcbfd2fd79293.md)
 
 ### Scientific Discovery Support Tools
 
-- [Author — Title](unsorted/Scientific%20Discovery%20Support%20Tools/Author%20%E2%80%94%20Title%20d5cc6c7646464545aa9e6ee89f8dce89.md)
 - [Bridewell et al. — An interactive environment for the modeling and discovery of scientific knowledge](unsorted/Scientific%20Discovery%20Support%20Tools/Bridewell%20et%20al%20%E2%80%94%20An%20interactive%20environment%20for%20t%201340b2facd2980a7aa04ce7b51337f2c.md)
 - [Chen et al. — Towards an explanatory and computational theory of scientific discovery](unsorted/Scientific%20Discovery%20Support%20Tools/Chen%20et%20al%20%E2%80%94%20Towards%20an%20explanatory%20and%20computatio%2049631e6cb4054d3197be32caf5123009.md)
 - [Cheng et al. — Artificial intelligence and open science in discovery of disease-modifying medicines for Alzheimer’s disease](unsorted/Scientific%20Discovery%20Support%20Tools/Cheng%20et%20al%20%E2%80%94%20Artificial%20intelligence%20and%20open%20sci%2017e0b2facd2980f4ac24fa9bf4e3eb42.md)
@@ -284,12 +277,10 @@ Notes of what we read
 
 ### The Art of Toolmaking
 
-- [Author — Title](unsorted/The%20Art%20of%20Toolmaking/Author%20%E2%80%94%20Title%20b8587197be944bc8800bf58646c7cfd4.md)
 - [Gero — Computational Models of Innovative and Creative Design Processes](unsorted/The%20Art%20of%20Toolmaking/Gero%20%E2%80%94%20Computational%20Models%20of%20Innovative%20and%20Crea%2080ac8965f3bb4dffa9ac41f5c9ac08f5.md)
 
 ### Trust & Reliance on AI
 
-- [Author — Title](unsorted/Trust%20%26%20Reliance%20on%20AI/Author%20%E2%80%94%20Title%2056604c80c5214941ac8f549697666944.md)
 - [Bansal et al. — Beyond accuracy: The role of mental models in human-AI team performance](unsorted/Trust%20%26%20Reliance%20on%20AI/Bansal%20et%20al%20%E2%80%94%20Beyond%20accuracy%20The%20role%20of%20mental%20%208da0d82ee78c408fa2300fd1821ea9b7.md)
 - [Buçinca et al. — To trust or to think: cognitive forcing functions can reduce overreliance on AI in AI-assisted decision-making](unsorted/Trust%20%26%20Reliance%20on%20AI/Buc%CC%A7inca%20et%20al%20%E2%80%94%20To%20trust%20or%20to%20think%20cognitive%20for%20f83813b0dd3e4a10938f0ef0128ee7cd.md)
 - [Cao et al. — Designing for Appropriate Reliance: The Roles of AI Uncertainty Presentation, Initial User Decision, and User Demographics in AI-Assisted Decision-Making](unsorted/Trust%20%26%20Reliance%20on%20AI/Cao%20et%20al%20%E2%80%94%20Designing%20for%20Appropriate%20Reliance%20The%2073812da91a234eacb7939269e5850238.md)
