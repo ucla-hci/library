@@ -48,5 +48,14 @@ The following two viewpoints from two different philosophers take it one step fu
 ### One of the ancestors of symbiotic computing
 > Butler's influence is also evident in modern speculative essays that predict either the coming of a new symbiotic relationship between humans and machines or the supersession of humankind by new forms of technology that are capable of self-replication, such as robots and computers.
 
+### Take-away from Pitt-Rivers' work
+> ... every made thing could be placed within a sequence, which itself was interconnected to other sequences, and that, if we followed these backward in time, they would converge, leading us to the earliest human artifacts.
+
+### Marx's view on technological evolution
+> Invention is a social process, argued Marx, that rests on the accumulation of many minor improvements, not the heroic efforts of a few geniuses.
+
+### Related to Thagard's theory that creativity is combinatorial
+> Ogburn ... defining invention as combining existing and known elements of culture in order to form a new element.
+
 ## Take-Away
 <!-- critiques, ideas, actionable things, etc. -->
