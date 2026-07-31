@@ -14,26 +14,25 @@ intro={With the rapid growth of scholarly archives, researchers subscribe to “
 
 # One Sentence
 
----
+
 
 The authors presented PaperWeaver which is an enhanced paper alert system that provides contextual summaries of recommended papers based on user-collected papers for supporting ideation for research direction.
 
 # More Sentences
 
----
+
 
 # Key Points
 
----
 
-![스크린샷 2024-08-13 오후 5.40.20.png](../../_assets/lee_et_al_papersaperweaver_enriching_topical_pap_3523c51ccee14d0b91893d9c50b6b614-%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2024-08-13_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_5.40.20.png)
+
+![PaperWeaver overview](../../_assets/lee-paperweaver-overview.png)
 
 # Other Notes
 
----
+
 
 # Take-Away
 
----
-
-Author’s preference based
+### Might be used for presenting literature in computational research pipeline
+... although a more sough-after approach could be just summarize the whole collection of papers as opposed to individuals
