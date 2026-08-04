@@ -10,6 +10,10 @@
 
 > A close examination of these themes reveals that diversity is a fact of material culture, necessity is a popular but erroneous explanation of diversity, and technological evolution is a way of accounting for diversity without recourse to the idea of biological necessity.
 
+> Organic evolutionists since Darwin have been reluctant to accept the idea of life evolving toward some predetermined goal. Mention of direction, purpose, or progress in connection with organic evolution is avoided because it is thought to introduce metaphysical speculation into scientific discourse. In similar fashion I have resisted the tendency to make the advancement of humanity or biological necessity the end toward which all technological change is directed. Instead, I explain artifactual diversity as the material manifestation of the various ways men and women throughout history have chosen to define and pursue existence.
+
+> Neither the historical record nor our understanding of the current role of technology in society justifies a return to the idea that a causal connection exists between advances in technology and the overall betterment of the human race. Therefore, the popular but illusory concept of technological progress should be discarded. In its place we should cultivate an appreciation for the diversity of the made world, for the fertility of the technological imagination, and for the grandeur and antiquity of teh network of related artifacts.
+
 ## Key Points
 <!-- the most important things in this paper -->
 
@@ -17,6 +21,8 @@
 > The existence of continuity implies that novel artifacts can only arise from antecedent artifacts--that new kinds of made things are never pure creations of theory, ingenuity, or fancy.
 
 > If technology is to evolve, then novelty must appear in the midst of the continuous. ... The conclusion drawn from this survey is that any society, at any time, commands more potential for technological innovation than it can ever hope to exploit.
+
+> ... every novel artifact has an antecedent.
 
 ### How necessity is culturally-dependent
 (Necessity as the one that is thought to drive technological evolution)
@@ -57,5 +63,14 @@ The following two viewpoints from two different philosophers take it one step fu
 ### Related to Thagard's theory that creativity is combinatorial
 > Ogburn ... defining invention as combining existing and known elements of culture in order to form a new element.
 
+### How artifactual diversity is one of the highest expressions of human existence
+> The history of technology is not a record of the artifacts fashioned in order to ensure our survival. Instead, it is a testimony to the fertility of the contriving mind and to the multitudinous ways the peoples of the earth have chosen to live. Seen in this light, artifactual diversity is one of the highest expressions of human existence.
+
+### Childe's consideration of population growth equals progress
+The revolutions that gave human kind agriculture, metals, cities, and writing each resulted in the proliferation of the human species. Therefore, the Industrial Revolution was not a unique event; it was merely the latest in a series of technological revolutions that had hastened humankind's progress through the ages.
+
 ## Take-Away
 <!-- critiques, ideas, actionable things, etc. -->
+
+### One limitation of this book's theory
+Similar to Moore's law, this book's theory, that technology is evolutionary, is based on observation. The theory is unable to explain why the development of technology resembles that of an evolution.
