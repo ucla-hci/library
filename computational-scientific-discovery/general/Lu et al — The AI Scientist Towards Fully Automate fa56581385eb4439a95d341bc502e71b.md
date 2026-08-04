@@ -22,20 +22,14 @@
 
 # One Sentence
 
----
-
 This paper describes the use of language models to automate machine learning research process: provided with some initial code and paper template, the AI scientist is able to brainstorm ideas, design and conduct experiments, and write up the results into a paper, which is then reviewed by AI reviewers.
 
 # More Sentences
-
----
 
 > Given a broad research direction and a simple initial codebase, The AI Scientist seamlessly performs ideation, a literature search, experimental planning, experiment iterations, manuscript writing, and peer reviewing to produce insightful papers.
 > 
 
 # Key Points
-
----
 
 ### The limitation of existing AI for Science
 
@@ -44,13 +38,13 @@ This paper describes the use of language models to automate machine learning res
 
 # Other Notes
 
----
-
 # Take-Away
-
----
 
 Is this considered success?
 
 > … can generate hundreds of interesting, medium-quality papers over the course of a week.
 >
+
+What can we learn from this work? That current LLM can be put together to do "medium quality" research?
+
+This is a success as a proof of concept for automating the research pipeline: it demonstrates end-to-end autonomy and high, inexpensive throughput. But it is weak evidence of successful scientific discovery, which requires independently verified novelty, correctness, reproducibility, and meaningful impact. Generating papers faster than they can be critically evaluated may instead increase noise, shifting the bottleneck from producing research to verifying it.
