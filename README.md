@@ -133,6 +133,10 @@ Notes of what we read
 - [van Duyne, Landay & Hong — The Design of Sites: Patterns for Creating Winning Web Sites](genui/unread/vanDuyne%20%E2%80%94%20Design%20of%20Sites%20Patterns%20Web%20Experience%20f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1.md)
 - [van Welie & van der Veer — Pattern Languages in Interaction Design: Structure and Organization](genui/unread/vanWelie%20%E2%80%94%20Pattern%20Languages%20in%20Interaction%20Design%20a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d7.md)
 
+## HCI 101
+
+- [Rogers et al.: New Theoretical Approaches for Human-Computer Interaction](hci-101/rogers_new-theoretical-approaches-for-human-computer-interaction.md)
+
 ## Others
 
 - [Bødker et al.: Understanding Representation in Design](others/bdker_understanding-representation-in-design.md)
