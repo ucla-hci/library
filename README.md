@@ -137,6 +137,15 @@ Notes of what we read
 
 - [Rogers et al.: New Theoretical Approaches for Human-Computer Interaction](hci-101/rogers_new-theoretical-approaches-for-human-computer-interaction.md)
 
+## Human Factors In Computing
+
+### Bias
+
+- [\[→HFAI\] Friedman & Nissenbaum — Bias in Computer Systems](human-factors-in-computing/bias/Friedman%20%26%20Nissenbaum%20%E2%80%94%20Bias%20in%20Computer%20S%202230b2facd29804b914aed633327d1fc.md)
+- [Bianchi et al. — Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale](human-factors-in-computing/bias/Bianchi%20et%20al%20%E2%80%94%20Easily%20Accessible%20Text-to-Image%20Ge%201ab0b2facd2980be9d44d5f4930edd8b.md)
+- [Kim et al. — Fostering Appropriate Reliance on Large Language Models: The Role of Explanations, Sources, and Inconsistencies](human-factors-in-computing/bias/Kim%20et%20al%20%E2%80%94%20Fostering%20Appropriate%20Reliance%20on%20Larg%201df0b2facd2980118419d44314374ad3.md)
+- [Torralba & Efros — Unbiased look at dataset bias](human-factors-in-computing/bias/Torralba%20%26%20Efros%20%E2%80%94%20Unbiased%20look%20at%20dataset%20bias%201eb0b2facd298029a271dd4ad34b8951.md)
+
 ## Others
 
 - [Bødker et al.: Understanding Representation in Design](others/bdker_understanding-representation-in-design.md)
@@ -179,13 +188,6 @@ Notes of what we read
 - [Mozannar et al. — When to Show a Suggestion? Integrating Human Feedback in AI-Assisted Programming](unsorted/AI%20with%20Theory%20of%20Mind/Mozannar%20et%20al%20%E2%80%94%20When%20to%20Show%20a%20Suggestion%20Integra%2079382deccf9c40d4a799487a78cb45c2.md)
 - [Pynadath & Marsella — PsychSim: modeling theory of mind with decision-theoretic agents](unsorted/AI%20with%20Theory%20of%20Mind/Pynadath%20%26%20Marsella%20%E2%80%94%20PsychSim%20modeling%20theory%20of%20%20df60500ef28440baad4bb596dfaacd5a.md)
 - [Scassellati — Theory of Mind for a Humanoid Robot](unsorted/AI%20with%20Theory%20of%20Mind/Scassellati%20%E2%80%94%20Theory%20of%20Mind%20for%20a%20Humanoid%20Robot%202305f644792b4684b1ac245ff5da65c0.md)
-
-### Fairness & Biases
-
-- [\[→HFAI\] Friedman & Nissenbaum — Bias in Computer Systems](unsorted/Fairness%20%26%20Biases/%5B%E2%86%92HFAI%5D%20Friedman%20%26%20Nissenbaum%20%E2%80%94%20Bias%20in%20Computer%20S%202230b2facd29804b914aed633327d1fc.md)
-- [Bianchi et al. — Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale](unsorted/Fairness%20%26%20Biases/Bianchi%20et%20al%20%E2%80%94%20Easily%20Accessible%20Text-to-Image%20Ge%201ab0b2facd2980be9d44d5f4930edd8b.md)
-- [Kim et al. — Fostering Appropriate Reliance on Large Language Models: The Role of Explanations, Sources, and Inconsistencies](unsorted/Fairness%20%26%20Biases/Kim%20et%20al%20%E2%80%94%20Fostering%20Appropriate%20Reliance%20on%20Larg%201df0b2facd2980118419d44314374ad3.md)
-- [Torralba & Efros — Unbiased look at dataset bias](unsorted/Fairness%20%26%20Biases/Torralba%20%26%20Efros%20%E2%80%94%20Unbiased%20look%20at%20dataset%20bias%201eb0b2facd298029a271dd4ad34b8951.md)
 
 ### Generative AI for UX Design
 
