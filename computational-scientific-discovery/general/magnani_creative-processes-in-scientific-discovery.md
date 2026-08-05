@@ -22,11 +22,16 @@
 
 Example criteria to assess the goodness of a hypothesis
 > *Consilience* can measure how much a hypothesis explains ... the aim is not the sheer amount of data explained, but its relative significance.
+>
 > *Simplicity* ... deals with the problem of the level of conceptual complexity of hypotheses when their consiliences are equal
+
+**Answer:** They are examples, not an exhaustive list. Magnani explicitly calls evaluation “multi-dimensional.” He presents consilience and simplicity as rational explanatory criteria, then adds that motivational, ethical, and pragmatic criteria can also affect which explanation is selected.
+
 ## Other Notes
 ### Understanding how some consider scientific discovery as a search problem
 > The computational method known as heuristic search is in some sense a revival of those old ideas of induction by elimination, but with machine methods of generation and search substituted for exhaustive enumeration.
 
-## Take-Away
+**Answer:** It supports the search framing, but only in a qualified sense. Magnani endorses Simon's view of discovery as heuristic problem solving and treats heuristic search as a workable model of *selective abduction*, especially in a constrained domain such as medical diagnosis. He does not claim that all discovery reduces to searching a fixed, enumerable hypothesis space: scientific theory change has an open-ended language and requires *creative abduction* to generate genuinely new hypotheses. Search is therefore one component of his broader abduction–deduction–induction model, not a complete account of scientific discovery.
 
+## Take-Away
 

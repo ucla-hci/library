@@ -44,6 +44,7 @@ Notes of what we read
 - [Lee et al. — PapersaperWeaver: Enriching Topical Paper Alerts by Contextualizing Recommended Papers with User-collected Papers](computational-scientific-discovery/general/Lee%20et%20al%20%E2%80%94%20PapersaperWeaver%20Enriching%20Topical%20Pap%203523c51ccee14d0b91893d9c50b6b614.md)
 - [Leslie et al.: Does the Sun Rise for ChatGPT? Scientific Discovery in the Age of Generative AI](computational-scientific-discovery/general/leslie_does-the-sun-rise-for-chatgpt-scientific-discovery-in-the-age-of-generative-ai.md)
 - [Lu et al. — The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](computational-scientific-discovery/general/Lu%20et%20al%20%E2%80%94%20The%20AI%20Scientist%20Towards%20Fully%20Automate%20fa56581385eb4439a95d341bc502e71b.md)
+- [Magnani et al.: Creative Processes in Scientific Discovery](computational-scientific-discovery/general/magnani_creative-processes-in-scientific-discovery.md)
 - [Messeri et al.: Artificial intelligence and illusions of understanding in scientific research](computational-scientific-discovery/general/messeri_artificial-intelligence-and-illusions-of-understanding-in-scientific-research.md)
 - [Stanford Philosophy Department — Scientific Discovery](computational-scientific-discovery/general/Stanford%20Philosophy%20Department%20%E2%80%94%20Scientific%20Discov%20090a5c887f904fa88888bfd4abe635f0.md)
 
@@ -88,7 +89,6 @@ Notes of what we read
 
 ### Unsorted
 
-- [Magnani et al.: Creative Processes in Scientific Discovery](computational-scientific-discovery/unsorted/magnani_creative-processes-in-scientific-discovery.md)
 - [Morris — Scientists' Perspectives on the Potential for Generative AI in their Fields](computational-scientific-discovery/unsorted/Morris%20%E2%80%94%20Scientists%27%20Perspectives%20on%20the%20Potential%208e076be900d442babe88dc014144dc49.md)
 - [Nuzzo — How scientists fool themselves—and how they can stop](computational-scientific-discovery/unsorted/Nuzzo%20%E2%80%94%20How%20scientists%20fool%20themselves%E2%80%94and%20how%20the%207bb2fcdb24a744d78185ba5e1af9d6ac.md)
 - [Oleksik et al. — Beyond Data Sharing: Artifact Ecology of a Collaborative](computational-scientific-discovery/unsorted/Oleksik%20et%20al%20%E2%80%94%20Beyond%20Data%20Sharing%20Artifact%20Ecolo%20cfb99b7228e14d3bafd9ff0580967479.md)
