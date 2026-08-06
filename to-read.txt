@@ -14,6 +14,10 @@ https://arxiv.org/pdf/2509.16779
 others:
 https://www.tandfonline.com/doi/pdf/10.1207/s15327051hci1302_1?casa_token=4PUjU5R9TP4AAAAA:7qd9V4hYqopm49gjMXcWRfeI9xJqNUU8i8BelSiqDP0MKMM-7Lh_JxNWcgFdso_dsAZOguPkEBR0yxo
 
+HCI theory:
+Hutchins, E. L., Hollan, J. D., & Norman, D. A. (1986). Direct manipulation interfaces. In D. A. Norman & S. W. Draper (Eds.), User centered system design: New perspectives on human-computer interaction (pp. 87–124). Lawrence Erlbaum Associates. Journal version: https://doi.org/10.1207/s15327051hci0104_2
+Draper, S. W. (1992). The new direction for HCI? [Review of Through the interface: A human activity approach to user interface design, by S. Bødker]. International Journal of Man-Machine Studies, 37(6), 812–821. https://dblp.org/rec/journals/ijmms/Draper92a
+
 Carrillo et al. related readings:
 Banker et al. (2024), Machine-assisted social psychology hypothesis generation
 https://doi.org/10.1037/amp0001222
