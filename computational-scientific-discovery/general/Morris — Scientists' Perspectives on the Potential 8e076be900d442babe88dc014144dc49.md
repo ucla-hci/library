@@ -21,24 +21,24 @@
 
 # One Sentence
 
----
+
 
 This paper reports an interview with 20 scientists across various domains on opportunities and concerns of Generative AI contributing to scientific work.
 
 # More Sentences
 
----
+
 
 # Key Points
 
----
+
 
 ### Scientists’ subjective, suboptimal, heuristic-led decision making
 
 > … Generative AI models to help scientists better direct their attention and resources, such as by helping them choose which of several hypotheses might be most likely to yield results, what data to gather to support their inquiry, or how to optimize experimental protocols and conditions.
 > 
 
-Some of the existing decisions scientists make are based on pure heuristics or convenience, lacking a systematic, thorough process, such as
+Some of the existing decisions scientists make are based on pure heuristics or convenience (related to cognitive limitations), lacking a systematic, thorough process, such as
 
 > … placement of monitoring equipment is critical for studying earthquakes …
 > 
@@ -53,7 +53,7 @@ Some of the existing decisions scientists make are based on pure heuristics or c
 
 # Other Notes
 
----
+
 
 ### Helping with data is always a useful thing
 
@@ -73,4 +73,3 @@ Some of the existing decisions scientists make are based on pure heuristics or c
 
 # Take-Away
 
----
