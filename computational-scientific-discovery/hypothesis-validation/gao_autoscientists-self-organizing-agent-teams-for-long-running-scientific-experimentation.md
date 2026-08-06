@@ -6,6 +6,10 @@
 <!-- summarize the paper in one sentence, ideally with one figure as well -->
 This paper employs an agentic framework where agents dynamically form teams to explore multiple hypotheses in parallel, interpret and exchange results, then self-reorganize teams for the next iteration, demonstrating superior performance over multiple domains of tasks compared to a single-agent, convergence-before-exploration approach.
 
+![Figure 1: AutoScientists forms self-organizing teams, runs parallel experiments, shares experimental state, and reorganizes after stagnation](../../_assets/autoscientists-figure-1.png)
+
+*Figure 1. AutoScientists forms teams around research directions, runs experiments in parallel, shares results and dead ends, and reorganizes when progress stagnates.*
+
 ## More Sentences
 <!-- additional sentences -->
 
@@ -86,4 +90,3 @@ A: Priority reading list:
 5. Biomni (Huang et al., 2025) and STELLA (Jin et al., 2026) - relevant biomedical-agent baselines used in the BioML-Bench comparison.
 6. Agent Laboratory (Schmidgall et al., 2025) and AstaBench (Bragg et al., 2025) - useful for the broader "agents as research assistants / scientific benchmark" context.
 7. The Virtual Lab (Swanson et al., 2025), ROBIN (Ghareeb et al., 2025), and CASCADE / AlphaEvolve / AI-Researcher style systems - worth skimming for alternative multi-agent or code-evolution approaches, but less central to the specific AutoScientists claim than AIDE, Autoresearch, and AI Co-Scientist. -->
-
