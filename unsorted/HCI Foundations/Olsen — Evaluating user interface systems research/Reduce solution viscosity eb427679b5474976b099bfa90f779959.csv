@@ -1,0 +1,8 @@
+﻿Name,Description,How to claim/evaluate
+Flexibility,The ability to make rapid design changes and evaluation of such changes,"""Define some interesting and diverse set of possible design changes and show that such changes take significantly less effort in the new tool relative to the competition"""
+Expressive leverage,"The ability to accomplish more by expressing less.
+""... achieved when a tool reduces the total number of choices that a designer must make to express a desired solution.""","1. Eliminate repetitive choices by reuse (recurring decision can be made once as a global setting); generalizing certain tasks (creating any table amounts to specifying the # of rows and columns);
+2. Imply more choices from existing ones (e.g., setting complementary colors once the background color is set);
+3. Through the progress of technology (e.g., faster processor makes UI response optimization obsolete)."
+Expressive match,How close the means for expressing design choices are to the problem being solved.,"""If the problems are small enough one can compare times to create a design or express a set of choices""
+""Frequently greater expressive match is tied to a claim to lower skill barrier"""
