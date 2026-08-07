@@ -26,13 +26,13 @@
 
 # One Sentence
 
----
+
 
 This article describes various kinds of biases that might influence scientists’ work.
 
 # More Sentences
 
----
+
 
 > Science is an ongoing race between our inventing ways to fool ourselves, and our inventing ways to avoid fooling ourselves
 > 
@@ -41,7 +41,7 @@ This article describes various kinds of biases that might influence scientists�
 
 # Key Points
 
----
+
 
 ### Hypothesis myopia
 
@@ -78,15 +78,17 @@ How to implement this: replace the actual data set with a fake one, apply the wh
 
 # Other Notes
 
----
+
 
 ### The impact of software
 
 > … the widespread use of point-and-click data-analysis software has made it easy for researchers to sift through massive data sets without fully understanding the methods.
-> 
+
+LLM is making this worse.
+
 
 # Take-Away
 
----
-
 Idea: develop tools to counter the three biases above?
+
+What's discussed here are cognitive limitations. Very relevant to limitation-oriented design.

@@ -47,6 +47,7 @@ Notes of what we read
 - [Magnani et al.: Creative Processes in Scientific Discovery](computational-scientific-discovery/general/magnani_creative-processes-in-scientific-discovery.md)
 - [Messeri et al.: Artificial intelligence and illusions of understanding in scientific research](computational-scientific-discovery/general/messeri_artificial-intelligence-and-illusions-of-understanding-in-scientific-research.md)
 - [Morris — Scientists' Perspectives on the Potential for Generative AI in their Fields](computational-scientific-discovery/general/Morris%20%E2%80%94%20Scientists%27%20Perspectives%20on%20the%20Potential%208e076be900d442babe88dc014144dc49.md)
+- [Nuzzo — How scientists fool themselves—and how they can stop](computational-scientific-discovery/general/Nuzzo%20%E2%80%94%20How%20scientists%20fool%20themselves%E2%80%94and%20how%20the%207bb2fcdb24a744d78185ba5e1af9d6ac.md)
 - [Stanford Philosophy Department — Scientific Discovery](computational-scientific-discovery/general/Stanford%20Philosophy%20Department%20%E2%80%94%20Scientific%20Discov%20090a5c887f904fa88888bfd4abe635f0.md)
 
 ### Hypothesis Generation
@@ -90,7 +91,6 @@ Notes of what we read
 
 ### Unsorted
 
-- [Nuzzo — How scientists fool themselves—and how they can stop](computational-scientific-discovery/unsorted/Nuzzo%20%E2%80%94%20How%20scientists%20fool%20themselves%E2%80%94and%20how%20the%207bb2fcdb24a744d78185ba5e1af9d6ac.md)
 - [Oleksik et al. — Beyond Data Sharing: Artifact Ecology of a Collaborative](computational-scientific-discovery/unsorted/Oleksik%20et%20al%20%E2%80%94%20Beyond%20Data%20Sharing%20Artifact%20Ecolo%20cfb99b7228e14d3bafd9ff0580967479.md)
 - [Portenoy et al. — Bursting scientific filter bubbles: Boosting innovation via novel author discovery](computational-scientific-discovery/unsorted/Portenoy%20et%20al%20%E2%80%94%20Bursting%20scientific%20filter%20bubble%20ac2a248e0e124dddb7bc2604243305ab.md)
 - [Pun et al.: Target identification and assessment in the era of AI](computational-scientific-discovery/unsorted/pun_target-identification-and-assessment-in-the-era-of-ai.md)
