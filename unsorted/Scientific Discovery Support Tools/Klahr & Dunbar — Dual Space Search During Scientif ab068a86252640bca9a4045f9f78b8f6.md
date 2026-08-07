@@ -25,17 +25,14 @@
 
 # One Sentence
 
----
 
 This paper proposes a  theory of scientific discovery that unified two traditionally disjoint views of concept-formation vs. problem-solving as a dual-space search process: searching in the “space of rules” for a concept or solution, which is then tested on a subset from the “space of instances”. 
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### The general, historical view of SD
 
@@ -70,7 +67,6 @@ This paper proposes a  theory of scientific discovery that unified two tradition
 
 # Other Notes
 
----
 
 ### Confirmation bias in designing experiments
 
@@ -89,5 +85,3 @@ This paper proposes a  theory of scientific discovery that unified two tradition
 > 
 
 # Take-Away
-
----

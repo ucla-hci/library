@@ -6,13 +6,11 @@ Reference
 
 # One Sentence
 
----
 
 This paper studied how providing explanations and sources influence how people appropriately rely on LLM’s repsonse.
 
 # More Sentences
 
----
 
 > We find that the presence of explanations increases reliance on both correct and incorrect responses. However, we observe less reliance on incorrect responses when sources are provided or when explanations exhibit inconsistencies.
 > 
@@ -22,7 +20,6 @@ This paper studied how providing explanations and sources influence how people a
 
 # Key Points
 
----
 
 ### Different definition of LLM explanation
 
@@ -35,7 +32,6 @@ This paper studied how providing explanations and sources influence how people a
 
 # Other Notes
 
----
 
 ### Can cite this when motivating research on overreliance on LLM
 
@@ -54,7 +50,6 @@ This paper studied how providing explanations and sources influence how people a
 
 # Take-Away
 
----
 
 ### The method
 

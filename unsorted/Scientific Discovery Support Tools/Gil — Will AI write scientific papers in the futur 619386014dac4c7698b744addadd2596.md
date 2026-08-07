@@ -25,17 +25,14 @@
 
 # One Sentence
 
----
 
 In this paper, the author describes her past work on employing AI to capture scientific knowledge, to systematize scientific data analysis, and to integrate models from different scientific domains, pointing to a future where scientists work closely with AI.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### The three examples of AI capturing scientific knowledge
 
@@ -55,7 +52,6 @@ In this paper, the author describes her past work on employing AI to capture sci
 
 # Other Notes
 
----
 
 ### AI for synthesizing new knowledge
 
@@ -78,5 +74,3 @@ In this paper, the author describes her past work on employing AI to capture sci
 > 
 
 # Take-Away
-
----

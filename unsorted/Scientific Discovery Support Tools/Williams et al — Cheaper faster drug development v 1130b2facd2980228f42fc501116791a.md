@@ -24,20 +24,17 @@
 
 # One Sentence
 
----
 
 This paper describes Eve—a Robot Scientist focused on the target ID phase in drug discovery, which can automate the initial hit screening, iteratively conduct further “hit confirmation”, and compute the QSAR metric.
 
 # More Sentences
 
----
 
 > A Robot Scientist is a laboratory automation system that uses artificial intelligence (AI) techniques to discover scientific knowledge through cycles of experimentation. Eve integrates and automates library-screening, hit-confirmation, and lead generation through cycles of quantitative structure activity relationship (QSAR) learning and testing.
 > 
 
 # Key Points
 
----
 
 ### Problem: limitation of existing screening techniques for hit ID
 
@@ -57,7 +54,6 @@ This paper describes Eve—a Robot Scientist focused on the target ID phase in d
 
 # Other Notes
 
----
 
 ### What is QSAR (quantitative structure activity relationship)?
 
@@ -65,5 +61,3 @@ This paper describes Eve—a Robot Scientist focused on the target ID phase in d
 > 
 
 # Take-Away
-
----

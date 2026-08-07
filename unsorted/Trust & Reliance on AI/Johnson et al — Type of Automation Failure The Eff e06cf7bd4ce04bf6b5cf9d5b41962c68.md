@@ -26,17 +26,14 @@
 
 # One Sentence
 
----
 
 This paper proposes an experiment that studies the effect of error types (false positives/negatives) on the trust and reliance on automation.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### Terms related to error type
 
@@ -55,7 +52,6 @@ This paper proposes an experiment that studies the effect of error types (false 
 
 # Other Notes
 
----
 
 ### Two levels of trust
 
@@ -64,6 +60,5 @@ This paper proposes an experiment that studies the effect of error types (false 
 
 # Take-Away
 
----
 
 The proposed experiment uses a “reveal ground truth” button to test if a user trusts the automated result.

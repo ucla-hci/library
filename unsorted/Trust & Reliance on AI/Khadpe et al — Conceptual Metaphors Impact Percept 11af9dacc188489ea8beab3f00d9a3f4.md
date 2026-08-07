@@ -23,13 +23,11 @@ keywords = {expectation shaping, perception of human-ai collaboration, conceptua
 
 # One Sentence
 
----
 
 This paper studies the relationship between conceptual metaphor of an AI conversational assistant and users’ reaction to the AI, such as perceived usability and warmth and willingness to adopt and cooperate.
 
 # More Sentences
 
----
 
 ### Study 1
 
@@ -65,7 +63,6 @@ Findings:
 
 # Key Points
 
----
 
 ### Stereotype Content Model
 
@@ -91,7 +88,6 @@ See above.
 
 # Other Notes
 
----
 
 ### The type of AI studied in this work
 
@@ -117,6 +113,5 @@ Warmth:
 
 # Take-Away
 
----
 
 Study 3 in some sense tries to “challenge” Study 1 and 2’s findings (or the implications). It makes the work more “robust” by adding such a “challenging” follow-up study.

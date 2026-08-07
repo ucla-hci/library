@@ -22,13 +22,11 @@ series = {CHI '21}
 
 # One Sentence
 
----
 
 This paper studied humans’ reliance on machine learning models when they have no or limited information about the model’s performance.
 
 # More Sentences
 
----
 
 ### The key finding
 
@@ -40,7 +38,6 @@ This paper studied humans’ reliance on machine learning models when they have 
 
 # Key Points
 
----
 
 ### Why people might have limited information about model performance
 
@@ -55,7 +52,6 @@ This paper studied humans’ reliance on machine learning models when they have 
 
 # Other Notes
 
----
 
 ### What information can ML models provide to enable proper reliance?
 
@@ -71,5 +67,3 @@ This paper studied humans’ reliance on machine learning models when they have 
 "agreement-in-confidence heuristic" refers to a cognitive bias where individuals increase their confidence in their own opinion when they learn that others agree with them, regardless of the actual validity or reliability of the opinion or the expertise of those who agree. 
 
 # Take-Away
-
----

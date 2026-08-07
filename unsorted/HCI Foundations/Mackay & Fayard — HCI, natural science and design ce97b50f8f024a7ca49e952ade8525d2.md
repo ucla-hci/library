@@ -13,7 +13,6 @@
 
 # One Sentence
 
----
 
 This paper presents a framework to characterize HCI’s research methodology—a combination of the deductive approach from theory to empirical study, the inductive approach from empirical study to theory, and the artifact creation approach in engineering, design, and fine arts.
 
@@ -21,11 +20,9 @@ This paper presents a framework to characterize HCI’s research methodology—a
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### Nice characterization of HCI vis-a-vis natural science and design
 
@@ -48,7 +45,6 @@ This paper presents a framework to characterize HCI’s research methodology—a
 
 # Other Notes
 
----
 
 ### The historical basis of null-hypothesis testing
 
@@ -61,4 +57,3 @@ Each individual method has their own limitation (more so when employed for HCI) 
 
 # Take-Away
 
----

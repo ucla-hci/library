@@ -27,13 +27,11 @@
 
 # One Sentence
 
----
 
 This paper describes an end-to-end software/hardware robot scientist that can automatically generate hypotheses, design experiments, carry out the experiments, and measure the results.
 
 # More Sentences
 
----
 
 ### The software platform …
 
@@ -42,7 +40,6 @@ This paper describes an end-to-end software/hardware robot scientist that can au
 
 # Key Points
 
----
 
 ### The gist of experiments run by the system
 
@@ -70,7 +67,6 @@ AI probably can’t predict the results so that experiments are unnecessary; but
 
 # Other Notes
 
----
 
 ### The background of the scientific field: functional genomics
 
@@ -79,7 +75,6 @@ AI probably can’t predict the results so that experiments are unnecessary; but
 
 # Take-Away
 
----
 
 - Does not involve human in the loop
 - To support a given scientific field, it is important to define the representation of hypothesis, thus the hypothesis space.

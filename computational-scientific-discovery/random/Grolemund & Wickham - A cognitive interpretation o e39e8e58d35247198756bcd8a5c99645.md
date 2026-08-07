@@ -15,13 +15,11 @@
 
 # One Sentence
 
----
 
 The authors argue for data analysis to be a sensemaking process.
 
 # More Sentences
 
----
 
 Authors’ understanding of sensemaking: 
 
@@ -33,16 +31,12 @@ Authors’ model that situates data analysis in a sensemaking loop:
 
 # Key Points
 
----
 
 This sensemaking process can be situated/embedded in a larger theory of scientific discovery. (My previous work does so in the context of the 4-space theory of scientific discovery.) 
 
 # Other Notes
 
----
 
 This perspective/framework could also help us build an argument encompassing other statistical analysis/data interpretation frameworks into scientific discovery. 
 
 # Take-Away
-
----

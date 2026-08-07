@@ -16,7 +16,6 @@ Potential of Small Organic Molecules Based on Chemogenomic Database
 
 # One Sentence
 
----
 
 The authors presented TargetHunter, which is an interface to provide proteins docking with the ligand that is similar to users’s ligand.  
 
@@ -24,18 +23,13 @@ The authors presented TargetHunter, which is an interface to provide proteins do
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 Similarity-based suggestion 
 
 # Other Notes
 
----
 
 # Take-Away
-
----

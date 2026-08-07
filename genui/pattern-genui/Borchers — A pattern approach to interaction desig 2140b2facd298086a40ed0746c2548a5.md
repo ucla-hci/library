@@ -22,15 +22,12 @@ series = {DIS '00}
 
 # One Sentence
 
----
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### Design patterns follow a hierarchical structure
 
@@ -61,7 +58,6 @@ A pattern P1 might consists of employing other patterns, say P2:
 
 # Other Notes
 
----
 
 ### A psychological effect of framing certain designs a pattern
 
@@ -70,7 +66,6 @@ A pattern P1 might consists of employing other patterns, say P2:
 
 # Take-Away
 
----
 
 ### Using LM to extract and synthesize design patterns
 

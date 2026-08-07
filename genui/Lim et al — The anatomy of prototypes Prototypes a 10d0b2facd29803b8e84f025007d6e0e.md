@@ -24,20 +24,17 @@ keywords = {prototyping, human-computer interaction, design space, design, Proto
 
 # One Sentence
 
----
 
 This paper proposes an anatomy of prototypes comprised of two dimensions: filtering certain aspects of the system design and manifesting the prototype in certain medium, which enables designers to take more systemic view of prototypes and prototyping practices.
 
 # More Sentences
 
----
 
 > … the purpose of designing a prototype is to find the manifestation that, in its simplest form, will filter the qualities in which the designer is interested without distorting the understanding of the whole.
 > 
 
 # Key Points
 
----
 
 ### Understanding prototyping from software engineering and design’s POV
 
@@ -72,7 +69,6 @@ This paper proposes an anatomy of prototypes comprised of two dimensions: filter
 
 # Other Notes
 
----
 
 ### Economic principle of prototyping
 
@@ -81,4 +77,3 @@ This paper proposes an anatomy of prototypes comprised of two dimensions: filter
 
 # Take-Away
 
----

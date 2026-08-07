@@ -13,19 +13,16 @@ intro={In order to help scholars understand and follow a research topic, signifi
 
 # One Sentence
 
----
 
 The authors introduce ComLittee which is a literature discovery system that supports author-centric exploration. 
 
 # More Sentences
 
----
 
 It supports curating research threads from individual authors, finding new authors and papers using combined signals from a paper recommender and the curated authors’ authorship graphs, and understanding them in the context of those signals.
 
 # Key Points
 
----
 
 ![스크린샷 2024-08-13 오후 5.23.57.png](Kang%20et%20al%20%E2%80%94%20ComLittee%20Literature%20Discovery%20with%20P/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2024-08-13_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_5.23.57.png)
 
@@ -33,10 +30,8 @@ The latter includes effective support for contextual search, browsing, and flexi
 
 # Other Notes
 
----
 
 # Take-Away
 
----
 
 Author’s personal information (co-author) based

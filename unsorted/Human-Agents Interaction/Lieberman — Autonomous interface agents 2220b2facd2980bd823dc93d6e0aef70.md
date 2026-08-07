@@ -13,20 +13,17 @@
 
 # One Sentence
 
----
 
 This paper proposes autonomous interface agents—a concept that unifies two existing types of agents: interface agents that help users operate an interactive interface and autonomous agents that automate users’ tasks “behind the scene”.
 
 # More Sentences
 
----
 
 > … *interface agents*, software that actively assists a user in operating an interactive interface, and *autonomous agents*, software that takes action without user intervention and operates concurrently, either while the user is idle or taking other actions.
 > 
 
 # Key Points
 
----
 
 ### Definition of agents
 
@@ -61,7 +58,6 @@ In general, this could be an example of how to present agents’ work to users.
 
 # Other Notes
 
----
 
 ### How agents traditionally appear on an interface
 
@@ -70,7 +66,6 @@ In general, this could be an example of how to present agents’ work to users.
 
 # Take-Away
 
----
 
 ### Conceptual limitation of autonomous interface agents
 

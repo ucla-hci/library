@@ -26,17 +26,14 @@
 
 # One Sentence
 
----
 
 This paper studied how people’s trust and reliance on automated diagnostic aids change when the aid’s performance of stays the same, increases, or decreases.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### The measure of trust
 
@@ -61,11 +58,9 @@ Some discussion:
 
 # Other Notes
 
----
 
 # Take-Away
 
----
 
 ### The framework that describe how reliance is formulated
 

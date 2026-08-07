@@ -12,17 +12,14 @@
 
 # One Sentence
 
----
 
 This paper presents Dream Lens—a tool for viewing and exploring a large set of generative 3D models.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### The "1 dot = 1 design" principle
 
@@ -46,7 +43,6 @@ This paper presents Dream Lens—a tool for viewing and exploring a large set of
 
 # Other Notes
 
----
 
 ### The use of tooltips
 
@@ -59,5 +55,3 @@ This paper presents Dream Lens—a tool for viewing and exploring a large set of
 > 
 
 # Take-Away
-
----

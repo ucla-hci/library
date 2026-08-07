@@ -24,7 +24,6 @@
 
 # One Sentence
 
----
 
 This paper presents PROMETHEUS—an interactive tool that allows scientists to simulatively and visually discovery  mathematical models to represent new processes by customizing a search process based on some existing generic process, their variables, and conditions.
 
@@ -34,11 +33,9 @@ This paper presents PROMETHEUS—an interactive tool that allows scientists to s
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### This paper’s differentiation from prior work
 
@@ -69,7 +66,6 @@ In the first stage, the program creates candidate structures by  first generatin
 
 # Other Notes
 
----
 
 ### What are the generic processes as the “seeds” for discovery?
 
@@ -84,5 +80,3 @@ The are like the base class in OOP.
 > 
 
 # Take-Away
-
----

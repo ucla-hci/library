@@ -22,23 +22,19 @@ series = {CHI '24}
 
 # One Sentence
 
----
 
 This paper went through several iterations to formulate a set of design principles that describe some high-level how-to’s in designing GenAI applications.
 
 # More Sentences
 
----
 
 ![Design principles and strategies for generative AI applications](../../_assets/weisz-generative-ai-design-principles.png)
 
 # Key Points
 
----
 
 # Other Notes
 
----
 
 ### The new AI paradigm Nielsen characterized
 
@@ -47,7 +43,6 @@ This paper went through several iterations to formulate a set of design principl
 
 # Take-Away
 
----
 
 ### For the COHESION paper
 

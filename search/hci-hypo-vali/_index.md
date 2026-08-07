@@ -5,7 +5,6 @@
 
 ## Paper List by Angle
 
----
 
 ### Angle 1 — Theoretical Foundation (SDDS / Dual-Space)
 
@@ -16,7 +15,6 @@
 
 **Note:** The researcher's context memo cites "Kahn's dual-space theory." The originating theory is Klahr & Dunbar's SDDS (1988), which is distinct and has 1,100+ citations. No "Kahn dual-space" theory was found in the literature; Klahr & Dunbar is the correct anchor.
 
----
 
 ### Angle 2 — Confirmatory / Hypothesis-Driven Visual Analytics Systems
 
@@ -30,7 +28,6 @@
 
 **Cluster summary:** This is the richest cluster. Concept-Driven VA and Visual (dis)Confirmation (both Khairi Reda's group) address the natural-language-to-visualization pipeline for hypothesis checking. Suh et al. formalize the hypothesis space as a grammar. EVM and VMC (Hullman/Kale group) operationalize model checks as a form of visual hypothesis validation, with EVM providing empirical user study evidence and VMC providing the formal grammar.
 
----
 
 ### Angle 3 — Belief Elicitation and Prior Specification
 
@@ -41,7 +38,6 @@
 
 **Cluster summary:** Both from Khairi Reda's group at IUPUI/IIT. Data Prophecy is the discovery study; Visual Belief Elicitation is the controlled experiment with quantified effect sizes (21% improvement in correct inferences, 12% reduction in false discoveries). Together they constitute strong evidence for lightweight belief-elicitation as a hypothesis validation intervention.
 
----
 
 ### Angle 4 — Statistical Workflow Support and Assumption Checking
 
@@ -52,7 +48,6 @@
 
 **Cluster summary:** GuidedStats addresses frequentist hypothesis test workflows (t-test, regression) with notebook-integrated guided steps. Divisi addresses hypothesis validation through subgroup discovery — testing whether hypothesized data subgroups behave differently. Both integrate into computational notebooks (the primary scientist workflow environment).
 
----
 
 ### Angle 5 — Causal Inference as Hypothesis Validation
 
@@ -62,7 +57,6 @@
 
 **Cluster summary:** Causal inference is one of the most rigorous instantiations of hypothesis validation in observational science. Causalvis provides HCI tooling for the full causal inference pipeline, making it directly relevant to scientists who need to move from causal hypotheses to validated effect estimates.
 
----
 
 ### Angle 6 — Domain-Specific Scientific Tools (Biomedical / Climate)
 
@@ -75,7 +69,6 @@
 
 **Cluster summary:** Domain-specific implementations and studies. Corvo et al. show how a VA system can structure the hypothesis-formulation-to-pipeline-execution cycle in cancer pathology. Mirel & Görg provide the only longitudinal observational study of a scientist's full hypothesis-validation workflow (bioinformatics). Kehrer et al. is the foundational "visual exploration → statistical validation" pipeline paper. Jing et al. is a clinical research usability study — heavier on generation than validation.
 
----
 
 ## Coverage Note
 
@@ -93,7 +86,6 @@
 - No papers on hypothesis validation for non-expert users or citizen science contexts
 - The Mirel & Görg study (n=1) is the only naturalistic longitudinal study — more ecological studies are needed
 
----
 
 ## Suggested Follow-Up Queries
 

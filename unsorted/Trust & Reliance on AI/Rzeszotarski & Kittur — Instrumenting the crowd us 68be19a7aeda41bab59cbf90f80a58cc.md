@@ -24,17 +24,14 @@
 
 # One Sentence
 
----
 
 This paper presents a method that predicts the quality of crowdworkers’ tasks based on “task fingerprinting”—behavior traces of the crowdworkers as they complete a task, such as how they scroll, clicks, and type on the task page.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### What is “behavioral traces”
 
@@ -60,11 +57,9 @@ Behavior of entering in text fields, which can be analogous to typing in the pro
 
 # Other Notes
 
----
 
 # Take-Away
 
----
 
 ### How such (quality) detection can be used
 

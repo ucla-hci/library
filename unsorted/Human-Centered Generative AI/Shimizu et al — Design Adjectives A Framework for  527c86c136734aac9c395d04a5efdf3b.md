@@ -12,7 +12,6 @@
 
 # One Sentence
 
----
 
 This paper introduces Design Adjectives—a method for specifying a user's design intent (e.g., to create "shiny blue scales") via iteratively specifying positive and negative examples and optionally tuning low-level parameters.
 
@@ -20,7 +19,6 @@ This paper introduces Design Adjectives—a method for specifying a user's desig
 
 # More Sentences
 
----
 
 > a *design adjective*: a learned model of a user's design intent
 > 
@@ -32,7 +30,6 @@ This paper introduces Design Adjectives—a method for specifying a user's desig
 
 # Key Points
 
----
 
 ### On "design gallery" type of work
 
@@ -56,14 +53,12 @@ The design process is divided into
 
 # Other Notes
 
----
 
 > Methods of modeling an objective function given a small amount of input data have been studied in machine learning. This class of problems is referred to as few-shot, or zero-shot, learning.
 > 
 
 # Take-Away
 
----
 
 ### Difference from Spotlight
 

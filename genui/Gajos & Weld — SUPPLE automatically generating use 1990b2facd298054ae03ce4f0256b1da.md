@@ -22,20 +22,17 @@ series = {IUI '04}
 
 # One Sentence
 
----
 
 This paper describes a method to formulate user interface design as an optimization problem: searching for UI widgets based an interface specification while satisfying device constraints and minimizing users’ effort.
 
 # More Sentences
 
----
 
 > When asked to render an interface on a specific device, our SUPPLE system searches for the rendition that meets the device’s constraints and minimizes the estimated effort for the user’s expected interface actions.
 > 
 
 # Key Points
 
----
 
 We can parameterize the design of a UI into three sets of variables:
 
@@ -85,8 +82,6 @@ The UI design now becomes the problem of searching for the *mapping* from the in
 
 # Other Notes
 
----
 
 # Take-Away
 
----

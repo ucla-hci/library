@@ -12,7 +12,6 @@
 
 # One Sentence
 
----
 
 This paper describes a general framework of producing and displaying a gallery of examples that supports user exploration.
 
@@ -21,7 +20,6 @@ This paper describes a general framework of producing and displaying a gallery o
 
 # More Sentences
 
----
 
 ### How Design Gallery compares with optimization-based approach
 
@@ -56,7 +54,6 @@ Arrangement:
 
 # Key Points
 
----
 
 ### Related approaches
 
@@ -65,8 +62,5 @@ Arrangement:
 
 # Other Notes
 
----
 
 # Take-Away
-
----

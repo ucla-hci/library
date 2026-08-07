@@ -25,17 +25,14 @@
 
 # One Sentence
 
----
 
 This paper reviews two existing theories of how humans develop theory of mind, based on which the author discusses the design of a humanoid robot with theory of mind.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### The emphasis of most ToM work is about empathy
 
@@ -70,8 +67,5 @@ Relationship with ATOM (writing):
 
 # Other Notes
 
----
 
 # Take-Away
-
----

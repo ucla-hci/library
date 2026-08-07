@@ -22,17 +22,14 @@
 
 # One Sentence
 
----
 
 This paper describes a framework for evaluating the safety of conversational AI trained end-to-end from open-domain dialog data against three categories of issues: instigator (Tay) effect, yea-sayer (ELIZA) effect, and impostor effect, which can be conducted as unit tests using existing benchmarks or tools, or as integration test, i.e., evaluated by humans.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### The three categories of safety issues
 
@@ -91,11 +88,9 @@ NLU detects three situations:
 
 # Other Notes
 
----
 
 # Take-Away
 
----
 
 ### Value-sensitive design
 

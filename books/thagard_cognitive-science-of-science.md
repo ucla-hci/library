@@ -63,7 +63,6 @@ So influenza explains why you have fever, aches, and cough.
 ```
 C1, C2, ..., Ck
 L1, L2, ..., Lr
----
 E
 ```
 

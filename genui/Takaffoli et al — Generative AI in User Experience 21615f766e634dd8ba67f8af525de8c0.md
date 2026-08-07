@@ -16,7 +16,6 @@
 
 # One Sentence
 
----
 
 This paper reports findings from an interview study with UX practitioners regarding their use of generative AI:
 
@@ -26,7 +25,6 @@ This paper reports findings from an interview study with UX practitioners regard
 
 # More Sentences
 
----
 
 The usages of GenAI tools don’t seem particularly unique about UX
 
@@ -38,7 +36,6 @@ The usages of GenAI tools don’t seem particularly unique about UX
 
 # Key Points
 
----
 
 ### (User) Research-focused vs. (UX) design-focused tasks
 
@@ -47,7 +44,6 @@ The usages of GenAI tools don’t seem particularly unique about UX
 
 # Other Notes
 
----
 
 ### How GenAI cannot address specific, nuanced needs
 
@@ -61,7 +57,6 @@ From participants’ quotes
 
 # Take-Away
 
----
 
 ### Potential limitation of participant demographics
 

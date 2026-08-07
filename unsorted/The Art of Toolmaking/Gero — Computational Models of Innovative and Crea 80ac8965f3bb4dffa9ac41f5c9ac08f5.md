@@ -18,17 +18,14 @@
 
 # One Sentence
 
----
 
 This article describes a general process of design as the interplay amongst function, structure, and behavior, followed by an abstraction of key activities that occur in creative and innovative design, including combination, transformation, analogy, emergence, and first principles.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### Why design
 
@@ -95,7 +92,6 @@ There are different design activities that connect the above concepts.
 
 # Other Notes
 
----
 
 ### How design generates knowledge (twice)
 
@@ -104,4 +100,3 @@ There are different design activities that connect the above concepts.
 
 # Take-Away
 
----

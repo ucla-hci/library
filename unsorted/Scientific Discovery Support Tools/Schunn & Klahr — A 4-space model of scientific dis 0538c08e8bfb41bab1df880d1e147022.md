@@ -6,7 +6,6 @@ Schunn, C.D. and Klahr, D., 1995. A 4-space model of scientific discovery. In Pr
 
 # One Sentence
 
----
 
 This paper presents a model of scientific discovery that consists of 
 
@@ -19,15 +18,12 @@ This paper presents a model of scientific discovery that consists of
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 # Other Notes
 
----
 
 ### Three ways of identifying features in the data representation space
 
@@ -42,6 +38,5 @@ This paper presents a model of scientific discovery that consists of
 
 # Take-Away
 
----
 
 - Unclear how to separate paradigm and experiment, since they often happen together as a experimental design process

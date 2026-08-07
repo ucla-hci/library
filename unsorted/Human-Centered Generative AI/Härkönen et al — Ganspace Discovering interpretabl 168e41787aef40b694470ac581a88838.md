@@ -11,7 +11,6 @@
 
 # One Sentence
 
----
 
 This paper describes a PCA-based approach to decompose a GAN model into interpretable controls for users to specify desired attributes of the generated outcome.
 
@@ -19,14 +18,12 @@ This paper describes a PCA-based approach to decompose a GAN model into interpre
 
 # More Sentences
 
----
 
 > ... a large number of interpretable controls can be defined by layer-wise perturbation along the principal directions.
 > 
 
 # Key Points
 
----
 
 ### Related Work
 
@@ -42,7 +39,6 @@ Nicely include a lot of the supervised approach (see paper for refs)
 
 # Other Notes
 
----
 
 ### Brief intro to BigGAN and StyleGAN
 
@@ -71,7 +67,6 @@ $\mathbf{w}' = \mathbf{w} + \mathbf{V}\mathbf{x}$
 
 # Take-Away
 
----
 
 Spotlight's advantage:
 

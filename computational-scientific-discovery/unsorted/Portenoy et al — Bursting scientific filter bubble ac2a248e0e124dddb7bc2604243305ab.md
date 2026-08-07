@@ -14,19 +14,16 @@ intro={Isolated silos of scientific research and the growing challenge of inform
 
 # One Sentence
 
----
 
 The authors suggested Bridger, which is an AI-based interface to provide a faceted representation of authors with information gleaned from their papers and inferred author personas, using it to develop an approach that locates commonalities and contrasts between scientists to balance relevance and novelty. 
 
 # More Sentences
 
----
 
 This tool helps users discover authors considered useful for generating novel research directions.
 
 # Key Points
 
----
 
 Bridger's approach to burst scientific filter bubbles and promote a more interconnected scholarly community is a pivotal development in how academic literature and collaborations can be fostered.
 
@@ -34,10 +31,8 @@ Bridger's approach to burst scientific filter bubbles and promote a more interco
 
 # Other Notes
 
----
 
 # Take-Away
 
----
 
 Author’s preference based

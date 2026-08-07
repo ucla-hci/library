@@ -18,12 +18,10 @@
 # One Sentence
 Introduces XPLML (eXtended Pattern Language Markup Language), a formal XML schema for HCI design patterns that captures UI primitives, relationships, and pattern content elements machine-readably.
 
----
 
 # More Sentences
 Sinnig et al. argue that existing prose pattern descriptions prevent computational tooling (discovery, enforcement, composition) and propose XPLML as a unifying formal schema. XPLML specifies: content elements (name, context, problem, solution), UI primitives (atomic UI building blocks), and inter-pattern relationships. The schema is illustrated with examples but not empirically evaluated. A follow-up paper (HCII 2013) uses XPLML to drive semi-automated UI generation.
 
----
 
 # Key Points
 

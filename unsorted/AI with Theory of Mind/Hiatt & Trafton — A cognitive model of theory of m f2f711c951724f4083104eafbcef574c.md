@@ -13,20 +13,17 @@
 
 # One Sentence
 
----
 
 This paper describes the use of the ACT-R cognitive architecture to simulate children’s acquisition of theory of mind.
 
 # More Sentences
 
----
 
 > The model uses a selection process to identify the beliefs and knowledge others may have; then, to predict the desires and behaviors of others, it uses the identified concepts as input to its own decision-making mechanisms, simulating what the model would do in the other’s place
 > 
 
 # Key Points
 
----
 
 ### The three views of how ToM works
 
@@ -40,7 +37,6 @@ This paper describes the use of the ACT-R cognitive architecture to simulate chi
 
 # Other Notes
 
----
 
 ### Background about the ACT-R architecture
 
@@ -57,5 +53,3 @@ The basic units in ACT-R are called "modules," and each module is responsible fo
 Each of these modules operates semi-independently but communicates with the others to help you think, make decisions, and act. ACT-R tries to model how these different parts of your brain work together to handle everyday tasks.
 
 # Take-Away
-
----

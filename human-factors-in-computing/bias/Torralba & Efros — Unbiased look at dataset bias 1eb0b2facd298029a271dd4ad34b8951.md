@@ -14,17 +14,14 @@
 
 # One Sentence
 
----
 
 This paper performs a systemic analysis of how models trained from different datasets exhibit varied performances due to inter-dataset differences.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### Are datasets intrinsically different? (Having built-in bias)
 
@@ -68,7 +65,6 @@ For example, if we want to find all images of “boats” … , how can we make 
 
 # Other Notes
 
----
 
 ### Classification vs. detection
 
@@ -77,4 +73,3 @@ For example, if we want to find all images of “boats” … , how can we make 
 
 # Take-Away
 
----

@@ -15,17 +15,14 @@
 
 # One Sentence
 
----
 
 This paper describes seven types of contributions in HCI research: what each does, what to expect of each, and example papers.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### Knowledge is what is contributed
 
@@ -44,7 +41,6 @@ This paper describes seven types of contributions in HCI research: what each doe
 
 # Other Notes
 
----
 
 Empirical research vs. artifact
 
@@ -58,7 +54,6 @@ Methodological vs. theoretical
 
 # Take-Away
 
----
 
 Some papers to read
 

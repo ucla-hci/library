@@ -14,17 +14,14 @@
 
 # One Sentence
 
----
 
 This paper characterizes and experimentally shows how parsimony, stochasticity, and task dimensionality contribute to a user's mental model of AI's error boundary, i.e., detecting whether AI makes a mistake in the inference of a given instance.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### What is the mental model of AI's error boundary?
 
@@ -56,7 +53,6 @@ An error boundary might be stochastic for three reasons:
 
 # Other Notes
 
----
 
 ### Task setup
 
@@ -66,4 +62,3 @@ An error boundary might be stochastic for three reasons:
 
 # Take-Away
 
----

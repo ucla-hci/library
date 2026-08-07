@@ -23,20 +23,17 @@ keywords = {decision making, artificial intelligence, trust, methodology}
 
 # One Sentence
 
----
 
 This paper reviews literature on trust and the evaluation of trust in computing systems to summarize a series of guidelines for evaluating trust in AI-assisted decision making.
 
 # More Sentences
 
----
 
 > ... we present a survey of existing methods to empirically investigate trust in AI-assisted decision making and analyse the corpus along the constitutive elements of an experimental protocol
 > 
 
 # Key Points
 
----
 
 ### The systematic approach of reviewing literature
 
@@ -88,7 +85,6 @@ This paper reviews literature on trust and the evaluation of trust in computing 
 
 # Other Notes
 
----
 
 ### Mayer’s organizational trust questionnaire
 
@@ -111,7 +107,6 @@ This paper reviews literature on trust and the evaluation of trust in computing 
 
 # Take-Away
 
----
 
 - Might need to do pre- and post- tests to assess participants’ change of trust (because trust is dynamic).
 - This paper seems to assume trust happens at an instance-level (local) rather than at a model-level (global).

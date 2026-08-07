@@ -15,7 +15,6 @@
 
 # One Sentence
 
----
 
 This paper conducts empirically studies to elicit, select, and compare words correlated with trust and distrust in three categories (general trust, human-human trust, and human-machine trust), based on which the paper groups similar words and develops a questionnaire (each question corresponding to a group of words) to measure trust in automated systems.
 
@@ -23,7 +22,6 @@ This paper conducts empirically studies to elicit, select, and compare words cor
 
 # More Sentences
 
----
 
 > ... a three-phased experimental study was conducted of the concept of trust by an individual in another individual or system.
 > 
@@ -35,7 +33,6 @@ The third phase was a paired comparison study, in which participants rated the s
 
 # Key Points
 
----
 
 ### Phase 1 word elicitation study procedure
 
@@ -81,8 +78,6 @@ Two classification analyses based on the groups of words (from Phase 3):
 
 # Other Notes
 
----
 
 # Take-Away
 
----

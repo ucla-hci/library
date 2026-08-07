@@ -19,12 +19,10 @@
 # One Sentence
 Develops 45 ubicomp "pre-patterns" (spanning genres, spaces, interaction techniques, and privacy), then evaluates their usefulness with 16 pairs of designers in a controlled study.
 
----
 
 # More Sentences
 The authors extend Landay & Borriello (2003) by formalizing 45 pre-patterns across four categories: application genres, physical-virtual spaces, interaction techniques, and privacy mechanisms. They evaluate the patterns with 16 pairs of designers tasked with designing a location-enhanced application, comparing pattern-aided vs. unaided conditions. Results show that patterns help designers cover a broader design space and communicate more precisely, but the quality of final designs was not significantly different. This is one of the very few controlled empirical evaluations of design pattern utility in HCI.
 
----
 
 # Key Points
 

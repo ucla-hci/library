@@ -18,12 +18,10 @@
 # One Sentence
 Catalogs ~100 named UI patterns with visual examples covering desktop, web, and mobile, organized by user goal and screen context.
 
----
 
 # More Sentences
 Tidwell presents patterns organized into chapters by interaction concern (e.g., "Getting Input," "Showing Complex Data," "Navigation"), each with name, thumbnail, usage context, and annotated screenshots. The 3rd edition adds mobile and social-media patterns. It is arguably the most widely used practitioner pattern reference in UX design. Patterns are expert-derived; no formal validation study exists.
 
----
 
 # Key Points
 

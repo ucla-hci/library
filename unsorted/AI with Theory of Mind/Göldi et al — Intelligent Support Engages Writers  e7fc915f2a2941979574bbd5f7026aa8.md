@@ -22,13 +22,11 @@ series = {CHI '24}
 
 # One Sentence
 
----
 
 This paper studied how a user’s engagement with a writing support tool varied when provided with intelligent features in the ideation and evaluation phases.
 
 # More Sentences
 
----
 
 Results show that
 
@@ -37,7 +35,6 @@ Results show that
 
 # Key Points
 
----
 
 ### The priors as part of the cognitive process theory of writing (CPTW)
 
@@ -60,13 +57,11 @@ F1 below lets a user request intelligent support and F2 are the static version o
 
 # Other Notes
 
----
 
 The specific writing task here is writing peer reviews (common in online courses)
 
 # Take-Away
 
----
 
 ### Delta from this work
 

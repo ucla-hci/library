@@ -6,15 +6,12 @@ Folmer, E. (2015, July 5). Interaction Design Patterns. Interaction Design Found
 
 # One Sentence
 
----
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### Key elements to include when describing a design pattern
 
@@ -31,11 +28,9 @@ Folmer, E. (2015, July 5). Interaction Design Patterns. Interaction Design Found
 
 # Other Notes
 
----
 
 # Take-Away
 
----
 
 - “Why” might be optional, as it can be addressed in “When to use”
 - Might start by curating the examples, then summarize the patterns

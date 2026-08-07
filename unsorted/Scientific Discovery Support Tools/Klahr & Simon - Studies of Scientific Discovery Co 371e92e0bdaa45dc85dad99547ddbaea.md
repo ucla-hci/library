@@ -26,17 +26,14 @@
 
 # One Sentence
 
----
 
 This paper presents major approaches to the study of science by viewing them through the lens of the theory of human problem-solving. 
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 **Scientific discovery as problem-solving: from the initial state to the goal state.**
 
@@ -70,11 +67,9 @@ This paper presents major approaches to the study of science by viewing them thr
 
 # Other Notes
 
----
 
 # Take-Away
 
----
 
 The role of AI might be to support the definition process. Since the definition process is tailored to specific domains or disciplines, scientists should spend tremendous time broadening the scope of their knowledge. 
 

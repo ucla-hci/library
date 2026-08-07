@@ -23,17 +23,14 @@ series = {CHI '25}
 
 # One Sentence
 
----
 
 This paper studied how different software team roles (SWE, UXR, and PM) collaboratively used AI studio to prototype a tool powered by language models.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### The gap this work is addressing
 
@@ -47,11 +44,9 @@ This paper studied how different software team roles (SWE, UXR, and PM) collabor
 
 # Other Notes
 
----
 
 # Take-Away
 
----
 
 ### Pointing out the study is not overfit to a specific tool
 

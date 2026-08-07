@@ -15,17 +15,14 @@
 
 # One Sentence
 
----
 
 This paper discusses the definitions, differences, and deciding factors of trust and reliance, drawing on numerous prior work to construct several frameworks to juxtapose trust, reliance, and other associated factors in the decision making process.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### Trust depends on four dimensions
 
@@ -146,8 +143,6 @@ On anthropomorphism:
 
 # Other Notes
 
----
 
 # Take-Away
 
----

@@ -27,20 +27,14 @@ series = {CHI '90}
 
 # One Sentence
 
----
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 # Other Notes
 
----
 
 # Take-Away
-
----

@@ -14,17 +14,14 @@ intro={Scientific communities have long been concerned with the design and imple
 
 # One Sentence
 
----
 
 The authors propose observations of the entire artifact ecology that includes technical infrastructure, tools, individuals, and interactions, and identify the importance of building an environment where scientist can efficiently share their experiment dataset and reuse the datasets for increasing scientific discovery. 
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 The paper (1) identified the factors that led to its functional and effective artifact ecology and (2) proposed expansions of tools and services to improve it further. 
 
@@ -34,8 +31,5 @@ The latter includes effective support for contextual search, browsing, and flexi
 
 # Other Notes
 
----
 
 # Take-Away
-
----

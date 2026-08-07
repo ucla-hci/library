@@ -24,17 +24,14 @@
 
 # One Sentence
 
----
 
 Simon responds to critics’ comments of his article “Scientific discovery as problem solving”.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### Countering the major criticism
 
@@ -63,8 +60,5 @@ In this sense, there is no fundamental difference between SD and any other probl
 
 # Other Notes
 
----
 
 # Take-Away
-
----

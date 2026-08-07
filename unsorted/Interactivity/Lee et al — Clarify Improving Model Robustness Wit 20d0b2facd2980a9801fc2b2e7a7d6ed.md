@@ -22,7 +22,6 @@ series = {UIST '24}
 
 # One Sentence
 
----
 
 This paper proposes Clarify—an interface that takes in a user’s natural language feedback to a model’s errors, which is then used to re-weigh the training examples to improve model performance.
 
@@ -30,19 +29,14 @@ This paper proposes Clarify—an interface that takes in a user’s natural lang
 
 # More Sentences
 
----
 
 > Clarify, a novel interface and method for interactively correcting model misconceptions. Through Clarify, users need only provide a short text description of a model’s conssitent failure patterns. Then, in an entirely automated way, we use such descriptions to improve the training process.
 > 
 
 # Key Points
 
----
 
 # Other Notes
 
----
 
 # Take-Away
-
----

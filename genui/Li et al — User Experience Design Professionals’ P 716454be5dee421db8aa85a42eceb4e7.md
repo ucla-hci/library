@@ -25,17 +25,14 @@
 
 # One Sentence
 
----
 
 This paper’s authors interviewed UX practitioners in industry to learn about their perceptions of Generative AI—specifically, what it might or might not be able assist specific aspects of work in the UX design process.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### An overview of what currently GenAI can/cannot do
 
@@ -66,7 +63,6 @@ This paper’s authors interviewed UX practitioners in industry to learn about t
 
 # Other Notes
 
----
 
 ### UX in small vs. large companies
 
@@ -75,7 +71,6 @@ This paper’s authors interviewed UX practitioners in industry to learn about t
 
 # Take-Away
 
----
 
 ### Maybe useful findings from related work
 

@@ -22,17 +22,14 @@
 
 # One Sentence
 
----
 
 This paper reviews literature on different ways AI supports the UX design process and maps their findings on the double diamond model.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### What is fundamentally unique about UX design
 
@@ -48,7 +45,6 @@ Also doesn’t work (or not enough to be helpful) is generating artifacts (e.g.,
 
 # Other Notes
 
----
 
 ### The double diamond model
 
@@ -63,7 +59,6 @@ Also doesn’t work (or not enough to be helpful) is generating artifacts (e.g.,
 
 # Take-Away
 
----
 
 - Genux (or any text-to-UI models) only covers a small part of the UX design process (mostly “Develop”?) and can’t even serve as the dominant part.
 - For Genux literature review, refer to 4.3.1 UI Generation, which is categorized into

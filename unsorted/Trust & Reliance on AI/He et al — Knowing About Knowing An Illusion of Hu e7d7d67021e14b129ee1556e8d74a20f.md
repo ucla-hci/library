@@ -22,17 +22,14 @@ series = {CHI '23}
 
 # One Sentence
 
----
 
 This paper studied the effect of overestimating one’s own competence and performance on appropriate reliance on AI and how a tutorial and explainable AI intervention can overcome such effects.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### The Dunning-Krugger effect (DKE)
 
@@ -52,8 +49,5 @@ This paper studied the effect of overestimating one’s own competence and perfo
 
 # Other Notes
 
----
 
 # Take-Away
-
----

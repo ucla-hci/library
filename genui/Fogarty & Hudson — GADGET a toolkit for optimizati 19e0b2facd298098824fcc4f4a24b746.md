@@ -22,17 +22,14 @@ series = {UIST '03}
 
 # One Sentence
 
----
 
 This paper describes GADGET—a programming toolkit that make it easier and more customizable to use numeric optimization for UI layout.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### The three inputs to the GADGET toolkit
 
@@ -68,8 +65,5 @@ This paper describes GADGET—a programming toolkit that make it easier and more
 
 # Other Notes
 
----
 
 # Take-Away
-
----

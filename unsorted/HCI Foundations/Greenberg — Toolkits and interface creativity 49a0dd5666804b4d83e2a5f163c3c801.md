@@ -15,17 +15,14 @@
 
 # One Sentence
 
----
 
 This essay advocates the development of toolkits as a key step in enabling people's creativity in building systems that otherwise would be too difficult to realize creative ideas.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### A nice check list for what a toolkit should do
 
@@ -47,10 +44,8 @@ A toolkit is then developed and often disseminated within the research team. If 
 
 # Other Notes
 
----
 
 ![Toolkit research lifecycle](../../_assets/greenberg-toolkit-research-lifecycle.png)
 
 # Take-Away
 
----

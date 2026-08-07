@@ -18,8 +18,7 @@
 ```
 D is a collection of data (facts, observations, givens).
 H explains D (would, if true, explain D).
-No other hypothesis can explain D as well as H does.
-----
+No other hypothesis can explain D as well as H does.-
 Therefore, H is probably true.
 ```
 

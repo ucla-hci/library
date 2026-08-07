@@ -16,15 +16,12 @@
 
 # One Sentence
 
----
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### Definition of bias
 
@@ -78,7 +75,6 @@ Examples:
 
 # Other Notes
 
----
 
 ### Case Study: Multilevel Scheduling Algorithm (MSLA)
 
@@ -93,5 +89,3 @@ In addition to “first come, first serve”, there is a policy that is bias aga
 > 
 
 # Take-Away
-
----

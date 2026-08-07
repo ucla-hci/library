@@ -25,23 +25,18 @@
 
 # One Sentence
 
----
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 # Other Notes
 
----
 
 # Take-Away
 
----
 
 ### Using the term “UX practitioner”
 

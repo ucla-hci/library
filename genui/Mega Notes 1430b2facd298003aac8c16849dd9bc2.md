@@ -220,7 +220,6 @@ A “meta” method use three existing layout generation methods to perform in-c
 > The approach introduces an intermediate representation (IR) between text and layout to represent diverse layout constraints … IR, in which the implicit constraints from the text are transformed into explicit ones. The place stage generates layouts based on the IR.
 > 
 
----
 
 ### UICrit: Enhancing Automated Design Evaluation with a UI Critique Dataset
 

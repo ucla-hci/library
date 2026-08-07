@@ -33,15 +33,12 @@ scientific domains in which to test such computational artifacts.},
 
 # One Sentence
 
----
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### Motivation for HAPPIER-like systems
 
@@ -91,7 +88,6 @@ In common:
 
 # Other Notes
 
----
 
 ### Key differences between scientific discovery and knowledge discovery
 
@@ -110,7 +106,6 @@ In common:
 
 # Take-Away
 
----
 
 ### Maybe target ID is most related to Finding Qualitative Laws
 

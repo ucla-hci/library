@@ -27,20 +27,17 @@ eprint = {
 
 # One Sentence
 
----
 
 This paper studies literature to summarize three layers of factors that impact humans’ trust in automation systems.
 
 # More Sentences
 
----
 
 > We systematically review recent empirical research on factors that influence trust in automation to present a three-layered trust model that synthesize existing knowledge.
 > 
 
 # Key Points
 
----
 
 ### The three layers of trust
 
@@ -142,7 +139,6 @@ System performance
 
 # Other Notes
 
----
 
 ### The nature of trust
 
@@ -183,7 +179,6 @@ How the factors change over time:
 
 # Take-Away
 
----
 
 ### Errors in generative AI
 

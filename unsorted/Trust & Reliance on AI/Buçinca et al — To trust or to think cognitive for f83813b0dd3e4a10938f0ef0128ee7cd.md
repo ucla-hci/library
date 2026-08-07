@@ -17,7 +17,6 @@
 
 This paper studied how the use of cognitive forcing functions might reduce humans' overreliance on AI, i.e., going with AI's prediction even when it is wrong.
 
----
 
 ![Cognitive forcing function interface](../../_assets/bucinca-cognitive-forcing-interface.png)
 
@@ -27,7 +26,6 @@ This paper studied how the use of cognitive forcing functions might reduce human
 
 # More Sentences
 
----
 
 > ... to reduce human overreliance on the AI and improve performance, we need to not only develop effective explanation techniques, but also ways to increase people's cognitive motivation for engaging analytically with the explanations.
 > 
@@ -40,7 +38,6 @@ Second, ... our approach, while effective on average, appears to benefit individ
 
 # Key Points
 
----
 
 ### Other findings of AI over-reliance
 
@@ -72,7 +69,6 @@ Yet, performance of participants that complete the task with no AI assistance ..
 
 # Other Notes
 
----
 
 ### Intervention-generated inequalities
 
@@ -81,7 +77,6 @@ Yet, performance of participants that complete the task with no AI assistance ..
 
 # Take-Away
 
----
 
 > ... cognitive forcing functions reduced, but not yet eliminated, overreliance on the AI.
 > 

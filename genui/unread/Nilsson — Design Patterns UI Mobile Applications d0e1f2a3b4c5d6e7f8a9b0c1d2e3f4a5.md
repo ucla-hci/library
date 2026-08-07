@@ -21,12 +21,10 @@
 # One Sentence
 Proposes a collection of mobile UI design patterns organized into problem areas, presenting six patterns in detail as examples of the broader collection.
 
----
 
 # More Sentences
 Nilsson derives patterns from experience with mobile application development, organizing them by "problem area" rather than screen type or interaction concern. Six representative patterns from different problem areas are described in full (name, problem, context, solution, consequences). The journal context makes this the most rigorous academic mobile pattern catalog predating Neil (2014). Limitations: no formal evaluation, predates modern smartphones (iOS/Android era), and the full catalog is not published.
 
----
 
 # Key Points
 

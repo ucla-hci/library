@@ -15,17 +15,14 @@
 
 # One Sentence
 
----
 
 This research conducted a focus group study within Siemens and formulate a model of prototyping maturity to help organization reflect on their current state of prototyping practices on an individual, team, and organizational level.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### Background of the double diamond model
 
@@ -72,8 +69,6 @@ This research conducted a focus group study within Siemens and formulate a model
 
 # Other Notes
 
----
 
 # Take-Away
 
----

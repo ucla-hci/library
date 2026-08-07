@@ -27,15 +27,12 @@
 
 # One Sentence
 
----
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### Expected utility of displaying a suggestion
 
@@ -51,7 +48,6 @@
 
 # Other Notes
 
----
 
 ### Ghost text
 
@@ -63,5 +59,3 @@ A name for the “grayed-out code suggestion inline inside the IDE”
 > 
 
 # Take-Away
-
----

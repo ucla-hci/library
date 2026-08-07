@@ -21,17 +21,14 @@
 
 # One Sentence
 
----
 
 This paper conducted online experiments, based on a skin cancer detection task by lay users, to study how reliance on AI is affected by AI uncertainty presentation, users’ initial response (whether matching AI’s or not), and users’ demographics.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### The proposed technique: calibrated frequency
 
@@ -72,7 +69,6 @@ Moreover, the calibrated frequency presentation helped participants calibrate th
 
 # Other Notes
 
----
 
 ### On the effects of revealing model confidence on reliance
 
@@ -98,7 +94,6 @@ accepted by the user [ 22 ], user’s self-reported level of reliance on AI [ 14
 
 # Take-Away
 
----
 
 ### How to analyze factors that influence reliance on AI
 

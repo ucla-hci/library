@@ -13,7 +13,6 @@
 
 # One Sentence
 
----
 
 This paper introduces three specific purposes to guide prototype creation, communication, and usage: understanding the role of the system plays in its context of usage, exploring how the system looks and how users interact with it, and probing technical solutions to implement the system.
 
@@ -21,14 +20,12 @@ This paper introduces three specific purposes to guide prototype creation, commu
 
 # More Sentences
 
----
 
 > A prototype may explore questions or design options in one, two or all three dimensions of the model
 > 
 
 # Key Points
 
----
 
 ### The three purposes of prototyping
 
@@ -53,8 +50,6 @@ This paper introduces three specific purposes to guide prototype creation, commu
 
 # Other Notes
 
----
 
 # Take-Away
 
----

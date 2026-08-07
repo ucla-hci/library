@@ -12,17 +12,14 @@
 
 # One Sentence
 
----
 
 This paper argues the importance of innovating user interface system infrastructure and toolkits, point out how traditional usability evaluation falls short in evaluating such research, and propose claims that can be made and how to support them.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### The type of research this paper focuses on
 
@@ -96,7 +93,6 @@ The practice of overwriting the entire work because of a single flaw.
 
 # Other Notes
 
----
 
 ### A well-established infrastructure impedes new developments
 
@@ -118,6 +114,5 @@ The practice of overwriting the entire work because of a single flaw.
 
 # Take-Away
 
----
 
 This paper uses a mix of terminologies in describing the type of research its discussion is focused on: UI systems, UI infrastructures, UI toolkits, etc.

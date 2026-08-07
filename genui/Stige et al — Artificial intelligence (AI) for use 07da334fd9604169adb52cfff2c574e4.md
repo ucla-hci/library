@@ -24,21 +24,17 @@
 
 # One Sentence
 
----
 
 This paper reviewed literature on the use of AI across the entire UX design process, summarize existing patterns of use, key issues, and open questions for future research.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 # Other Notes
 
----
 
 ### AI for understanding the context of using certain technology
 
@@ -72,7 +68,6 @@ One example of using AI is to generate personas from think-aloud data
 
 # Take-Away
 
----
 
 ### Some research questions that are still relevant …
 

@@ -22,17 +22,14 @@ series = {CHI '20}
 
 # One Sentence
 
----
 
 ![image.png](../../_assets/dayama-grids-1.png)
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### Desirable properties of a good layout
 
@@ -79,7 +76,6 @@ Then **additional requirements are objective functions** to maximize/minimize wi
 
 # Other Notes
 
----
 
 ### Related work: grid generation by constraint solving
 
@@ -106,4 +102,3 @@ The deep model approach:
 
 # Take-Away
 
----

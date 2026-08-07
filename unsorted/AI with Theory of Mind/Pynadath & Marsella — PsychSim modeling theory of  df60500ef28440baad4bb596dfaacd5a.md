@@ -21,14 +21,12 @@
 
 # One Sentence
 
----
 
 > PsychSim allows a user to quickly construct a social scenario where a diverse set of entities, groups or individuals, interact and communicate. Each entity has its own preferences, relationships (e.g., friendship, hostility, authority) with other entities, private beliefs, and mental models about other entities. The simulation tool generates the behavior for these entities and provides explanations of the result in terms of each entity’s preferences and beliefs. The richness of the entity models allows one to explore the potential consequences of minor variations on the scenario.
 > 
 
 # More Sentences
 
----
 
 This paper employs simulation to study social interactions assuming that each agent has theory of mind—”fully specified decision-theoretic models of others”, which is not necessarily true in reality.
 
@@ -39,12 +37,8 @@ Nonetheless, a simulation with such an assumption of ToM—
 
 # Key Points
 
----
 
 # Other Notes
 
----
 
 # Take-Away
-
----

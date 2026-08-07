@@ -19,17 +19,14 @@ abstract = {The building of prototypes is an important facet of the product desi
 
 # One Sentence
 
----
 
 This paper studied how the simplicity of prototypes, the amount of time spent and where in the design process, affect the design outcome in a mechanical design scenario.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### Main finding: keep it simple
 
@@ -38,7 +35,6 @@ This paper studied how the simplicity of prototypes, the amount of time spent an
 
 # Other Notes
 
----
 
 ### Two main purposes of prototyping
 
@@ -77,7 +73,6 @@ The three purposes of prototypes:
 
 # Take-Away
 
----
 
 ### Using Gen UI means a loss of hands-on prototyping insights & experiences?
 

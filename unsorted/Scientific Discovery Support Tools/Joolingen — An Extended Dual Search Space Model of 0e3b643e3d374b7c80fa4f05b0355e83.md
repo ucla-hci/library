@@ -20,7 +20,6 @@ learning},
 
 # One Sentence
 
----
 
 - This paper discusses the decomposition of hypothesis space in scientific discovery.
     - Universal hypothesis space
@@ -33,11 +32,9 @@ learning},
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ## The decomposition of hypothesis space
 
@@ -53,11 +50,9 @@ learning},
 
 # Other Notes
 
----
 
 # Take-Away
 
----
 
 ## Applying this theory into our task (identifying protein candidates for wet-lab)
 

@@ -24,20 +24,17 @@
 
 # One Sentence
 
----
 
 This paper discusses the authors’ experience working on the interface of Bio Model Analyzer (BMA)—a tool that supports biologists to simulate and understand the stabilization of cellular networks.
 
 # More Sentences
 
----
 
 > … we’ve shown that seeing tools like BMA as part of a set of practices for getting on with scientific work allows apparent problems arising from the use of computational techniques to be constructively refigured.
 > 
 
 # Key Points
 
----
 
 ### Two design approaches of SDST
 
@@ -82,7 +79,6 @@ Start with some default view/visualization/representation of data, which would b
 
 # Other Notes
 
----
 
 ### Motivating HCI’s contribution to SDST
 
@@ -90,5 +86,3 @@ Start with some default view/visualization/representation of data, which would b
 > 
 
 # Take-Away
-
----

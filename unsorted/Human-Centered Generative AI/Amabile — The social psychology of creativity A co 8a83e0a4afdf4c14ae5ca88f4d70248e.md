@@ -15,15 +15,12 @@
 
 # One Sentence
 
----
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### This paper’s main thesis on creativity (summary)
 
@@ -78,7 +75,6 @@ What determine creativity-relevant skills:
 
 # Other Notes
 
----
 
 ### The “old” view of creativity
 
@@ -107,4 +103,3 @@ What determine creativity-relevant skills:
 
 # Take-Away
 
----

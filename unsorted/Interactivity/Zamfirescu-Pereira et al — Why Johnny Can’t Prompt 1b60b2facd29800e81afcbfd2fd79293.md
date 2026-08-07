@@ -22,13 +22,11 @@ series = {CHI '23}
 
 # One Sentence
 
----
 
 This paper conducted a design probe where non-AI-expert participants used prompting to create a language model based chatbot, surfacing how and why non-AI-experts struggled with effective prompting practices.
 
 # More Sentences
 
----
 
 > … our probe participants explored prompt designs opportunistically, not systematically, and struggled in ways echoing end-user programming systems and interactive machine learning systems.
 > 
@@ -38,7 +36,6 @@ This paper conducted a design probe where non-AI-expert participants used prompt
 
 # Key Points
 
----
 
 ### Challenges in end-user prompt design
 
@@ -52,7 +49,6 @@ This paper conducted a design probe where non-AI-expert participants used prompt
 
 # Other Notes
 
----
 
 ### The old workflow prior to LM
 
@@ -74,5 +70,3 @@ collect user intention; (3) ...”);
 > 
 
 # Take-Away
-
----

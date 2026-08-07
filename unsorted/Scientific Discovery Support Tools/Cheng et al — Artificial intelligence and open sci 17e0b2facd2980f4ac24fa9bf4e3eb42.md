@@ -22,17 +22,14 @@
 
 # One Sentence
 
----
 
 This article reviews recent developments of using Big Data (e.g., various genomic databases) and AI to support the drug discovery for Alzheimer’s disease.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### The need to explore new targets than the ones related to Amyloid
 
@@ -41,7 +38,6 @@ This article reviews recent developments of using Big Data (e.g., various genomi
 
 # Other Notes
 
----
 
 ### States of AD
 
@@ -50,7 +46,6 @@ This article reviews recent developments of using Big Data (e.g., various genomi
 
 # Take-Away
 
----
 
 There are a large number of multi-omic datasets—how to help researchers harness them?
 

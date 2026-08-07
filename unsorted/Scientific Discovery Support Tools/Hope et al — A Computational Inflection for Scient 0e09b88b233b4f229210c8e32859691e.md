@@ -22,13 +22,11 @@
 
 # One Sentence
 
----
 
 This paper reviews authors’ series of work of task-guided retrieval of rich information (academic publications, online forum discussions, etc.) to assist scientists’ work by helping them overcome their cognitive limitations.
 
 # More Sentences
 
----
 
 The two desiderata considerd by this series of work:
 
@@ -40,7 +38,6 @@ The two desiderata considerd by this series of work:
 
 # Key Points
 
----
 
 ### How human minds are the bottle neck of scientific discovery
 
@@ -101,8 +98,6 @@ Example #4:
 
 # Other Notes
 
----
 
 # Take-Away
 
----

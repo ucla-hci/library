@@ -11,15 +11,12 @@
 
 # One Sentence
 
----
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### What’s trust in automation
 
@@ -46,7 +43,6 @@ The use of the term “reliance” here is quite narrow and deviates from that i
 
 # Other Notes
 
----
 
 ### Two schools of study on trust
 
@@ -61,5 +57,3 @@ The use of the term “reliance” here is quite narrow and deviates from that i
 This phenomenon is often observed in various contexts, such as in marketing (when aggressive sales tactics backfire), in parenting (when strict rules lead to rebellious behavior), and in politics (when too much control leads to resistance).
 
 # Take-Away
-
----

@@ -14,21 +14,17 @@
 
 # One Sentence
 
----
 
 This paper transcribes Simon’s speech about his work on computer programs that support scientific discovery.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 # Other Notes
 
----
 
 ### The two sides of AI
 
@@ -50,7 +46,6 @@ Simon calls it “ill-structured problem solving”:
 
 # Take-Away
 
----
 
 ### The kind of science focused on in this paper
 

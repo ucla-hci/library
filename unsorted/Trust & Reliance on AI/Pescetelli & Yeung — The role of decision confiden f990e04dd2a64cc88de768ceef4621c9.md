@@ -23,13 +23,11 @@ Publisher: American Psychological Association},
 
 # One Sentence
 
----
 
 This research studied that, in the absence of objective feedback, how people use “agreement-in-confidence”—how confident they feel about their own judgment and how that judgment agrees with an advisor’s—to help them determine whether to rely on the advice.
 
 # More Sentences
 
----
 
 ### The basis of agreement-in-confidence
 
@@ -38,7 +36,6 @@ This research studied that, in the absence of objective feedback, how people use
 
 # Key Points
 
----
 
 ### Main findings
 
@@ -66,11 +63,9 @@ Seems subjective reliability is a common measure of trust?
 
 # Other Notes
 
----
 
 # Take-Away
 
----
 
 ### Difference in LLM when considering this work
 

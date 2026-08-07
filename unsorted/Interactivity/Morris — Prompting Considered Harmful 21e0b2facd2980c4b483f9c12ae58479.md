@@ -23,15 +23,12 @@ numpages = {3}
 
 # One Sentence
 
----
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### Limitations of prompting
 
@@ -57,8 +54,5 @@ Prompting to LM is pseudo-NL input:
 
 # Other Notes
 
----
 
 # Take-Away
-
----

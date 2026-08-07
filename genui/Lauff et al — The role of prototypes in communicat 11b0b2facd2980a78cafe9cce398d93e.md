@@ -18,13 +18,11 @@ abstract = {Prototypes are complex and dynamic artifacts that shape social situa
 
 # One Sentence
 
----
 
 This research conducted a longitudinal study to understand the role of physical prototypes amongst various stakeholders in a shoe manufacturing company.
 
 # More Sentences
 
----
 
 The central message (Lauff et al. 2018):
 
@@ -39,7 +37,6 @@ The central message (Lauff et al. 2018):
 
 # Key Points
 
----
 
 ### Defining prototypes
 
@@ -69,7 +66,6 @@ The central message (Lauff et al. 2018):
 
 # Other Notes
 
----
 
 ### Other related theories
 
@@ -77,5 +73,3 @@ The central message (Lauff et al. 2018):
 > 
 
 # Take-Away
-
----

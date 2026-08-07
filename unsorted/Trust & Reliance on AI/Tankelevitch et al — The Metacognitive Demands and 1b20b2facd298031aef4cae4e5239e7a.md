@@ -22,19 +22,16 @@ series = {CHI '24}
 
 # One Sentence
 
----
 
 ![image.png](Tankelevitch%20et%20al%20%E2%80%94%20The%20Metacognitive%20Demands%20and/image.png)
 
 # More Sentences
 
----
 
 ![image.png](Tankelevitch%20et%20al%20%E2%80%94%20The%20Metacognitive%20Demands%20and/image%201.png)
 
 # Key Points
 
----
 
 ### What is metacognition
 
@@ -96,7 +93,6 @@ The two processes when conducting a task
 
 # Other Notes
 
----
 
 ### Metacognitive knowledge vs. experiences
 
@@ -105,6 +101,5 @@ The two processes when conducting a task
 
 # Take-Away
 
----
 
 ![image.png](Tankelevitch%20et%20al%20%E2%80%94%20The%20Metacognitive%20Demands%20and/image%205.png)

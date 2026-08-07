@@ -24,7 +24,6 @@ keywords = {generative principles, generative theory, Theory}
 
 # One Sentence
 
----
 
 This paper demonstrates how to employ theories to generate specific designs of interactive systems.
 
@@ -33,7 +32,6 @@ This paper demonstrates how to employ theories to generate specific designs of i
 
 # More Sentences
 
----
 
 ### Definition of a Generative Theory of Interaction
 
@@ -57,7 +55,6 @@ This paper demonstrates how to employ theories to generate specific designs of i
 
 # Key Points
 
----
 
 ### A useful illustration of the HCI method
 
@@ -87,7 +84,6 @@ The authors also note that it’s not always the case to find a theory first; so
 
 # Other Notes
 
----
 
 ### What is theory?
 
@@ -98,7 +94,6 @@ Neuman [120, p.30]:
 
 # Take-Away
 
----
 
 Translating theories to specific designs of an artifact is hard—how to support this?
 

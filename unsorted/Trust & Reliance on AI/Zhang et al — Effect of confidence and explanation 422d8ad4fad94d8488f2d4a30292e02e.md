@@ -23,7 +23,6 @@
 
 # One Sentence
 
----
 
 This paper studies how confidence level and local explanation can help a user calibrate their trust of an AI that has a similar capability as the user in a decision-making process.
 
@@ -32,7 +31,6 @@ This paper studies how confidence level and local explanation can help a user ca
 
 # More Sentences
 
----
 
 ### Key findings
 
@@ -47,7 +45,6 @@ This paper studies how confidence level and local explanation can help a user ca
 
 # Key Points
 
----
 
 ### Why full automation is not always desirable
 
@@ -61,8 +58,5 @@ This paper studies how confidence level and local explanation can help a user ca
 
 # Other Notes
 
----
 
 # Take-Away
-
----

@@ -21,15 +21,12 @@
 
 # One Sentence
 
----
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ## Historical Contexts
 
@@ -235,7 +232,6 @@ Types of mental modeling include:
 
 # Other Notes
 
----
 
 ### Understanding philosophy’s approach to understand SD
 
@@ -284,5 +280,3 @@ Two specific approaches:
 > 
 
 # Take-Away
-
----

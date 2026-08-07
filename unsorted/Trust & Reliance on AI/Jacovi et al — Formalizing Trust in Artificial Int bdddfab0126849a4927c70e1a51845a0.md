@@ -22,13 +22,11 @@ series = {FAccT '21}
 
 # One Sentence
 
----
 
 This paper formalizing a number of different concepts related to trust in AI.
 
 # More Sentences
 
----
 
 The key model of trust ...
 
@@ -37,7 +35,6 @@ The key model of trust ...
 
 # Key Points
 
----
 
 ### How this paper defines AI
 
@@ -129,7 +126,6 @@ To measure whether there is a causal relationship between trustworthiness and tr
 
 # Other Notes
 
----
 
 ### “Risk is a prerequisite to the existence of Human-AI trust”
 
@@ -140,5 +136,3 @@ To measure whether there is a causal relationship between trustworthiness and tr
 > 
 
 # Take-Away
-
----

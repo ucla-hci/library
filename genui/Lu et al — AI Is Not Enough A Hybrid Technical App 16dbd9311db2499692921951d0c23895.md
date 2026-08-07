@@ -23,17 +23,14 @@ series = {CHI EA '24}
 
 # One Sentence
 
----
 
 This paper describes a hybrid approach that uses AI in combination with manual heuristic-based checking to perform UI linting—detecting whether certain UI designs are inconsistent with existing guidelines.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### About Design System and UI lining
 
@@ -57,8 +54,5 @@ Design systems
 
 # Other Notes
 
----
 
 # Take-Away
-
----

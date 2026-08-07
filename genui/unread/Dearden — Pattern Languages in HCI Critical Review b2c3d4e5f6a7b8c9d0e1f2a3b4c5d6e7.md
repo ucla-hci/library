@@ -20,12 +20,10 @@
 # One Sentence
 Surveys ~40 HCI pattern projects and finds almost no empirical validation of their design utility, calling for formal evaluation methods.
 
----
 
 # More Sentences
 Dearden and Finlay systematically examine pattern catalogs published up to 2005, analyzing their structure, scope, derivation, and evidence base. Their central finding is that pattern languages in HCI are almost never empirically evaluated — most rely on expert authority. They also map the diversity of pattern template structures, noting no consensus on what fields a pattern must contain. The paper is the field's most-cited methodological critique.
 
----
 
 # Key Points
 

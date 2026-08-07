@@ -18,12 +18,10 @@
 # One Sentence
 Catalogs 90+ named mobile app UI patterns across 11 categories, illustrated by 1,000+ screenshots from iOS, Android, and Windows Phone apps.
 
----
 
 # More Sentences
 Neil organizes mobile patterns into 11 chapters: Navigation, Forms, Tables and Lists, Search, Sort and Filter, Tools and Actions, Charts, Invitations, Feedback and Affordance, Help, and Anti-Patterns. Each pattern has a name, "best uses," and annotated screenshots. The book is the primary academic and practitioner reference for named mobile UI patterns, widely cited in mobile HCI research. No formal empirical validation is provided.
 
----
 
 # Key Points
 

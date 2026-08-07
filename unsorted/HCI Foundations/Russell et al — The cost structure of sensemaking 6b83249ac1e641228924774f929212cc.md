@@ -22,13 +22,11 @@
 
 # One Sentence
 
----
 
 This paper summarizes activities revolving around sensemaking—finding the representation of data to answer task-specific questions—and analyze its cost structure.
 
 # More Sentences
 
----
 
 ![Sensemaking learning loop](../../_assets/russell-sensemaking-learning-loop.png)
 
@@ -42,7 +40,6 @@ This paper summarizes activities revolving around sensemaking—finding the repr
 
 # Key Points
 
----
 
 ### Sensemaking
 
@@ -86,7 +83,6 @@ TT: the target task
 
 # Other Notes
 
----
 
 ### Other familiar sensemaking scenarios
 
@@ -105,6 +101,5 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Information_foraging):
 
 # Take-Away
 
----
 
 Didn't quite get the cost part of this paper or how to operationalize it.

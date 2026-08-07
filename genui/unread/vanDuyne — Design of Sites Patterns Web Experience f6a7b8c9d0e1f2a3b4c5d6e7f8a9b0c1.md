@@ -18,12 +18,10 @@
 # One Sentence
 Organizes web design knowledge into 90+ named patterns (e.g., "Persistent Navigation," "Search," "Trust Builder") explicitly grounded in Christopher Alexander's pattern language methodology.
 
----
 
 # More Sentences
 van Duyne et al. explicitly position the book as bringing Alexander's original pattern language intent to customer-centered web design. Patterns are organized by site type (e-commerce, news, community) as well as cross-cutting concerns (navigation, trust, home page). The book distinguishes itself from Tidwell by being web-specific and by organizing patterns according to customer goals rather than UI widget types. Landay's prior research on web usability informs several patterns empirically.
 
----
 
 # Key Points
 

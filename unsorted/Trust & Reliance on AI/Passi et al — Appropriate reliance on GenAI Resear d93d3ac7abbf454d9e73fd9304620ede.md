@@ -17,19 +17,16 @@
 
 # One Sentence
 
----
 
 This paper reviews recent research on appropriate reliance on generative AI, including why it matters, how to define it, factors, mitigation strategies, and design recommendations.
 
 # More Sentences
 
----
 
 ![Factors affecting GenAI overreliance](../../_assets/passi-genai-overreliance-factors.png)
 
 # Key Points
 
----
 
 ### The old assumption that breaks with GenAI
 
@@ -75,7 +72,6 @@ It is possible to get the probability of individual token’s generation and hig
 
 # Other Notes
 
----
 
 ### Gen AI adds cognitive load to users
 
@@ -95,7 +91,6 @@ Example of a QA like task (with ground thruths).
 
 # Take-Away
 
----
 
 ### Thoughts on the three mitigation strategies
 

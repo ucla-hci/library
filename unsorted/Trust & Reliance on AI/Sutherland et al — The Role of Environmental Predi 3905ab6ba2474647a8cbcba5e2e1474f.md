@@ -22,13 +22,11 @@ series = {CHI '15}
 
 # One Sentence
 
----
 
 This paper studies how environmental predictability and the cost of using automation affect people’s over or under reliance on automation.
 
 # More Sentences
 
----
 
 > This study aims to understand the impact of environmental predictability (how well cues in the environment can be identified and used to make correct predictions) on the reliance on automation, how increasing costs associated with automation can be used to influence reliance, and how these factors combine to affect overutilization and underutilization.
 > 
@@ -38,7 +36,6 @@ This paper studies how environmental predictability and the cost of using automa
 
 # Key Points
 
----
 
 ### Motivation to studying over or under usage of automation
 
@@ -54,8 +51,5 @@ In some scenarios (e.g., pilot flying a plane), when automation goes wrong, envi
 
 # Other Notes
 
----
 
 # Take-Away
-
----

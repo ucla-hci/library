@@ -18,12 +18,10 @@
 # One Sentence
 Uses RNN and GAN models on the RICO dataset (9,700+ Android apps) to learn and reconstruct UI design patterns, demonstrating that named patterns can be empirically induced rather than expert-curated.
 
----
 
 # More Sentences
 Rather than manually cataloging patterns, Nguyen et al. train deep learning models to learn the structural and visual regularities across 72,000+ UI screens. The system can generate professional-looking UI designs from simpler drafts by applying learned patterns. While the approach is ML-based (deep learning, not LLM generation), the contribution to the pattern field is clear: it proves that UI design patterns can be empirically induced at scale from real app data. The induced "patterns" correspond to known named patterns (navigation bars, card lists, form layouts) without being explicitly programmed.
 
----
 
 # Key Points
 

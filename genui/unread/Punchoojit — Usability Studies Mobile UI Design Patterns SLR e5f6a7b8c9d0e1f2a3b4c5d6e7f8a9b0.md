@@ -20,12 +20,10 @@
 # One Sentence
 SLR of empirical studies on mobile UI design patterns identifying 10 pattern categories, while finding no consistent evaluation standard across the literature.
 
----
 
 # More Sentences
 The authors conducted a systematic search of mobile UI design pattern literature, applying inclusion/exclusion criteria to identify studies that both propose and evaluate mobile patterns. They found 10 pattern categories (navigation, forms, search, notifications, etc.) but note that mobile "true standards" for UI patterns do not yet exist. Importantly, touchscreens fundamentally changed mobile UI since 2007, yet pattern catalogs have not kept pace with this shift. Evaluation methods across studies are inconsistent, making cross-study comparison difficult.
 
----
 
 # Key Points
 

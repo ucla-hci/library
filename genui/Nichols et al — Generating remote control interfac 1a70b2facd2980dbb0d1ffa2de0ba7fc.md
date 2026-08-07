@@ -22,7 +22,6 @@ series = {UIST '02}
 
 # One Sentence
 
----
 
 This paper presents *personal universal controller* (PUC) —a method to automatically generate user interfaces on a remote device to control different complex appliances based on individual appliances’ functional specifications.
 
@@ -30,11 +29,9 @@ This paper presents *personal universal controller* (PUC) —a method to automat
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### Specification Language
 
@@ -74,8 +71,6 @@ Given a group tree, this paper takes a rule-based approach to generate the corre
 
 # Other Notes
 
----
 
 # Take-Away
 
----

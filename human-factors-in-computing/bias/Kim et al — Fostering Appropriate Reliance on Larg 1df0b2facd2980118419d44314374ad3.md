@@ -6,11 +6,9 @@ Reference
 
 # One Sentence
 
----
 
 # More Sentences
 
----
 
 ### Main experiment
 
@@ -24,7 +22,6 @@ Reference
 
 # Key Points
 
----
 
 ### What is LLM-provided explanation?
 
@@ -40,11 +37,9 @@ LLM responses often contain “both an answer to the question and some supportin
 
 # Other Notes
 
----
 
 # Take-Away
 
----
 
 ### Motivation for studying overreliance on LLM
 

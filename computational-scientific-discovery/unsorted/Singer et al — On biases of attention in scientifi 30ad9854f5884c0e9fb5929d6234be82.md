@@ -23,13 +23,11 @@
 
 # One Sentence
 
----
 
 This paper analyzes how scientists discovered protein-protein interactions (PPIs) over time and found attentional biases—that is, scientists tend to discover new interactions with proteins with a small degree of separation from proteins with the known interactions.
 
 # More Sentences
 
----
 
 > … patterns of exploration and confirmation have become embedded and implicit in the protein-protein interaction (PPI) database
 > 
@@ -41,7 +39,6 @@ This paper analyzes how scientists discovered protein-protein interactions (PPIs
 
 # Key Points
 
----
 
 ### Sources of biases
 
@@ -80,7 +77,6 @@ If prediction performance based on the original edge is close to the matched edg
 
 # Other Notes
 
----
 
 ### The PPI data this paper analyzes
 
@@ -89,7 +85,6 @@ If prediction performance based on the original edge is close to the matched edg
 
 # Take-Away
 
----
 
 What this paper did not cover is empirical evidence of how scientists’ work is actually influenced by biases. Instead, this paper derives its findings from predicting what scientists might have discovered (based on what they did discover).
 

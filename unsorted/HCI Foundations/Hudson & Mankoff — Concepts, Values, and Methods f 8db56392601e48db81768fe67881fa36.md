@@ -22,20 +22,17 @@
 
 # One Sentence
 
----
 
 This book chapter describes the school of technical HCI research: what is defines such research, why it is valuable, and specific approaches of invention and validation.
 
 # More Sentences
 
----
 
 > … we conclude that the specifics of methods used in activities of discovery are extremely important—so much so that results are not really understandable in isolation from the methods used to reach them, and so they really become part of the results themselves. In contrast, for activities of invention, the use of one method versus another is much more fluid and less fundamental. Instead, the application of the invention, as demonstrated through a proof-of-concept implementation of the thing invented, is a crucial component of the result.
 > 
 
 # Key Points
 
----
 
 ### What is research?
 
@@ -67,8 +64,5 @@ This book chapter describes the school of technical HCI research: what is define
 
 # Other Notes
 
----
 
 # Take-Away
-
----

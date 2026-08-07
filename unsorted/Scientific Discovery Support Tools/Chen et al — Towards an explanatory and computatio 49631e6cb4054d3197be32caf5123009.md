@@ -25,18 +25,15 @@
 
 # One Sentence
 
----
 
 # More Sentences
 
----
 
 > The central premise is that connecting otherwise disparate patches of knowledge is a valuable mechanism of creative thinking in general and transformative scientific discovery in particular.
 > 
 
 # Key Points
 
----
 
 ### Swanson’s A-B-C model
 
@@ -87,11 +84,9 @@ Betweenness centrality of a node measures how frequently it lies on the shortest
 
 # Other Notes
 
----
 
 # Take-Away
 
----
 
 ### The nature of this paper’s theory of SD
 

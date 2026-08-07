@@ -16,13 +16,11 @@ intro={As science becomes increasingly data-intensive, the requirements for comp
 
 # One Sentence
 
----
 
 The authors introduce a stage-based model of personal RDM commitment evolution based on the five core concepts which describe requirements, drivers, and boundaries in the development of commitment for RDM, essential for generating reproducible research artifacts: Practice, Adoption, Barriers, Education, and Impact. 
 
 # More Sentences
 
----
 
 **Practice** reflects the diversity in terms of data collection, resource sharing, and reuse within and across diverse fields of science. Related to this core concept, participants stressed the role of data management tools and services, with particular regard to the exchange of information within and across institutes.
 
@@ -35,7 +33,6 @@ In the **Barriers** core concept, four technical key barriers are described: int
 
 # Key Points
 
----
 
 The model improves our understanding of how researchers transition from non-reproducible practices to sustained commitment for comprehensive RDM.
 
@@ -47,8 +44,5 @@ Supporting RDM is crucial to ensuring that research outputs are reproducible and
 
 # Other Notes
 
----
 
 # Take-Away
-
----

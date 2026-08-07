@@ -15,7 +15,6 @@
 
 # One Sentence
 
----
 
 This paper describes the scatter/gather technique: a corpus of documents is first scattered into several clusters (each with a description) and then a user gathers one or a few clusters and repeat the whole process.
 
@@ -23,14 +22,12 @@ This paper describes the scatter/gather technique: a corpus of documents is firs
 
 # More Sentences
 
----
 
 > Initially the system *scatters* the collection into a small number of document groups, or *clusters*, and presents short summaries of them to the user ... the user selects one or more of the groups for further study. The selected groups are *gathered* together to form a subcollection.
 > 
 
 # Key Points
 
----
 
 ### Why using this technique
 
@@ -39,8 +36,6 @@ This paper describes the scatter/gather technique: a corpus of documents is firs
 
 # Other Notes
 
----
 
 # Take-Away
 
----

@@ -18,12 +18,10 @@
 # One Sentence
 Traces the history of HCI design patterns from Alexander (1977) through GoF (1994) to the HCI community, mapping three generations: pattern language → pattern catalog → pattern-driven engineering.
 
----
 
 # More Sentences
 Seffah identifies three phases: (1) pattern language as lingua franca for interdisciplinary teams (Borchers era), (2) curated pattern catalogs for UI practitioners (Tidwell era), and (3) pattern-driven engineering where patterns are formalized enough to drive automated tool support (emerging at time of writing). The paper argues that the field is stagnating because patterns remain informal prose, preventing tooling. It calls for richer formalization as the next step.
 
----
 
 # Key Points
 

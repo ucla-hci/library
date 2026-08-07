@@ -26,13 +26,11 @@
 
 # One Sentence
 
----
 
 This article describes various kinds of biases that might influence scientistsâ€™ work.
 
 # More Sentences
 
----
 
 > Science is an ongoing race between our inventing ways to fool ourselves, and our inventing ways to avoid fooling ourselves
 > 
@@ -41,7 +39,6 @@ This article describes various kinds of biases that might influence scientistsâ€
 
 # Key Points
 
----
 
 ### Hypothesis myopia
 
@@ -78,7 +75,6 @@ How to implement this: replace the actual data set with a fake one, apply the wh
 
 # Other Notes
 
----
 
 ### The impact of software
 
@@ -87,6 +83,5 @@ How to implement this: replace the actual data set with a fake one, apply the wh
 
 # Take-Away
 
----
 
 Idea: develop tools to counter the three biases above?

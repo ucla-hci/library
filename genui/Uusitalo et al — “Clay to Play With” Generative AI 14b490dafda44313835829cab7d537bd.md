@@ -15,17 +15,14 @@
 
 # One Sentence
 
----
 
 This paper interviewed 10 designers to understand how they use generative AI tools in their work.
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### The use of GenAI for “telling a story”
 
@@ -37,11 +34,9 @@ This paper interviewed 10 designers to understand how they use generative AI too
 
 # Other Notes
 
----
 
 # Take-Away
 
----
 
 ### The intended users of generative AI tools …
 

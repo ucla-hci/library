@@ -15,18 +15,15 @@
 
 # One Sentence
 
----
 
 > Defining trust as an individual’s behavioral reliance on another person under a condition of risk, we developed and tested the construct validity of a questionnaire measure that assessed trust between the individuals who provide the linking mechanism across organizational boundaries, namely, boundary role persons (BRPs).
 > 
 
 # More Sentences
 
----
 
 # Key Points
 
----
 
 ### The proposed questionnaires measure antecedents of trust
 
@@ -40,7 +37,6 @@
 
 # Other Notes
 
----
 
 ### Scope
 
@@ -53,4 +49,3 @@
 
 # Take-Away
 
----

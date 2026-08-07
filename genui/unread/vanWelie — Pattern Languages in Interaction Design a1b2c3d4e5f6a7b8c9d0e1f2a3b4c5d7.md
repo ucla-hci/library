@@ -17,12 +17,10 @@
 # One Sentence
 Proposes a top-down hierarchical organization for web UI pattern languages, distinguishing task, navigation, and widget levels.
 
----
 
 # More Sentences
 The paper argues that ad hoc pattern collections lack useful structure and proposes organizing interaction design patterns into a three-level hierarchy: high-level task patterns, mid-level navigation patterns, and low-level widget patterns. Van Welie also maintains a companion online catalog at welie.com/patterns with 80+ named web UI patterns. The work is notable for being both a theoretical framework and a practical catalog.
 
----
 
 # Key Points
 

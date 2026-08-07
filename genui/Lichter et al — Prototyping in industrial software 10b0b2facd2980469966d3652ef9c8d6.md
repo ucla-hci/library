@@ -16,20 +16,17 @@
 
 # One Sentence
 
----
 
 This paper conducted a case study of how industrial software teams adopted prototyping practices in various projects and what were the costs and effects of prototypes in these projects’ success.
 
 # More Sentences
 
----
 
 > Ideally, prototypes cover two aspects of the system being developed: the semantics of the application and the architecture of the software. If both aspects are modeled in the prototyping process, this can considerably ease the problems of system design
 > 
 
 # Key Points
 
----
 
 ### Key attributes of prototypes
 
@@ -80,7 +77,6 @@ Vertical prototyping
 
 # Other Notes
 
----
 
 ### Prototyping incurs overhead
 
@@ -93,5 +89,3 @@ Vertical prototyping
 > 
 
 # Take-Away
-
----

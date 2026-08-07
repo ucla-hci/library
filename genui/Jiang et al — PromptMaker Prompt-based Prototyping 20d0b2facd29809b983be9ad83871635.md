@@ -21,11 +21,9 @@ series = {CHI EA '22}
 
 # One Sentence
 
----
 
 # More Sentences
 
----
 
 > This case study reports on the real-world experience of industry teams prototyping new machine-learning-powered concepts and applications via prompt programming of a state-of-the-art LLM.
 > 
@@ -35,14 +33,11 @@ series = {CHI EA '22}
 
 # Key Points
 
----
 
 # Other Notes
 
----
 
 # Take-Away
 
----
 
 Sourcing examples for a prompt is considered a challenge—that is, we cannot expect users to easily come up with examples.

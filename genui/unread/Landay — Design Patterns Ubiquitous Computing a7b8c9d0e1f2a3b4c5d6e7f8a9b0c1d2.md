@@ -21,12 +21,10 @@
 # One Sentence
 Proposes that Alexander-style design patterns are the right mechanism for capturing ubicomp design knowledge, naming seven initial patterns (e.g., "Context-Sensitive I/O," "Follow-Me Display").
 
----
 
 # More Sentences
 The paper argues that ubicomp systems face the same structured-yet-informal knowledge transfer problem that motivated GoF and Borchers — and that patterns are the right solution. Seven named patterns are introduced at a high level, spanning physical-virtual associations, context awareness, and cross-device continuity. The paper is more a call to action than a complete catalog; it directly spawned the Chung et al. (2004) empirical evaluation work.
 
----
 
 # Key Points
 
