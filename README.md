@@ -107,10 +107,30 @@ Notes of what we read
 
 - [Asdaque et al.: Novice Developers Produce Larger Review Overhead for Project Maintainers while Vibe Coding](genui/asdaque_novice-developers-produce-larger-review-overhead-for-project-maintainers-while-vibe-coding.md)
 - [Cao et al.: Generative and Malleable User Interfaces with Generative and Evolving Task-Driven Data Model](genui/cao_generative-and-malleable-user-interfaces-with-generative-and-evolving-task-driven-data-model.md)
+- [Dayama et al. — GRIDS: Interactive Layout Design with Integer Programming](genui/Dayama%20et%20al%20%E2%80%94%20GRIDS%20Interactive%20Layout%20Design%20wit%201b50b2facd2980c2a563ff2b43574827.md)
+- [Diefenbach et al. — The state of prototyping practice in the industrial setting: Potential, challenges and implications](genui/Diefenbach%20et%20al%20%E2%80%94%20The%20state%20of%20prototyping%20practi%201530b2facd2980e3b620d847c86d5f81.md)
+- [Feng et al. — How Do UX Practitioners Communicate AI as a Design Material? Artifacts, Conceptions, and Propositions](genui/Feng%20et%20al%20%E2%80%94%20How%20Do%20UX%20Practitioners%20Communicate%20A%208367fff959ed403e8e720c4dd3cef2a5.md)
+- [Fogarty & Hudson — GADGET: a toolkit for optimization-based approaches to interface and display generation](genui/Fogarty%20%26%20Hudson%20%E2%80%94%20GADGET%20a%20toolkit%20for%20optimizati%2019e0b2facd298098824fcc4f4a24b746.md)
+- [Gajos & Weld — SUPPLE: automatically generating user interfaces](genui/Gajos%20%26%20Weld%20%E2%80%94%20SUPPLE%20automatically%20generating%20use%201990b2facd298054ae03ce4f0256b1da.md)
+- [Houde & Hill — What do prototypes prototype?](genui/Houde%20%26%20Hill%20%E2%80%94%20What%20do%20prototypes%20prototype%2014a0b2facd2980cb8b71cc9867535be9.md)
 - [Jenkyn et al.: The Death of Prompt Engineering: Why LLM Specifications Are the New Application Code](genui/jenkyn_the-death-of-prompt-engineering-why-llm-specifications-are-the-new-application-code.md)
+- [Jiang et al. — PromptMaker: Prompt-based Prototyping with Large Language Models](genui/Jiang%20et%20al%20%E2%80%94%20PromptMaker%20Prompt-based%20Prototyping%2020d0b2facd29809b983be9ad83871635.md)
+- [Lauff et al. — The role of prototypes in communication between stakeholders](genui/Lauff%20et%20al%20%E2%80%94%20The%20role%20of%20prototypes%20in%20communicat%2011b0b2facd2980a78cafe9cce398d93e.md)
+- [Li et al. — User Experience Design Professionals’ Perceptions of Generative Artificial Intelligence](genui/Li%20et%20al%20%E2%80%94%20User%20Experience%20Design%20Professionals%E2%80%99%20P%20716454be5dee421db8aa85a42eceb4e7.md)
+- [Lichter et al. — Prototyping in industrial software projects-bridging the gap between theory and practice](genui/Lichter%20et%20al%20%E2%80%94%20Prototyping%20in%20industrial%20software%2010b0b2facd2980469966d3652ef9c8d6.md)
+- [Lim et al. — The anatomy of prototypes: Prototypes as filters, prototypes as manifestations of design ideas](genui/Lim%20et%20al%20%E2%80%94%20The%20anatomy%20of%20prototypes%20Prototypes%20a%2010d0b2facd29803b8e84f025007d6e0e.md)
+- [Lu et al. — AI Assistance for UX: A Literature Review Through Human-Centered AI](genui/Lu%20et%20al%20%E2%80%94%20AI%20Assistance%20for%20UX%20A%20Literature%20Revie%207ab9d82853a04462ba619cd9bc40825d.md)
+- [Lu et al. — AI Is Not Enough: A Hybrid Technical Approach to AI Adoption in UI Linting With Heuristics](genui/Lu%20et%20al%20%E2%80%94%20AI%20Is%20Not%20Enough%20A%20Hybrid%20Technical%20App%2016dbd9311db2499692921951d0c23895.md)
 - [Lu et al.: AI Assistance for UX: A Literature Review Through Human-Centered AI](genui/lu_ai-assistance-for-ux-a-literature-review-through-human-centered-ai.md)
+- [Mega Notes](genui/Mega%20Notes%201430b2facd298003aac8c16849dd9bc2.md)
+- [Nichols et al. — Generating remote control interfaces for complex appliances](genui/Nichols%20et%20al%20%E2%80%94%20Generating%20remote%20control%20interfac%201a70b2facd2980dbb0d1ffa2de0ba7fc.md)
 - [Nielsen: No More User Interface?](genui/nielsen_no-more-user-interface.md)
+- [Stige et al. — Artificial intelligence (AI) for user experience (UX) design: a systematic literature review and future research agenda](genui/Stige%20et%20al%20%E2%80%94%20Artificial%20intelligence%20%28AI%29%20for%20use%2007da334fd9604169adb52cfff2c574e4.md)
+- [Subramonyam et al. — Prototyping with Prompts: Emerging Approaches and Challenges in Generative AI Design for Collaborative Software Teams](genui/Subramonyam%20et%20al%20%E2%80%94%20Prototyping%20with%20Prompts%20Emerg%201e30b2facd29802696eedc772f06eb27.md)
+- [Takaffoli et al. — Generative AI in User Experience Design and Research](genui/Takaffoli%20et%20al%20%E2%80%94%20Generative%20AI%20in%20User%20Experience%2021615f766e634dd8ba67f8af525de8c0.md)
 - [Tohidi et al.: Getting the Right Design and the Design Right](genui/tohidi_getting-the-right-design-and-the-design-right.md)
+- [Uusitalo et al. — “Clay to Play With”: Generative AI Tools in UX and Industrial Design Practice](genui/Uusitalo%20et%20al%20%E2%80%94%20%E2%80%9CClay%20to%20Play%20With%E2%80%9D%20Generative%20AI%2014b490dafda44313835829cab7d537bd.md)
+- [Yang — A study of prototypes, design activity, and design outcome](genui/Yang%20%E2%80%94%20A%20study%20of%20prototypes%2C%20design%20activity%2C%20and%2012e0b2facd2980b7a5f2c7b2a109727d.md)
 
 ### Pattern GenUI
 
@@ -189,29 +209,6 @@ Notes of what we read
 - [Mozannar et al. — When to Show a Suggestion? Integrating Human Feedback in AI-Assisted Programming](unsorted/AI%20with%20Theory%20of%20Mind/Mozannar%20et%20al%20%E2%80%94%20When%20to%20Show%20a%20Suggestion%20Integra%2079382deccf9c40d4a799487a78cb45c2.md)
 - [Pynadath & Marsella — PsychSim: modeling theory of mind with decision-theoretic agents](unsorted/AI%20with%20Theory%20of%20Mind/Pynadath%20%26%20Marsella%20%E2%80%94%20PsychSim%20modeling%20theory%20of%20%20df60500ef28440baad4bb596dfaacd5a.md)
 - [Scassellati — Theory of Mind for a Humanoid Robot](unsorted/AI%20with%20Theory%20of%20Mind/Scassellati%20%E2%80%94%20Theory%20of%20Mind%20for%20a%20Humanoid%20Robot%202305f644792b4684b1ac245ff5da65c0.md)
-
-### Generative AI for UX Design
-
-- [Dayama et al. — GRIDS: Interactive Layout Design with Integer Programming](unsorted/Generative%20AI%20for%20UX%20Design/Dayama%20et%20al%20%E2%80%94%20GRIDS%20Interactive%20Layout%20Design%20wit%201b50b2facd2980c2a563ff2b43574827.md)
-- [Diefenbach et al. — The state of prototyping practice in the industrial setting: Potential, challenges and implications](unsorted/Generative%20AI%20for%20UX%20Design/Diefenbach%20et%20al%20%E2%80%94%20The%20state%20of%20prototyping%20practi%201530b2facd2980e3b620d847c86d5f81.md)
-- [Feng et al. — How Do UX Practitioners Communicate AI as a Design Material? Artifacts, Conceptions, and Propositions](unsorted/Generative%20AI%20for%20UX%20Design/Feng%20et%20al%20%E2%80%94%20How%20Do%20UX%20Practitioners%20Communicate%20A%208367fff959ed403e8e720c4dd3cef2a5.md)
-- [Fogarty & Hudson — GADGET: a toolkit for optimization-based approaches to interface and display generation](unsorted/Generative%20AI%20for%20UX%20Design/Fogarty%20%26%20Hudson%20%E2%80%94%20GADGET%20a%20toolkit%20for%20optimizati%2019e0b2facd298098824fcc4f4a24b746.md)
-- [Gajos & Weld — SUPPLE: automatically generating user interfaces](unsorted/Generative%20AI%20for%20UX%20Design/Gajos%20%26%20Weld%20%E2%80%94%20SUPPLE%20automatically%20generating%20use%201990b2facd298054ae03ce4f0256b1da.md)
-- [Houde & Hill — What do prototypes prototype?](unsorted/Generative%20AI%20for%20UX%20Design/Houde%20%26%20Hill%20%E2%80%94%20What%20do%20prototypes%20prototype%2014a0b2facd2980cb8b71cc9867535be9.md)
-- [Jiang et al. — PromptMaker: Prompt-based Prototyping with Large Language Models](unsorted/Generative%20AI%20for%20UX%20Design/Jiang%20et%20al%20%E2%80%94%20PromptMaker%20Prompt-based%20Prototyping%2020d0b2facd29809b983be9ad83871635.md)
-- [Lauff et al. — The role of prototypes in communication between stakeholders](unsorted/Generative%20AI%20for%20UX%20Design/Lauff%20et%20al%20%E2%80%94%20The%20role%20of%20prototypes%20in%20communicat%2011b0b2facd2980a78cafe9cce398d93e.md)
-- [Li et al. — User Experience Design Professionals’ Perceptions of Generative Artificial Intelligence](unsorted/Generative%20AI%20for%20UX%20Design/Li%20et%20al%20%E2%80%94%20User%20Experience%20Design%20Professionals%E2%80%99%20P%20716454be5dee421db8aa85a42eceb4e7.md)
-- [Lichter et al. — Prototyping in industrial software projects-bridging the gap between theory and practice](unsorted/Generative%20AI%20for%20UX%20Design/Lichter%20et%20al%20%E2%80%94%20Prototyping%20in%20industrial%20software%2010b0b2facd2980469966d3652ef9c8d6.md)
-- [Lim et al. — The anatomy of prototypes: Prototypes as filters, prototypes as manifestations of design ideas](unsorted/Generative%20AI%20for%20UX%20Design/Lim%20et%20al%20%E2%80%94%20The%20anatomy%20of%20prototypes%20Prototypes%20a%2010d0b2facd29803b8e84f025007d6e0e.md)
-- [Lu et al. — AI Assistance for UX: A Literature Review Through Human-Centered AI](unsorted/Generative%20AI%20for%20UX%20Design/Lu%20et%20al%20%E2%80%94%20AI%20Assistance%20for%20UX%20A%20Literature%20Revie%207ab9d82853a04462ba619cd9bc40825d.md)
-- [Lu et al. — AI Is Not Enough: A Hybrid Technical Approach to AI Adoption in UI Linting With Heuristics](unsorted/Generative%20AI%20for%20UX%20Design/Lu%20et%20al%20%E2%80%94%20AI%20Is%20Not%20Enough%20A%20Hybrid%20Technical%20App%2016dbd9311db2499692921951d0c23895.md)
-- [Mega Notes](unsorted/Generative%20AI%20for%20UX%20Design/Mega%20Notes%201430b2facd298003aac8c16849dd9bc2.md)
-- [Nichols et al. — Generating remote control interfaces for complex appliances](unsorted/Generative%20AI%20for%20UX%20Design/Nichols%20et%20al%20%E2%80%94%20Generating%20remote%20control%20interfac%201a70b2facd2980dbb0d1ffa2de0ba7fc.md)
-- [Stige et al. — Artificial intelligence (AI) for user experience (UX) design: a systematic literature review and future research agenda](unsorted/Generative%20AI%20for%20UX%20Design/Stige%20et%20al%20%E2%80%94%20Artificial%20intelligence%20%28AI%29%20for%20use%2007da334fd9604169adb52cfff2c574e4.md)
-- [Subramonyam et al. — Prototyping with Prompts: Emerging Approaches and Challenges in Generative AI Design for Collaborative Software Teams](unsorted/Generative%20AI%20for%20UX%20Design/Subramonyam%20et%20al%20%E2%80%94%20Prototyping%20with%20Prompts%20Emerg%201e30b2facd29802696eedc772f06eb27.md)
-- [Takaffoli et al. — Generative AI in User Experience Design and Research](unsorted/Generative%20AI%20for%20UX%20Design/Takaffoli%20et%20al%20%E2%80%94%20Generative%20AI%20in%20User%20Experience%2021615f766e634dd8ba67f8af525de8c0.md)
-- [Uusitalo et al. — “Clay to Play With”: Generative AI Tools in UX and Industrial Design Practice](unsorted/Generative%20AI%20for%20UX%20Design/Uusitalo%20et%20al%20%E2%80%94%20%E2%80%9CClay%20to%20Play%20With%E2%80%9D%20Generative%20AI%2014b490dafda44313835829cab7d537bd.md)
-- [Yang — A study of prototypes, design activity, and design outcome](unsorted/Generative%20AI%20for%20UX%20Design/Yang%20%E2%80%94%20A%20study%20of%20prototypes%2C%20design%20activity%2C%20and%2012e0b2facd2980b7a5f2c7b2a109727d.md)
 
 ### HCI Foundations
 
