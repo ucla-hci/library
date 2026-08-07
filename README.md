@@ -178,6 +178,7 @@ Notes of what we read
 - [Béchard: The next AI revolution could start with world models](unsorted/bechard_next-ai-world-models.md)
 - [Feng et al.: Cocoa: Co-Planning and Co-Execution with AI Agents](unsorted/feng_cocoa-coplanning-coexecution-with-ai-agents.md)
 - [Ludwig et al.: Machine Learning as a Tool for Hypothesis Generation](unsorted/ludwig_machine-learning-as-a-tool-for-hypothesis-generation.md)
+- [Morris et al.: Position: Levels of AGI for Operationalizing Progress on the Path to AGI](unsorted/morris_position-levels-of-agi-for-operationalizing-progress-on-the-path-to-agi.md)
 - [Shao et al.: Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models](unsorted/shao_assisting-in-writing-wikipedia-like-articles-from-scratch-with-large-language-models.md)
 - [Zeng et al.: MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents](unsorted/zeng_mementogui.md)
 

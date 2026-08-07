@@ -1,4 +1,5 @@
-
+human factors in computing:
+- Appropriate reliance on AI advice
 
 Computational scientific discovery
 https://academic.oup.com/qje/article-abstract/139/2/751/7515309?redirectedFrom=fulltext
