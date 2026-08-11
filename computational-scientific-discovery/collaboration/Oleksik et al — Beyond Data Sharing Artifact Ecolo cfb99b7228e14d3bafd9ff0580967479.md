@@ -1,5 +1,4 @@
-# Oleksik et al. —  Beyond Data Sharing: Artifact Ecology of a Collaborative
-Nanophotonics Research Centre
+# Oleksik et al. —  Beyond Data Sharing: Artifact Ecology of a Collaborative Nanophotonics Research Centre
 
 ```
 @inproceedings{oleksik2012beyond,
@@ -27,7 +26,7 @@ The paper (1) identified the factors that led to its functional and effective ar
 
 The latter includes effective support for contextual search, browsing, and flexible viewing of information artifacts based on relevant parameters and properties.
 
-![스크린샷 2024-08-13 오후 3.06.45.png](../../_assets/oleksik_et_al_beyond_data_sharing_artifact_ecolo_cfb99b7228e14d3bafd9ff0580967479-%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2024-08-13_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_3.06.45.png)
+![스크린샷 2024-08-13 오후 3.06.45.png](../../_assets/oleksik-artifact-ecology.png)
 
 # Other Notes
 

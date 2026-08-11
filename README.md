@@ -21,6 +21,7 @@ Notes of what we read
 - [Ben-Menahem et al.: Coordinating Knowledge Creation in Multidisciplinary Teams: Evidence from Early-Stage Drug Discovery](computational-scientific-discovery/collaboration/ben-menahem_coordinating-knowledge-creation-in-multidisciplinary-teams.md)
 - [Katz et al.: What Is Research Collaboration?](computational-scientific-discovery/collaboration/katz_what-is-research-collaboration.md)
 - [Love et al.: Interpersonal relationship drive successful team science](computational-scientific-discovery/collaboration/love_interpersonal-relationship-drive-successful-team-science.md)
+- [Oleksik et al. — Beyond Data Sharing: Artifact Ecology of a Collaborative Nanophotonics Research Centre](computational-scientific-discovery/collaboration/Oleksik%20et%20al%20%E2%80%94%20Beyond%20Data%20Sharing%20Artifact%20Ecolo%20cfb99b7228e14d3bafd9ff0580967479.md)
 - [Specht et al.: Interdiscipliinary collaoration from diverse science teams can produce significant outcomes](computational-scientific-discovery/collaboration/specht_interdiscipliinary-collaoration-from-diverse-science-teams-can-produce-significant-outcomes.md)
 
 ### Domain Specific
@@ -91,7 +92,6 @@ Notes of what we read
 
 ### Unsorted
 
-- [Oleksik et al. — Beyond Data Sharing: Artifact Ecology of a Collaborative](computational-scientific-discovery/unsorted/Oleksik%20et%20al%20%E2%80%94%20Beyond%20Data%20Sharing%20Artifact%20Ecolo%20cfb99b7228e14d3bafd9ff0580967479.md)
 - [Portenoy et al. — Bursting scientific filter bubbles: Boosting innovation via novel author discovery](computational-scientific-discovery/unsorted/Portenoy%20et%20al%20%E2%80%94%20Bursting%20scientific%20filter%20bubble%20ac2a248e0e124dddb7bc2604243305ab.md)
 - [Pun et al.: Target identification and assessment in the era of AI](computational-scientific-discovery/unsorted/pun_target-identification-and-assessment-in-the-era-of-ai.md)
 - [Schunn & Klahr — A 4-space model of scientific discovery](computational-scientific-discovery/unsorted/Schunn%20%26%20Klahr%20%E2%80%94%20A%204-space%20model%20of%20scientific%20dis%200538c08e8bfb41bab1df880d1e147022.md)
