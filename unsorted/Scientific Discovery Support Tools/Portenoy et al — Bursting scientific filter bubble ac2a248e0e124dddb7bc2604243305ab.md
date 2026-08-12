@@ -27,7 +27,7 @@ This tool helps users discover authors considered useful for generating novel re
 
 Bridger's approach to burst scientific filter bubbles and promote a more interconnected scholarly community is a pivotal development in how academic literature and collaborations can be fostered.
 
-![스크린샷 2024-08-13 오후 5.35.56.png](Portenoy%20et%20al%20%E2%80%94%20Bursting%20scientific%20filter%20bubble/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2024-08-13_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_5.35.56.png)
+![스크린샷 2024-08-13 오후 5.35.56.png](../../_assets/portenoy_et_al_bursting_scientific_filter_bubble_ac2a248e0e124dddb7bc2604243305ab-screenshot.png)
 
 # Other Notes
 
