@@ -19,6 +19,7 @@ Notes of what we read
 ### Collaboration
 
 - [Ben-Menahem et al.: Coordinating Knowledge Creation in Multidisciplinary Teams: Evidence from Early-Stage Drug Discovery](computational-scientific-discovery/collaboration/ben-menahem_coordinating-knowledge-creation-in-multidisciplinary-teams.md)
+- [Choudhury et al.: Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science](computational-scientific-discovery/collaboration/choudhury_networked-intelligence-active-shared-context-graphs-for-human-ai-team-science.md)
 - [Katz et al.: What Is Research Collaboration?](computational-scientific-discovery/collaboration/katz_what-is-research-collaboration.md)
 - [Love et al.: Interpersonal relationship drive successful team science](computational-scientific-discovery/collaboration/love_interpersonal-relationship-drive-successful-team-science.md)
 - [Oleksik et al. — Beyond Data Sharing: Artifact Ecology of a Collaborative Nanophotonics Research Centre](computational-scientific-discovery/collaboration/Oleksik%20et%20al%20%E2%80%94%20Beyond%20Data%20Sharing%20Artifact%20Ecolo%20cfb99b7228e14d3bafd9ff0580967479.md)
@@ -68,6 +69,7 @@ Notes of what we read
 - [Liu et al.: PersonaFlow: Designing LLM-Simulated Expert Perspectives for Enhanced Research Ideation](computational-scientific-discovery/hypothesis-generation/liu_personaflow-designing-llm-simulated-expert-perspectives-for-enhanced-research-ideation.md)
 - [Majumder et al.: DiscoveryBench: Towards Data-Driven Discovery with Large Language Models](computational-scientific-discovery/hypothesis-generation/majumder_discoverybench-towards-data-driven-discovery-with-large-language-models.md)
 - [Nigam et al.: An interactive co-pilot for accelerated research ideation](computational-scientific-discovery/hypothesis-generation/nigam_an-interactive-copilot-for-accelerated-research-ideation.md)
+- [Portenoy et al. — Bursting scientific filter bubbles: Boosting innovation via novel author discovery](computational-scientific-discovery/hypothesis-generation/Portenoy%20et%20al%20%E2%80%94%20Bursting%20scientific%20filter%20bubble%20ac2a248e0e124dddb7bc2604243305ab.md)
 - [Pu et al.: IdeaSynth: Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback](computational-scientific-discovery/hypothesis-generation/pu_ideasynth.md)
 - [Radensky et al.: Sideator: Human-LLM Compound System for Scientific Ideation through Facet Recombination and Novelty Evaluation](computational-scientific-discovery/hypothesis-generation/radensky_sideator-human-llm-compound-system-for-scientific-ideation-through-facet-recombination-and-novelty-evaluation.md)
 - [Sourati et al.: Accelerating Science with Human-Aware Artificial Intelligence](computational-scientific-discovery/hypothesis-generation/sourati_accelerating-science-with-human-aware-artificial-intelligence.md)
@@ -92,7 +94,6 @@ Notes of what we read
 
 ### Unsorted
 
-- [Portenoy et al. — Bursting scientific filter bubbles: Boosting innovation via novel author discovery](computational-scientific-discovery/unsorted/Portenoy%20et%20al%20%E2%80%94%20Bursting%20scientific%20filter%20bubble%20ac2a248e0e124dddb7bc2604243305ab.md)
 - [Pun et al.: Target identification and assessment in the era of AI](computational-scientific-discovery/unsorted/pun_target-identification-and-assessment-in-the-era-of-ai.md)
 - [Schunn & Klahr — A 4-space model of scientific discovery](computational-scientific-discovery/unsorted/Schunn%20%26%20Klahr%20%E2%80%94%20A%204-space%20model%20of%20scientific%20dis%200538c08e8bfb41bab1df880d1e147022.md)
 - [Shao et al.: SciSciGPT: advancing human–AI collaboration in the science of science](computational-scientific-discovery/unsorted/shao_sciscigpt.md)
