@@ -29,6 +29,7 @@ Notes of what we read
 
 - [Cheng et al. — Artificial intelligence and open science in discovery of disease-modifying medicines for Alzheimer’s disease](computational-scientific-discovery/domain-specific/Cheng%20et%20al%20%E2%80%94%20Artificial%20intelligence%20and%20open%20sci%2017e0b2facd2980f4ac24fa9bf4e3eb42.md)
 - [Khanal et al. — A natural language interface for interactively exploring ocean science data](computational-scientific-discovery/domain-specific/Khanal%20et%20al%20%E2%80%94%20A%20natural%20language%20interface%20for%20in%2019f0b2facd298058bdc1dce4deeee798.md)
+- [Pun et al.: Target identification and assessment in the era of AI](computational-scientific-discovery/domain-specific/pun_target-identification-and-assessment-in-the-era-of-ai.md)
 
 ### General
 
@@ -94,7 +95,6 @@ Notes of what we read
 
 ### Unsorted
 
-- [Pun et al.: Target identification and assessment in the era of AI](computational-scientific-discovery/unsorted/pun_target-identification-and-assessment-in-the-era-of-ai.md)
 - [Schunn & Klahr — A 4-space model of scientific discovery](computational-scientific-discovery/unsorted/Schunn%20%26%20Klahr%20%E2%80%94%20A%204-space%20model%20of%20scientific%20dis%200538c08e8bfb41bab1df880d1e147022.md)
 - [Shao et al.: SciSciGPT: advancing human–AI collaboration in the science of science](computational-scientific-discovery/unsorted/shao_sciscigpt.md)
 - [Simon — Scientific discovery as problem solving: reply to critics](computational-scientific-discovery/unsorted/Simon%20%E2%80%94%20Scientific%20discovery%20as%20problem%20solving%20re%2059ef68e21d6b4f61bc519acf5c0022b8.md)
@@ -201,6 +201,7 @@ Notes of what we read
 - [Ludwig et al.: Machine Learning as a Tool for Hypothesis Generation](unsorted/ludwig_machine-learning-as-a-tool-for-hypothesis-generation.md)
 - [Morris et al.: Position: Levels of AGI for Operationalizing Progress on the Path to AGI](unsorted/morris_position-levels-of-agi-for-operationalizing-progress-on-the-path-to-agi.md)
 - [Shao et al.: Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models](unsorted/shao_assisting-in-writing-wikipedia-like-articles-from-scratch-with-large-language-models.md)
+- [Spangler et al.: Automated Hypothesis Generation Based on Mining Scientific Literature](unsorted/spangler_automated-hypothesis-generation-based-on-mining-scientific-literature.md)
 - [Zeng et al.: MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents](unsorted/zeng_mementogui.md)
 
 ### AI with Theory of Mind
