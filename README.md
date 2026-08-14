@@ -74,6 +74,7 @@ Notes of what we read
 - [Pu et al.: IdeaSynth: Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback](computational-scientific-discovery/hypothesis-generation/pu_ideasynth.md)
 - [Radensky et al.: Sideator: Human-LLM Compound System for Scientific Ideation through Facet Recombination and Novelty Evaluation](computational-scientific-discovery/hypothesis-generation/radensky_sideator-human-llm-compound-system-for-scientific-ideation-through-facet-recombination-and-novelty-evaluation.md)
 - [Sourati et al.: Accelerating Science with Human-Aware Artificial Intelligence](computational-scientific-discovery/hypothesis-generation/sourati_accelerating-science-with-human-aware-artificial-intelligence.md)
+- [Spangler et al.: Automated Hypothesis Generation Based on Mining Scientific Literature](computational-scientific-discovery/hypothesis-generation/spangler_automated-hypothesis-generation-based-on-mining-scientific-literature.md)
 - [Swanson et al.: An interactive system for finding complementary literatures](computational-scientific-discovery/hypothesis-generation/swanson_an-interactive-system-for-finding-complementary-literatures.md)
 - [Valdes-Perez et al.: Principles of human-computer collaboration for knowledge discovery in science](computational-scientific-discovery/hypothesis-generation/valdes-perez_principles-of-human-computer-collaboration-for-knowledge-discovery-in-science.md)
 - [Yu et al.: Unlocking the Potential of AI Researchers in Scientific Discovery: What Is Missing?](computational-scientific-discovery/hypothesis-generation/yu_unlocking-the-potential-of-ai-researchers-in-scientific-discovery.md)
@@ -201,7 +202,6 @@ Notes of what we read
 - [Ludwig et al.: Machine Learning as a Tool for Hypothesis Generation](unsorted/ludwig_machine-learning-as-a-tool-for-hypothesis-generation.md)
 - [Morris et al.: Position: Levels of AGI for Operationalizing Progress on the Path to AGI](unsorted/morris_position-levels-of-agi-for-operationalizing-progress-on-the-path-to-agi.md)
 - [Shao et al.: Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models](unsorted/shao_assisting-in-writing-wikipedia-like-articles-from-scratch-with-large-language-models.md)
-- [Spangler et al.: Automated Hypothesis Generation Based on Mining Scientific Literature](unsorted/spangler_automated-hypothesis-generation-based-on-mining-scientific-literature.md)
 - [Zeng et al.: MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents](unsorted/zeng_mementogui.md)
 
 ### AI with Theory of Mind
