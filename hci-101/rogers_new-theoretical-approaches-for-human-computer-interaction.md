@@ -46,6 +46,15 @@ Lessons learned from affordance as a theoretical approach of HCI:
 
 > ... the role of theory here is largely descriptive
 
+### Why CogSci for HCI failed
+> ... why basic cognitive theories failed to make a substantial contribution to HCI was the mismatch between the cognitive framework (information processing model) and the phenomena of interest (human-computer interaction). The former had been developed to explain human cognition in terms of hypothetical processes exclusively inside the mind of an individual. The latter is essentially about how people interact with external representations at the computer interface. 
+
+### Reviewing Theory for HCI: External Cognition
+> ... the interaction between internal and external representations when performing cognitive tasks (e.g., learning)
+
+Why the author believes that this theory worked for HCI
+> ... the way theory has been used to inform the cognitive dimensions and design approaches, respectively, is largely *generative*.
+
 ## Other Notes
 <!-- other things, not so important, but good to know -->
 
@@ -63,3 +72,9 @@ Activity Theory takes purposeful, socially situated activity—not an isolated u
 
 ### Related to human factors in computing
 > Two main approaches that have emerged from cognitive science are distributed cognition and external cognition. A central focus in both of these approaches is the structural and functional role of external representations and artifacts when used in conjunction with internal representation ....
+
+From Zhang and Norman:
+> "it is the interwoven processing of internal and external information that generates much of a person's intelligence"
+
+Similar to the motivation of using HF to inform interaction design:
+> Green claims that the value of cognitive dimensions lies in identifying different kinds of dimensions at suitable levels of abstraction across applications, such that solutions found in one domain may be applied to similar problems in others.
