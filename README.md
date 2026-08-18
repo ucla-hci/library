@@ -86,6 +86,7 @@ Notes of what we read
 - [Cong et al.: Labos: The AI-XR Co-Scientist That Sees and Works with Humans](computational-scientific-discovery/hypothesis-validation/cong_labos-the-ai-xr-co-scientist-that-sees-and-works-with-humans.md)
 - [Gao et al.: AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation](computational-scientific-discovery/hypothesis-validation/gao_autoscientists-self-organizing-agent-teams-for-long-running-scientific-experimentation.md)
 - [Ghareeb et al.: A multi-agent system for automating scientific discovery](computational-scientific-discovery/hypothesis-validation/ghareeb_a-multi-agent-system-for-automating-scientific-discovery.md)
+- [Schunn & Klahr — A 4-space model of scientific discovery](computational-scientific-discovery/hypothesis-validation/Schunn%20%26%20Klahr%20%E2%80%94%20A%204-space%20model%20of%20scientific%20dis%200538c08e8bfb41bab1df880d1e147022.md)
 
 ### Random
 
@@ -96,7 +97,6 @@ Notes of what we read
 
 ### Unsorted
 
-- [Schunn & Klahr — A 4-space model of scientific discovery](computational-scientific-discovery/unsorted/Schunn%20%26%20Klahr%20%E2%80%94%20A%204-space%20model%20of%20scientific%20dis%200538c08e8bfb41bab1df880d1e147022.md)
 - [Shao et al.: SciSciGPT: advancing human–AI collaboration in the science of science](computational-scientific-discovery/unsorted/shao_sciscigpt.md)
 - [Simon — Scientific discovery as problem solving: reply to critics](computational-scientific-discovery/unsorted/Simon%20%E2%80%94%20Scientific%20discovery%20as%20problem%20solving%20re%2059ef68e21d6b4f61bc519acf5c0022b8.md)
 - [Simon — The Theory of Scientific Discovery](computational-scientific-discovery/unsorted/Simon%20%E2%80%94%20The%20Theory%20of%20Scientific%20Discovery%20115938b3d4594515a3d4b41f4c84d347.md)
