@@ -18,6 +18,9 @@ https://www.tandfonline.com/doi/pdf/10.1207/s15327051hci1302_1?casa_token=4PUjU5
 HCI theory:
 Hutchins, E. L., Hollan, J. D., & Norman, D. A. (1986). Direct manipulation interfaces. In D. A. Norman & S. W. Draper (Eds.), User centered system design: New perspectives on human-computer interaction (pp. 87–124). Lawrence Erlbaum Associates. Journal version: https://doi.org/10.1207/s15327051hci0104_2
 Draper, S. W. (1992). The new direction for HCI? [Review of Through the interface: A human activity approach to user interface design, by S. Bødker]. International Journal of Man-Machine Studies, 37(6), 812–821. https://dblp.org/rec/journals/ijmms/Draper92a
+Delivering cognitive psychology to HCI: the problems of common language and of knowledge transfer
+Analyzing Human-Computer Interaction As Distributed Cognition
+https://www.cl.cam.ac.uk/~afb21/CognitiveDimensions/papers/Green1989.pdf
 
 Carrillo et al. related readings:
 Banker et al. (2024), Machine-assisted social psychology hypothesis generation
@@ -44,3 +47,5 @@ https://static1.squarespace.com/static/604b23e38c22a96e9c78879e/t/62d5d9448d061f
 https://backend.orbit.dtu.dk/ws/portalfiles/portal/53754046/ris_m_2519.pdf
 
 the turing trap 
+
+https://onlinelibrary.wiley.com/doi/pdfdirect/10.1207/s15516709cog1801_3
