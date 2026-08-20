@@ -1,3 +1,16 @@
+---
+activities:
+  - data-analysis
+  - communication
+  - workflow-orchestration
+contributions:
+  - perspective
+domains:
+  - general
+scope: field-level
+coding_status: coded
+---
+
 # Gil — Will AI write scientific papers in the future?
 
 ```

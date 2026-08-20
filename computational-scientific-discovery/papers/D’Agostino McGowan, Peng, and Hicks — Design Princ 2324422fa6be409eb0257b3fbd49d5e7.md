@@ -1,3 +1,17 @@
+---
+activities:
+  - problem-formulation
+  - data-analysis
+  - communication
+contributions:
+  - framework
+  - design-guidance
+domains:
+  - data-science
+scope: multi-activity
+coding_status: coded
+---
+
 # D’Agostino McGowan, Peng, and Hicks — Design Principles for Data Analysis
 
 ```

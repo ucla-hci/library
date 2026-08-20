@@ -1,3 +1,19 @@
+---
+activities:
+  - data-representation
+  - hypothesis-generation
+  - data-analysis
+  - evidence-evaluation
+contributions:
+  - benchmark
+  - empirical-study
+domains:
+  - general
+  - data-science
+scope: multi-activity
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Majumder et al.: DiscoveryBench: Towards Data-Driven Discovery with Large Language Models

@@ -1,3 +1,16 @@
+---
+activities:
+  - literature-discovery
+  - hypothesis-generation
+contributions:
+  - method
+  - empirical-study
+domains:
+  - science-of-science
+scope: focused
+coding_status: coded
+---
+
 # Sourati et al.: Accelerating Science with Human-Aware Artificial Intelligence
 
 ## One Sentence

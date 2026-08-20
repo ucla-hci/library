@@ -1,3 +1,16 @@
+---
+activities:
+  - problem-formulation
+  - literature-discovery
+contributions:
+  - system
+  - empirical-study
+domains:
+  - general
+scope: focused
+coding_status: coded
+---
+
 # Kang et al. —  ComLittee: Literature Discovery with Personal Elected Author Committees
 
 ```

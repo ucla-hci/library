@@ -1,3 +1,19 @@
+---
+activities:
+  - hypothesis-generation
+  - evidence-evaluation
+  - collaboration
+  - workflow-orchestration
+contributions:
+  - framework
+  - design-guidance
+  - perspective
+domains:
+  - general
+scope: field-level
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Valdes-Perez et al.: Principles of human-computer collaboration for knowledge discovery in science

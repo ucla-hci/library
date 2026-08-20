@@ -1,3 +1,19 @@
+---
+activities:
+  - experiment-execution
+  - data-analysis
+  - workflow-orchestration
+  - reproducibility
+contributions:
+  - framework
+  - review
+  - perspective
+domains:
+  - general
+scope: field-level
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Deelman et al.: The future of scientific workflows

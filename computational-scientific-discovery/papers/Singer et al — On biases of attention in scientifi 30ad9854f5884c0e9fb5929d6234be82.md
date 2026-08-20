@@ -1,3 +1,17 @@
+---
+activities:
+  - literature-discovery
+  - hypothesis-generation
+contributions:
+  - method
+  - empirical-study
+domains:
+  - science-of-science
+  - biology
+scope: focused
+coding_status: coded
+---
+
 # Singer et al. — On biases of attention in scientific discovery
 
 ```

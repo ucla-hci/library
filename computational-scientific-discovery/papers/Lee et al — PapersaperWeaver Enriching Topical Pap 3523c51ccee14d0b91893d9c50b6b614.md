@@ -1,3 +1,16 @@
+---
+activities:
+  - problem-formulation
+  - literature-discovery
+contributions:
+  - system
+  - empirical-study
+domains:
+  - general
+scope: focused
+coding_status: coded
+---
+
 # Lee et al. —  PapersaperWeaver: Enriching Topical Paper Alerts by Contextualizing Recommended Papers with User-collected Papers
 
 ```

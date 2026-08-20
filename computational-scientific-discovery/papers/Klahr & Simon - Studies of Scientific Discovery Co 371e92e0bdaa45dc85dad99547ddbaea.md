@@ -1,3 +1,18 @@
+---
+activities:
+  - data-representation
+  - hypothesis-generation
+  - experiment-design
+  - evidence-evaluation
+contributions:
+  - framework
+  - review
+domains:
+  - general
+scope: field-level
+coding_status: coded
+---
+
 # Klahr & Simon - Studies of Scientific Discovery: Complementary Approaches and Convergent Finding
 
 ```

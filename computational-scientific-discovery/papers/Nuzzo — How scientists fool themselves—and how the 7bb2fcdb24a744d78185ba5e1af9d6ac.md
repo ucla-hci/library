@@ -1,3 +1,18 @@
+---
+activities:
+  - experiment-design
+  - data-analysis
+  - evidence-evaluation
+  - reproducibility
+contributions:
+  - review
+  - perspective
+domains:
+  - general
+scope: multi-activity
+coding_status: coded
+---
+
 # Nuzzo — How scientists fool themselves—and how they can stop
 
 ```

@@ -1,3 +1,20 @@
+---
+activities:
+  - literature-discovery
+  - hypothesis-generation
+  - evidence-evaluation
+  - collaboration
+  - workflow-orchestration
+contributions:
+  - system
+  - empirical-study
+domains:
+  - general
+  - biomedicine
+scope: multi-activity
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Gottweis et al.: Accelerating scientific discovery with Co-Scientist

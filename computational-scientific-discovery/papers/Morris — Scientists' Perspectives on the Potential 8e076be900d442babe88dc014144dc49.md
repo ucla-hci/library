@@ -1,3 +1,19 @@
+---
+activities:
+  - problem-formulation
+  - hypothesis-generation
+  - data-analysis
+  - collaboration
+  - workflow-orchestration
+contributions:
+  - empirical-study
+  - perspective
+domains:
+  - general
+scope: field-level
+coding_status: coded
+---
+
 # Morris — Scientists' Perspectives on the Potential for Generative AI in their Fields
 
 ```

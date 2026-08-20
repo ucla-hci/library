@@ -1,3 +1,18 @@
+---
+activities:
+  - data-representation
+  - hypothesis-generation
+  - experiment-design
+  - evidence-evaluation
+contributions:
+  - theory
+  - empirical-study
+domains:
+  - general
+scope: multi-activity
+coding_status: coded
+---
+
 # Schunn & Klahr — A 4-space model of scientific discovery
 
 ```

@@ -1,3 +1,15 @@
+---
+activities:
+  - hypothesis-generation
+  - evidence-evaluation
+contributions:
+  - theory
+domains:
+  - general
+scope: focused
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Josephson & Josephson: Abductive Inference - Chapter 1. Concept analysis of abduction

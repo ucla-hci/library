@@ -1,3 +1,17 @@
+---
+activities:
+  - hypothesis-generation
+  - experiment-design
+  - evidence-evaluation
+contributions:
+  - theory
+  - empirical-study
+domains:
+  - general
+scope: multi-activity
+coding_status: coded
+---
+
 # Klahr & Dunbar — Dual Space Search During Scientific Reasoning
 
 ```

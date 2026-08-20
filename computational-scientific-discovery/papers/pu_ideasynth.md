@@ -1,3 +1,18 @@
+---
+activities:
+  - problem-formulation
+  - literature-discovery
+  - hypothesis-generation
+  - evidence-evaluation
+contributions:
+  - system
+  - empirical-study
+domains:
+  - general
+scope: multi-activity
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Pu et al.: IdeaSynth: Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback

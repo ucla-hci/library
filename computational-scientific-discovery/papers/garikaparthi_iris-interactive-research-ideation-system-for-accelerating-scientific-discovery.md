@@ -1,3 +1,18 @@
+---
+activities:
+  - problem-formulation
+  - literature-discovery
+  - hypothesis-generation
+  - collaboration
+contributions:
+  - system
+  - empirical-study
+domains:
+  - general
+scope: multi-activity
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Garikaparthi et al.: IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery

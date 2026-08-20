@@ -1,3 +1,18 @@
+---
+activities:
+  - literature-discovery
+  - hypothesis-generation
+  - collaboration
+contributions:
+  - theory
+  - method
+  - empirical-study
+domains:
+  - science-of-science
+scope: multi-activity
+coding_status: coded
+---
+
 # Chen et al. — Towards an explanatory and computational theory of scientific discovery
 
 ```

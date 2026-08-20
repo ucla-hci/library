@@ -1,3 +1,20 @@
+---
+activities:
+  - hypothesis-generation
+  - experiment-design
+  - experiment-execution
+  - data-analysis
+  - evidence-evaluation
+  - workflow-orchestration
+contributions:
+  - system
+  - empirical-study
+domains:
+  - drug-discovery
+scope: end-to-end
+coding_status: coded
+---
+
 # Williams et al. — Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases
 
 ```

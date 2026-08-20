@@ -1,3 +1,16 @@
+---
+activities:
+  - hypothesis-generation
+  - evidence-evaluation
+contributions:
+  - benchmark
+  - empirical-study
+domains:
+  - general
+scope: focused
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Lin et al.: HypoBench: Towards Systematic and Principled Benchmarking for Hypothesis Generation

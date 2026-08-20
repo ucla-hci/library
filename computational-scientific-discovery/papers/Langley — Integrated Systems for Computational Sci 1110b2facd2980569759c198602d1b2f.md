@@ -1,3 +1,21 @@
+---
+activities:
+  - problem-formulation
+  - hypothesis-generation
+  - experiment-design
+  - data-analysis
+  - evidence-evaluation
+  - workflow-orchestration
+contributions:
+  - framework
+  - review
+  - perspective
+domains:
+  - general
+scope: field-level
+coding_status: coded
+---
+
 # Langley — Integrated Systems for Computational Scientific Discovery
 
 ```

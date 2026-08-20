@@ -1,3 +1,16 @@
+---
+activities:
+  - hypothesis-generation
+  - data-analysis
+  - collaboration
+contributions:
+  - perspective
+domains:
+  - general
+scope: field-level
+coding_status: coded
+---
+
 # Leslie et al.: Does the Sun Rise for ChatGPT? Scientific Discovery in the Age of Generative AI
 
 ## One Sentence

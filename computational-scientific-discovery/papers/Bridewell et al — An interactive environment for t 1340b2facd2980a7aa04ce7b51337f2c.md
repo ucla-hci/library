@@ -1,3 +1,18 @@
+---
+activities:
+  - data-representation
+  - hypothesis-generation
+  - data-analysis
+  - evidence-evaluation
+contributions:
+  - system
+  - empirical-study
+domains:
+  - biology
+scope: multi-activity
+coding_status: coded
+---
+
 # Bridewell et al. — An interactive environment for the modeling and discovery of scientific knowledge
 
 ```

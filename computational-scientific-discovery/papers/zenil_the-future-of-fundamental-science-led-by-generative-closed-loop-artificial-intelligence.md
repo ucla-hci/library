@@ -1,3 +1,20 @@
+---
+activities:
+  - hypothesis-generation
+  - experiment-design
+  - experiment-execution
+  - data-analysis
+  - evidence-evaluation
+  - workflow-orchestration
+contributions:
+  - framework
+  - perspective
+domains:
+  - general
+scope: field-level
+coding_status: coded
+---
+
 # Zenil et al.: The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence
 
 ## One Sentence

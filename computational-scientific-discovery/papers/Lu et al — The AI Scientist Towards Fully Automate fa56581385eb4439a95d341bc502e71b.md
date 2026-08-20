@@ -1,3 +1,23 @@
+---
+activities:
+  - problem-formulation
+  - literature-discovery
+  - hypothesis-generation
+  - experiment-design
+  - experiment-execution
+  - data-analysis
+  - evidence-evaluation
+  - communication
+  - workflow-orchestration
+contributions:
+  - system
+  - empirical-study
+domains:
+  - machine-learning
+scope: end-to-end
+coding_status: coded
+---
+
 # Lu et al. — The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery
 
 ```

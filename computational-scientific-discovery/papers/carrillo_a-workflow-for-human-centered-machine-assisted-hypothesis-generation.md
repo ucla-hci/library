@@ -1,3 +1,20 @@
+---
+activities:
+  - problem-formulation
+  - literature-discovery
+  - hypothesis-generation
+  - evidence-evaluation
+contributions:
+  - framework
+  - design-guidance
+  - perspective
+domains:
+  - general
+  - social-science
+scope: multi-activity
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Carrillo et al.: A Workflow for Human-Centered Machine-Assisted Hypothesis Generation

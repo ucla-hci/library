@@ -1,3 +1,16 @@
+---
+activities:
+  - hypothesis-generation
+  - evidence-evaluation
+contributions:
+  - theory
+  - framework
+domains:
+  - general
+scope: field-level
+coding_status: coded
+---
+
 # Magnani et al.: Creative Processes in Scientific Discovery
 
 ## One Sentence

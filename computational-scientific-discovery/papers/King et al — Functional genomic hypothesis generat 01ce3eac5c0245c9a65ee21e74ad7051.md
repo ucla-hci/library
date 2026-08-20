@@ -1,3 +1,20 @@
+---
+activities:
+  - hypothesis-generation
+  - experiment-design
+  - experiment-execution
+  - data-analysis
+  - evidence-evaluation
+  - workflow-orchestration
+contributions:
+  - system
+  - empirical-study
+domains:
+  - biology
+scope: end-to-end
+coding_status: coded
+---
+
 # King et al. — Functional genomic hypothesis generation and experimentation by a robot scientist
 
 ```

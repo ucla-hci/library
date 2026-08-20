@@ -1,3 +1,22 @@
+---
+activities:
+  - hypothesis-generation
+  - experiment-design
+  - experiment-execution
+  - data-analysis
+  - evidence-evaluation
+  - collaboration
+  - workflow-orchestration
+contributions:
+  - system
+  - benchmark
+  - empirical-study
+domains:
+  - general
+scope: end-to-end
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Gao et al.: AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation

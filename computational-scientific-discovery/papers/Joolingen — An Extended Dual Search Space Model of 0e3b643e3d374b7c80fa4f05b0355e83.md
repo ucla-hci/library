@@ -1,3 +1,17 @@
+---
+activities:
+  - hypothesis-generation
+  - experiment-design
+  - evidence-evaluation
+contributions:
+  - theory
+  - framework
+domains:
+  - general
+scope: multi-activity
+coding_status: coded
+---
+
 # Joolingen — An Extended Dual Search Space Model of Scientific Discovery Learning
 
 ```

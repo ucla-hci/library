@@ -1,3 +1,19 @@
+---
+activities:
+  - data-representation
+  - hypothesis-generation
+  - experiment-design
+  - evidence-evaluation
+  - workflow-orchestration
+contributions:
+  - theory
+  - perspective
+domains:
+  - general
+scope: field-level
+coding_status: coded
+---
+
 # Simon — The Theory of Scientific Discovery
 
 ```

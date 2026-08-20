@@ -1,3 +1,17 @@
+---
+activities:
+  - hypothesis-generation
+  - evidence-evaluation
+contributions:
+  - method
+  - empirical-study
+domains:
+  - biomedicine
+  - drug-discovery
+scope: focused
+coding_status: coded
+---
+
 # Abdel-Rehim et al.: Scientific Hypothesis Generation by Large Language Models
 
 ## One Sentence

@@ -1,3 +1,18 @@
+---
+activities:
+  - literature-discovery
+  - data-analysis
+  - hypothesis-generation
+  - collaboration
+contributions:
+  - review
+domains:
+  - biomedicine
+  - drug-discovery
+scope: multi-activity
+coding_status: coded
+---
+
 # Cheng et al. — Artificial intelligence and open science in discovery of disease-modifying medicines for Alzheimer’s disease
 
 ```

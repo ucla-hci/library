@@ -1,3 +1,16 @@
+---
+activities:
+  - hypothesis-generation
+  - evidence-evaluation
+contributions:
+  - method
+  - empirical-study
+domains:
+  - general
+scope: focused
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Zhou et al.: Hypothesis Generation with Large Language Models

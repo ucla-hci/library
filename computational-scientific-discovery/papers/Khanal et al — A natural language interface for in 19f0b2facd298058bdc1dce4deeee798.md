@@ -1,3 +1,16 @@
+---
+activities:
+  - data-representation
+  - data-analysis
+contributions:
+  - system
+  - empirical-study
+domains:
+  - ocean-science
+scope: focused
+coding_status: coded
+---
+
 # Khanal et al. — A natural language interface for interactively exploring ocean science data
 
 ```

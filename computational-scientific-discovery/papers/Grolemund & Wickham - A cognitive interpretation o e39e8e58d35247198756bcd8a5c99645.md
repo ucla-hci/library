@@ -1,3 +1,18 @@
+---
+activities:
+  - problem-formulation
+  - data-representation
+  - data-analysis
+  - evidence-evaluation
+contributions:
+  - theory
+  - framework
+domains:
+  - data-science
+scope: multi-activity
+coding_status: coded
+---
+
 # Grolemund & Wickham - A cognitive interpretation of data analysis
 
 ```

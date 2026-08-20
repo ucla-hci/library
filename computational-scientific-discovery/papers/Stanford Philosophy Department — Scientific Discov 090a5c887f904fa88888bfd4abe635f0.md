@@ -1,3 +1,18 @@
+---
+activities:
+  - problem-formulation
+  - data-representation
+  - hypothesis-generation
+  - experiment-design
+  - evidence-evaluation
+contributions:
+  - review
+domains:
+  - general
+scope: field-level
+coding_status: coded
+---
+
 # Stanford Philosophy Department — Scientific Discovery
 
 ```

@@ -1,3 +1,15 @@
+---
+activities:
+  - collaboration
+contributions:
+  - framework
+  - empirical-study
+domains:
+  - drug-discovery
+scope: focused
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Ben-Menahem et al.: Coordinating Knowledge Creation in Multidisciplinary Teams: Evidence from Early-Stage Drug Discovery

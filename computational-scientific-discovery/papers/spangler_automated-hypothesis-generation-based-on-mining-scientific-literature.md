@@ -1,3 +1,18 @@
+---
+activities:
+  - literature-discovery
+  - data-representation
+  - hypothesis-generation
+  - evidence-evaluation
+contributions:
+  - method
+  - empirical-study
+domains:
+  - biology
+scope: multi-activity
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Spangler et al.: Automated Hypothesis Generation Based on Mining Scientific Literature
@@ -7,7 +22,7 @@
 
 KnIT converts the literature about scientific entities into a similarity network, then propagates known property labels through that network to rank novel, testable hypotheses; in its case study, it predicted protein kinases that phosphorylate p53.
 
-![Figure 1: KnIT derives a literature-distance matrix from papers about kinases, represents the kinases in a similarity network, and highlights predicted p53 kinases near known ones](../_assets/spangler-knit-literature-distance-network.png)
+![Figure 1: KnIT derives a literature-distance matrix from papers about kinases, represents the kinases in a similarity network, and highlights predicted p53 kinases near known ones](../../_assets/spangler-knit-literature-distance-network.png)
 
 *Figure 1. Kinases clustered by literature distance: known p53 kinases are green, while red, orange, and yellow nodes are predicted targets. Source: [Spangler et al. (2014)](https://doi.org/10.1145/2623330.2623667).*
 

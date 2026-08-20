@@ -1,3 +1,15 @@
+---
+activities:
+  - collaboration
+contributions:
+  - theory
+  - review
+domains:
+  - general
+scope: focused
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Katz et al.: What Is Research Collaboration?

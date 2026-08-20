@@ -1,3 +1,17 @@
+---
+activities:
+  - literature-discovery
+  - hypothesis-generation
+contributions:
+  - method
+  - system
+domains:
+  - general
+  - biomedicine
+scope: focused
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Swanson et al.: An interactive system for finding complementary literatures
@@ -15,7 +29,7 @@
 ### A key and profound observation
 > An important problem in the growth of knowledge is brought to light by the following type of literature structure: one set of articles (AB) reports an interesting association between variables A and B, a different set of articles (BC) reports a relationship between B and C, but nothing at all has been published concerning a relationship between A and C, ...
 
-![Figure 1: A and C are non-overlapping literatures linked through intermediate B literatures](../_assets/swanson_an-interactive-system-for-finding-complementary-literatures-figure-1.png)
+![Figure 1: A and C are non-overlapping literatures linked through intermediate B literatures](../../_assets/swanson_an-interactive-system-for-finding-complementary-literatures-figure-1.png)
 
 ### Definition of "complementary"
 > The two sets are complementary if together they can reveal new useful information that cannot be inferred from either set alone.

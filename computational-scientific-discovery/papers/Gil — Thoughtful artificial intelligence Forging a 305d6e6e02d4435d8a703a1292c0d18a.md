@@ -1,3 +1,17 @@
+---
+activities:
+  - data-analysis
+  - collaboration
+  - workflow-orchestration
+contributions:
+  - framework
+  - perspective
+domains:
+  - general
+scope: field-level
+coding_status: coded
+---
+
 # Gil — Thoughtful artificial intelligence: Forging a new partnership for data science and scientific discovery
 
 ```

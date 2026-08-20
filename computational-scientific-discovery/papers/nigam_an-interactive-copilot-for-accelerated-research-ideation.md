@@ -1,3 +1,18 @@
+---
+activities:
+  - problem-formulation
+  - literature-discovery
+  - hypothesis-generation
+  - evidence-evaluation
+contributions:
+  - system
+  - empirical-study
+domains:
+  - general
+scope: multi-activity
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Nigam et al.: An interactive co-pilot for accelerated research ideation

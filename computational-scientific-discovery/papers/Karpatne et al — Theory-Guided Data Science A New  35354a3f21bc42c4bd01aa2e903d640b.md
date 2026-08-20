@@ -1,3 +1,17 @@
+---
+activities:
+  - data-representation
+  - hypothesis-generation
+  - data-analysis
+contributions:
+  - framework
+  - review
+domains:
+  - data-science
+scope: multi-activity
+coding_status: coded
+---
+
 # Karpatne et al. — Theory-Guided Data Science: A New Paradigm for Scientific Discovery from Data
 
 ```

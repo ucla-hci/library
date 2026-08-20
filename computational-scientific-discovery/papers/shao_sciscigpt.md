@@ -1,3 +1,17 @@
+---
+activities:
+  - problem-formulation
+  - data-analysis
+  - collaboration
+contributions:
+  - system
+  - empirical-study
+domains:
+  - science-of-science
+scope: multi-activity
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Shao et al.: SciSciGPT: advancing human–AI collaboration in the science of science

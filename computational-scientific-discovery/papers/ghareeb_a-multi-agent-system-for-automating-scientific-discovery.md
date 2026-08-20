@@ -1,3 +1,21 @@
+---
+activities:
+  - literature-discovery
+  - hypothesis-generation
+  - experiment-design
+  - data-analysis
+  - evidence-evaluation
+  - workflow-orchestration
+contributions:
+  - system
+  - empirical-study
+domains:
+  - biomedicine
+  - drug-discovery
+scope: end-to-end
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Ghareeb et al.: A multi-agent system for automating scientific discovery

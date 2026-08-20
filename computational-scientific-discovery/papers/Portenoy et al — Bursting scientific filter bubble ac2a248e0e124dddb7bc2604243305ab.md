@@ -1,3 +1,17 @@
+---
+activities:
+  - problem-formulation
+  - literature-discovery
+  - collaboration
+contributions:
+  - system
+  - empirical-study
+domains:
+  - science-of-science
+scope: multi-activity
+coding_status: coded
+---
+
 # Portenoy et al. —  Bursting scientific filter bubbles: Boosting innovation via novel author discovery
 
 ```

@@ -1,3 +1,16 @@
+---
+activities:
+  - problem-formulation
+  - data-analysis
+  - evidence-evaluation
+contributions:
+  - perspective
+domains:
+  - general
+scope: field-level
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Messeri et al.: Artificial intelligence and illusions of understanding in scientific research

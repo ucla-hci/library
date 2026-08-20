@@ -1,3 +1,17 @@
+---
+activities:
+  - data-representation
+  - hypothesis-generation
+  - evidence-evaluation
+contributions:
+  - method
+  - system
+domains:
+  - drug-discovery
+scope: multi-activity
+coding_status: coded
+---
+
 # Wang et al. — TargetHunter An In Silico Target Identification Tool for Predicting Therapeutic
 Potential of Small Organic Molecules Based on Chemogenomic Database
 

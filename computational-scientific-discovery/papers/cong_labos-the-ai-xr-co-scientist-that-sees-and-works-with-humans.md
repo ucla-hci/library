@@ -1,3 +1,19 @@
+---
+activities:
+  - experiment-design
+  - experiment-execution
+  - data-analysis
+  - collaboration
+  - workflow-orchestration
+contributions:
+  - system
+  - empirical-study
+domains:
+  - general
+scope: multi-activity
+coding_status: coded
+---
+
 # Cong et al.: Labos: The AI-XR Co-Scientist That Sees and Works with Humans
 
 ## One Sentence

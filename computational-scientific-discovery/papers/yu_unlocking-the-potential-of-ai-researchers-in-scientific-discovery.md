@@ -1,3 +1,20 @@
+---
+activities:
+  - problem-formulation
+  - hypothesis-generation
+  - experiment-design
+  - experiment-execution
+  - data-analysis
+  - workflow-orchestration
+contributions:
+  - review
+  - perspective
+domains:
+  - general
+scope: field-level
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Yu et al.: Unlocking the Potential of AI Researchers in Scientific Discovery: What Is Missing?

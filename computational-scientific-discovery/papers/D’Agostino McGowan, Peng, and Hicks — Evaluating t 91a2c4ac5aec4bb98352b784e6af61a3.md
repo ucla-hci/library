@@ -1,3 +1,17 @@
+---
+activities:
+  - data-analysis
+  - evidence-evaluation
+  - communication
+contributions:
+  - framework
+  - empirical-study
+domains:
+  - data-science
+scope: multi-activity
+coding_status: coded
+---
+
 # D’Agostino McGowan, Peng, and Hicks — Evaluating the Alignment of a Data Analysis between Analyst and Audience
 
 ```

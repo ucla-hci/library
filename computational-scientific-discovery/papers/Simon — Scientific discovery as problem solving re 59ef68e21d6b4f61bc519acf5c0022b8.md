@@ -1,3 +1,16 @@
+---
+activities:
+  - hypothesis-generation
+  - experiment-design
+  - evidence-evaluation
+contributions:
+  - perspective
+domains:
+  - general
+scope: field-level
+coding_status: coded
+---
+
 # Simon — Scientific discovery as problem solving: reply to critics
 
 ```

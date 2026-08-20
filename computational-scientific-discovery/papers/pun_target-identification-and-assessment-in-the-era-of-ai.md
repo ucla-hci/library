@@ -1,3 +1,18 @@
+---
+activities:
+  - literature-discovery
+  - hypothesis-generation
+  - data-analysis
+  - evidence-evaluation
+contributions:
+  - review
+domains:
+  - biomedicine
+  - drug-discovery
+scope: multi-activity
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Pun et al.: Target identification and assessment in the era of AI

@@ -1,3 +1,17 @@
+---
+activities:
+  - problem-formulation
+  - literature-discovery
+  - hypothesis-generation
+contributions:
+  - framework
+  - review
+domains:
+  - general
+scope: multi-activity
+coding_status: coded
+---
+
 # Hope et al. — A Computational Inflection for Scientific Discovery
 
 ```

@@ -1,3 +1,20 @@
+---
+activities:
+  - data-representation
+  - hypothesis-generation
+  - data-analysis
+  - evidence-evaluation
+  - collaboration
+contributions:
+  - system
+  - empirical-study
+  - design-guidance
+domains:
+  - biology
+scope: multi-activity
+coding_status: coded
+---
+
 # Taylor et al. — At the interface of biology and computation
 
 ```

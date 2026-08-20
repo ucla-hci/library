@@ -1,3 +1,19 @@
+---
+activities:
+  - data-representation
+  - hypothesis-generation
+  - collaboration
+  - workflow-orchestration
+contributions:
+  - system
+  - empirical-study
+domains:
+  - general
+  - biology
+scope: multi-activity
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Choudhury et al.: Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science

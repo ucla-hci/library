@@ -1,3 +1,17 @@
+---
+activities:
+  - data-representation
+  - collaboration
+  - reproducibility
+contributions:
+  - framework
+  - empirical-study
+domains:
+  - nanophotonics
+scope: multi-activity
+coding_status: coded
+---
+
 # Oleksik et al. —  Beyond Data Sharing: Artifact Ecology of a Collaborative Nanophotonics Research Centre
 
 ```

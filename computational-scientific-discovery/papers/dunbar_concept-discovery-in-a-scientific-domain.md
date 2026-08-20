@@ -1,3 +1,17 @@
+---
+activities:
+  - hypothesis-generation
+  - experiment-design
+  - evidence-evaluation
+contributions:
+  - theory
+  - empirical-study
+domains:
+  - biology
+scope: multi-activity
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Dunbar: Concept Discovery in a Scientific Domain

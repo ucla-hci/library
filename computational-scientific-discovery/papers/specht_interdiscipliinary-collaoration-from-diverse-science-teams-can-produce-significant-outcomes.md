@@ -1,3 +1,15 @@
+---
+activities:
+  - communication
+  - collaboration
+contributions:
+  - empirical-study
+domains:
+  - environmental-science
+scope: focused
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Specht et al.: Interdiscipliinary collaoration from diverse science teams can produce significant outcomes

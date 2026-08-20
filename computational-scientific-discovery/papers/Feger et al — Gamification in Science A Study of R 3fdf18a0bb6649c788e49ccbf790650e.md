@@ -1,3 +1,17 @@
+---
+activities:
+  - evidence-evaluation
+  - reproducibility
+contributions:
+  - system
+  - empirical-study
+  - design-guidance
+domains:
+  - high-energy-physics
+scope: focused
+coding_status: coded
+---
+
 # Feger et al. —  Gamification in Science: A Study of Requirements in the Context of Reproducible Research
 
 ```

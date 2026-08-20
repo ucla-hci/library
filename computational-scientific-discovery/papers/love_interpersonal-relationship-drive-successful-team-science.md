@@ -1,3 +1,14 @@
+---
+activities:
+  - collaboration
+contributions:
+  - empirical-study
+domains:
+  - general
+scope: focused
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Love et al.: Interpersonal relationship drive successful team science

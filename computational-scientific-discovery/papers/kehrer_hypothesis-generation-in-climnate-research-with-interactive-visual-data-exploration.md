@@ -1,3 +1,17 @@
+---
+activities:
+  - data-representation
+  - hypothesis-generation
+  - data-analysis
+contributions:
+  - system
+  - empirical-study
+domains:
+  - climate-science
+scope: multi-activity
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Kehrer et al.: Hypothesis Generation in Climnate Research with Interactive Visual Data Exploration

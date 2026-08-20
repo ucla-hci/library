@@ -1,3 +1,18 @@
+---
+activities:
+  - problem-formulation
+  - literature-discovery
+  - hypothesis-generation
+  - evidence-evaluation
+contributions:
+  - system
+  - empirical-study
+domains:
+  - general
+scope: multi-activity
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Liu et al.: PersonaFlow: Designing LLM-Simulated Expert Perspectives for Enhanced Research Ideation

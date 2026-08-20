@@ -1,3 +1,19 @@
+---
+activities:
+  - literature-discovery
+  - hypothesis-generation
+  - data-analysis
+  - evidence-evaluation
+contributions:
+  - method
+  - empirical-study
+domains:
+  - general
+  - data-science
+scope: multi-activity
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Liu et al.: Literature Meets Data: A Synergistic Approach to Hypothesis Generation
