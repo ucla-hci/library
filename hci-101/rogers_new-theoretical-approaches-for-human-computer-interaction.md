@@ -5,6 +5,8 @@
 ## One Sentence
 <!-- summarize the paper in one sentence, ideally with one figure as well -->
 
+<!-- @agent: summarize what the theories mentioned in this paper have in common, e.g., they are used in the process of analyzing empirical studies with people performing certain activities in certain context -->
+
 ## More Sentences
 <!-- additional sentences -->
 
@@ -49,11 +51,22 @@ Lessons learned from affordance as a theoretical approach of HCI:
 ### Why CogSci for HCI failed
 > ... why basic cognitive theories failed to make a substantial contribution to HCI was the mismatch between the cognitive framework (information processing model) and the phenomena of interest (human-computer interaction). The former had been developed to explain human cognition in terms of hypothetical processes exclusively inside the mind of an individual. The latter is essentially about how people interact with external representations at the computer interface. 
 
+> ... what was problematic with the classical cognitive science approach was not the conceptual framework per se, but its exclusive focus on modeling the cognitive processes that occurred within one individual.
+
 ### Reviewing Theory for HCI: External Cognition
 > ... the interaction between internal and external representations when performing cognitive tasks (e.g., learning)
 
 Why the author believes that this theory worked for HCI
 > ... the way theory has been used to inform the cognitive dimensions and design approaches, respectively, is largely *generative*.
+
+### Reviewing Theory for HCI: Distributed Cognition
+The expected outcome:
+> ... an explication of the complex interdependencies between people and artifacts in their work activities.
+
+Compared with Activity Theory:
+> ... no set of interlinked concepts exists that can be readily used to extract insights from the data ... the distributed cognition approach is much harder to apply because it lacks a set of explicit features to look for: nor is there a check list or recipe that can be easily followed when conducting the analysis
+
+> ... the outcome of doing an analysis using AT concepts is at a higher level and does not map readily onto the level required for contemplating design solutions.
 
 ## Other Notes
 <!-- other things, not so important, but good to know -->
