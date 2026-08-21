@@ -68,6 +68,19 @@ Compared with Activity Theory:
 
 > ... the outcome of doing an analysis using AT concepts is at a higher level and does not map readily onto the level required for contemplating design solutions.
 
+### Reviewing Theory for HCI: Situated Action
+The goal is to---
+> ... "explicate the relationship between structures of action and the resources and constraints afforded by physical and social circumstances".
+
+The method is---
+> ... predominantly ethnographic (i.e., carrying out extensive observations, interviews, and note-taking in a particular setting)
+
+What the findings are often like---
+> These kinds of detailed accounts provide much insight into how technology is actually used by people in different contexts, which is often quite different from the way the technology was intended to be used.
+
+One of the main criticism---
+> ... its focus on the particulars of a given setting, making it difficult to step back and generalize.
+
 ## Other Notes
 <!-- other things, not so important, but good to know -->
 
