@@ -12,8 +12,7 @@ scope: multi-activity
 coding_status: coded
 ---
 
-# Wang et al. — TargetHunter An In Silico Target Identification Tool for Predicting Therapeutic
-Potential of Small Organic Molecules Based on Chemogenomic Database
+# Wang et al. — TargetHunter An In Silico Target Identification Tool for Predicting Therapeutic Potential of Small Organic Molecules Based on Chemogenomic Database
 
 ```
 @article{wang2013targethunter,
@@ -31,17 +30,17 @@ Potential of Small Organic Molecules Based on Chemogenomic Database
 # One Sentence
 
 
-The authors presented TargetHunter, which is an interface to provide proteins docking with the ligand that is similar to users’s ligand.  
+The authors presented TargetHunter, a web tool that predicts targets for a user's query compound from the annotated targets of structurally similar compounds in ChEMBL.
 
 ![스크린샷 2024-07-01 오후 1.39.33.png](../../_assets/wang_et_al_targethunter_an_in_silico_target_iden_2525f1c171664fa49e3d227001b9f72c-%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2024-07-01_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_1.39.33.png)
 
 # More Sentences
 
+Given a user's ligand of interest (Ligand A), the system computes a molecular fingerprint, searches ChEMBL for the most structurally similar compounds (Ligand B), and treats the targets already associated with those compounds in bioactivity records as potential targets of Ligand A, ranked by chemical similarity. It does not perform molecular docking.
+
 
 # Key Points
 
-
-Similarity-based suggestion 
 
 # Other Notes
 

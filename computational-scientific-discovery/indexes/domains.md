@@ -100,7 +100,7 @@ Drug discovery and development.
 - [Ghareeb et al.: A multi-agent system for automating scientific discovery](../papers/ghareeb_a-multi-agent-system-for-automating-scientific-discovery.md)
 - [Pun et al.: Target identification and assessment in the era of AI](../papers/pun_target-identification-and-assessment-in-the-era-of-ai.md)
 - [Wang et al. — TargetHunter An In Silico Target Identification Tool for Predicting Therapeutic](../papers/Wang%20et%20al%20%E2%80%94%20TargetHunter%20An%20In%20Silico%20Target%20Iden%202525f1c171664fa49e3d227001b9f72c.md)
-- [Williams et al. — Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases](../papers/Williams%20et%20al%20%E2%80%94%20Cheaper%20faster%20drug%20development%20v%201130b2facd2980228f42fc501116791a.md)
+- [Williams et al. — Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases](../papers/williams_cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-diseases.md)
 
 ## Climate Science (1)
 

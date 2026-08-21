@@ -70,7 +70,7 @@ A near-complete iterative discovery pipeline.
 - [Ghareeb et al.: A multi-agent system for automating scientific discovery](../papers/ghareeb_a-multi-agent-system-for-automating-scientific-discovery.md)
 - [King et al. — Functional genomic hypothesis generation and experimentation by a robot scientist](../papers/King%20et%20al%20%E2%80%94%20Functional%20genomic%20hypothesis%20generat%2001ce3eac5c0245c9a65ee21e74ad7051.md)
 - [Lu et al. — The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](../papers/Lu%20et%20al%20%E2%80%94%20The%20AI%20Scientist%20Towards%20Fully%20Automate%20fa56581385eb4439a95d341bc502e71b.md)
-- [Williams et al. — Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases](../papers/Williams%20et%20al%20%E2%80%94%20Cheaper%20faster%20drug%20development%20v%201130b2facd2980228f42fc501116791a.md)
+- [Williams et al. — Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases](../papers/williams_cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-diseases.md)
 
 ## Field Level (15)
 

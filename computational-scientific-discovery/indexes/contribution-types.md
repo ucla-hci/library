@@ -82,7 +82,7 @@ Implemented interfaces, software systems, agents, or robots.
 - [Swanson et al.: An interactive system for finding complementary literatures](../papers/swanson_an-interactive-system-for-finding-complementary-literatures.md)
 - [Taylor et al. — At the interface of biology and computation](../papers/Taylor%20et%20al%20%E2%80%94%20At%20the%20interface%20of%20biology%20and%20com%201260b2facd29804eb7e5cda516d08f0b.md)
 - [Wang et al. — TargetHunter An In Silico Target Identification Tool for Predicting Therapeutic](../papers/Wang%20et%20al%20%E2%80%94%20TargetHunter%20An%20In%20Silico%20Target%20Iden%202525f1c171664fa49e3d227001b9f72c.md)
-- [Williams et al. — Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases](../papers/Williams%20et%20al%20%E2%80%94%20Cheaper%20faster%20drug%20development%20v%201130b2facd2980228f42fc501116791a.md)
+- [Williams et al. — Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases](../papers/williams_cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-diseases.md)
 
 ## Benchmark (3)
 
@@ -135,7 +135,7 @@ Evidence from experiments, observations, interviews, deployments, or user studie
 - [Spangler et al.: Automated Hypothesis Generation Based on Mining Scientific Literature](../papers/spangler_automated-hypothesis-generation-based-on-mining-scientific-literature.md)
 - [Specht et al.: Interdiscipliinary collaoration from diverse science teams can produce significant outcomes](../papers/specht_interdiscipliinary-collaoration-from-diverse-science-teams-can-produce-significant-outcomes.md)
 - [Taylor et al. — At the interface of biology and computation](../papers/Taylor%20et%20al%20%E2%80%94%20At%20the%20interface%20of%20biology%20and%20com%201260b2facd29804eb7e5cda516d08f0b.md)
-- [Williams et al. — Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases](../papers/Williams%20et%20al%20%E2%80%94%20Cheaper%20faster%20drug%20development%20v%201130b2facd2980228f42fc501116791a.md)
+- [Williams et al. — Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases](../papers/williams_cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-diseases.md)
 - [Zhou et al.: Hypothesis Generation with Large Language Models](../papers/zhou_hypothesis-generation-with-large-langauge-models.md)
 
 ## Review (11)
