@@ -81,6 +81,32 @@ What the findings are often like---
 One of the main criticism---
 > ... its focus on the particulars of a given setting, making it difficult to step back and generalize.
 
+### Reviewing Theory for HCI: Ethnomethodological Approach
+The approach seems anti-theoretical:
+> ... ethnomethodologists argue for a bottom-up approach, whereby working practices are described in terms of members' practical accomplishments ... adheres to a rigorous descriptive program that accounts for members' working practices.
+> ... like the situated action approach, began with providing detailed descriptions of work practices ...
+
+Weak in giving guidelines
+> ... typically results in little more than a set of cursory guidelines ... ethnomethodologists feel ill-equipped to offer advice to others; they regard their findings as descriptive, not prescriptive.
+
+Too academic to fit designers' understanding?
+> ... ethnomethodologically based concepts will prove to be harder to learn and use in the context of a design space than the likes of viscosity, cognitive offloading, and affordances, which designers have found useful and relatively easy to use.
+
+### Reviewing Theory for HCI: Hybrid and Overarching Approach
+Information foraging is an example of a hybrid approach
+> "we propose an information foraging food-theory (IFT) that is in many ways analogous to evolutionary ecological explanations of food-foraging strategies in anthropology and behavioral ecology."
+
+### Purposes of using theories
+In general, as---
+> (1) explanatory tools, (2) predictive tools, (3) a means of providing new concepts for the purpose of developing a more extensive design language, and (4) a means of providing tools for use in the design process.
+
+Shneiderman's five kinds of theory for HCI, which is a useful way of characterizing a theory's high-level purposes to better understand it:
+> - Descriptive---in the sense of providing concepts, clarifying terminology, and guiding further inquiry
+> - Explanatory---in the sense of explicating relationships and processes
+> - Predictive---enabling predictions to be made about user performance
+> - Prescriptive--providing guidance for design
+> - Generative--in the sense of enabling practitioners to create, invent, or discover something new
+
 ## Other Notes
 <!-- other things, not so important, but good to know -->
 
