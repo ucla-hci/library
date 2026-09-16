@@ -51,3 +51,5 @@ the turing trap
 https://onlinelibrary.wiley.com/doi/pdfdirect/10.1207/s15516709cog1801_3
 
 https://www.dougengelbart.org/content/view/138/
+
+- Thompson, W. H., & Skau, S. (2023). On the scope of scientific hypotheses. *Royal Society Open Science, 10*(8), 230607. https://doi.org/10.1098/rsos.230607
