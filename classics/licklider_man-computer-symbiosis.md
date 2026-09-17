@@ -1,5 +1,9 @@
 # Licklider et al.: Man-Computer Symbiosis
 
+```
+@ARTICLE{4503259,  author={Licklider, J. C. R.},  journal={IRE Transactions on Human Factors in Electronics},   title={Man-Computer Symbiosis},   year={1960},  volume={HFE-1},  number={1},  pages={4-11},  doi={10.1109/THFE2.1960.4503259}}
+```
+
 ## One Sentence
 This article envisions a future of symbiotic relationship between men and computers: 1) the aim is to formulate and solve open-ended problem together in real-time; 2) the division of labor is for men to specify high-level directions, hypotheses, and references while computers can perform low-level data retrieval, processing and presentation tasks; and 3) the requirements include memory, communicative language, and input/output.
 ## More Sentences

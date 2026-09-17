@@ -1,3 +1,22 @@
+---
+activities:
+  - hypothesis-generation
+  - experiment-design
+  - experiment-execution
+  - data-analysis
+  - evidence-evaluation
+  - workflow-orchestration
+contributions:
+  - framework
+  - method
+  - system
+  - empirical-study
+domains:
+  - general
+scope: multi-activity
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Huang et al.: Automated Hypothesis Validation with Agentic Sequential Falsifications

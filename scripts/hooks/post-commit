@@ -1,0 +1,59 @@
+#!/bin/bash
+# Post-commit hook: code newly committed papers and rebuild the collection indexes.
+# Activated by scripts/install-hooks.sh (sets core.hooksPath to this directory).
+#
+# The commit has already landed by the time this runs, so nothing here can lose
+# work: results are left UNSTAGED in the working tree for review. Interrupting
+# this hook is safe.
+#
+# Set CSD_SKIP_CODING=1 to skip the Claude call (rebuild still runs).
+#
+# Kept to bash 3.2 syntax: that is what macOS ships as /bin/bash.
+set -uo pipefail
+
+GIT_ROOT=$(git rev-parse --show-toplevel)
+COLLECTION="computational-scientific-discovery"
+
+# Skip unless the commit touched the collection at all.
+if ! git diff-tree --no-commit-id --name-only -r HEAD | grep -q "^${COLLECTION}/"; then
+    exit 0
+fi
+
+# Notes added or modified by the commit that just landed. Newline-separated:
+# paper filenames contain spaces, so never word-split this.
+TOUCHED=$(
+    git diff-tree --no-commit-id --name-only --diff-filter=AM -r HEAD \
+        | grep -E "^${COLLECTION}/(papers|inbox)/.*\.md$" || true
+)
+
+if [ -n "$TOUCHED" ] && [ "${CSD_SKIP_CODING:-0}" != "1" ]; then
+    # code_paper.py ignores paths that are already coded, so pass them all.
+    OLD_IFS=$IFS
+    IFS=$'\n'
+    PATHS=()
+    for path in $TOUCHED; do
+        if [ -f "$GIT_ROOT/$path" ]; then
+            PATHS[${#PATHS[@]}]="$GIT_ROOT/$path"
+        fi
+    done
+    IFS=$OLD_IFS
+    if [ ${#PATHS[@]} -gt 0 ]; then
+        python3 "$GIT_ROOT/$COLLECTION/code_paper.py" "${PATHS[@]}"
+    fi
+fi
+
+# Rebuild indexes. This also catches drift from an edited paper title.
+if ! python3 "$GIT_ROOT/$COLLECTION/rebuild_indexes.py"; then
+    echo "post-commit: indexes NOT rebuilt (see the validation error above)." >&2
+    echo "post-commit: fix the front matter, then run:" >&2
+    echo "  python3 $COLLECTION/rebuild_indexes.py" >&2
+    exit 0
+fi
+
+if ! git diff --quiet || [ -n "$(git ls-files --others --exclude-standard -- "$COLLECTION")" ]; then
+    echo
+    echo "post-commit: changes are unstaged for review."
+    echo "  inspect: git status && git diff"
+    echo "  keep:    git add -A && git commit -m 'Code new papers and rebuild indexes'"
+    echo "  discard: git checkout -- $COLLECTION"
+fi

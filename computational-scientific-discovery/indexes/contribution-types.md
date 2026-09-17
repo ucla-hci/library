@@ -19,7 +19,7 @@ Explanatory or predictive accounts of scientific discovery or behavior.
 - [Schunn & Klahr — A 4-space model of scientific discovery](../papers/Schunn%20%26%20Klahr%20%E2%80%94%20A%204-space%20model%20of%20scientific%20dis%200538c08e8bfb41bab1df880d1e147022.md)
 - [Simon — The Theory of Scientific Discovery](../papers/Simon%20%E2%80%94%20The%20Theory%20of%20Scientific%20Discovery%20115938b3d4594515a3d4b41f4c84d347.md)
 
-## Framework (17)
+## Framework (18)
 
 Organizing concepts, stages, dimensions, or relationships.
 
@@ -32,6 +32,7 @@ Organizing concepts, stages, dimensions, or relationships.
 - [Gil — Thoughtful artificial intelligence: Forging a new partnership for data science and scientific discovery](../papers/Gil%20%E2%80%94%20Thoughtful%20artificial%20intelligence%20Forging%20a%20305d6e6e02d4435d8a703a1292c0d18a.md)
 - [Grolemund & Wickham - A cognitive interpretation of data analysis](../papers/Grolemund%20%26%20Wickham%20-%20A%20cognitive%20interpretation%20o%20e39e8e58d35247198756bcd8a5c99645.md)
 - [Hope et al. — A Computational Inflection for Scientific Discovery](../papers/Hope%20et%20al%20%E2%80%94%20A%20Computational%20Inflection%20for%20Scient%200e09b88b233b4f229210c8e32859691e.md)
+- [Huang et al.: Automated Hypothesis Validation with Agentic Sequential Falsifications](../papers/huang_automated-hypothesis-validation-with-agentic-sequential-falsifications.md)
 - [Joolingen — An Extended Dual Search Space Model of Scientific Discovery Learning](../papers/Joolingen%20%E2%80%94%20An%20Extended%20Dual%20Search%20Space%20Model%20of%200e3b643e3d374b7c80fa4f05b0355e83.md)
 - [Karpatne et al. — Theory-Guided Data Science: A New Paradigm for Scientific Discovery from Data](../papers/Karpatne%20et%20al%20%E2%80%94%20Theory-Guided%20Data%20Science%20A%20New%20%2035354a3f21bc42c4bd01aa2e903d640b.md)
 - [Klahr & Simon - Studies of Scientific Discovery: Complementary Approaches and Convergent Finding](../papers/Klahr%20%26%20Simon%20-%20Studies%20of%20Scientific%20Discovery%20Co%20371e92e0bdaa45dc85dad99547ddbaea.md)
@@ -41,21 +42,22 @@ Organizing concepts, stages, dimensions, or relationships.
 - [Valdes-Perez et al.: Principles of human-computer collaboration for knowledge discovery in science](../papers/valdes-perez_principles-of-human-computer-collaboration-for-knowledge-discovery-in-science.md)
 - [Zenil et al.: The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence](../papers/zenil_the-future-of-fundamental-science-led-by-generative-closed-loop-artificial-intelligence.md)
 
-## Method (9)
+## Method (10)
 
 Procedures, algorithms, or analytical techniques.
 
 - [Abdel-Rehim et al.: Scientific Hypothesis Generation by Large Language Models](../papers/abdel-rehim_scientific-hypothesis-generation-by-large-language-models.md)
 - [Chen et al. — Towards an explanatory and computational theory of scientific discovery](../papers/Chen%20et%20al%20%E2%80%94%20Towards%20an%20explanatory%20and%20computatio%2049631e6cb4054d3197be32caf5123009.md)
+- [Huang et al.: Automated Hypothesis Validation with Agentic Sequential Falsifications](../papers/huang_automated-hypothesis-validation-with-agentic-sequential-falsifications.md)
 - [Liu et al.: Literature Meets Data: A Synergistic Approach to Hypothesis Generation](../papers/liu_literature-meets-data.md)
 - [Singer et al. — On biases of attention in scientific discovery](../papers/Singer%20et%20al%20%E2%80%94%20On%20biases%20of%20attention%20in%20scientifi%2030ad9854f5884c0e9fb5929d6234be82.md)
 - [Sourati et al.: Accelerating Science with Human-Aware Artificial Intelligence](../papers/sourati_accelerating-science-with-human-aware-artificial-intelligence.md)
 - [Spangler et al.: Automated Hypothesis Generation Based on Mining Scientific Literature](../papers/spangler_automated-hypothesis-generation-based-on-mining-scientific-literature.md)
 - [Swanson et al.: An interactive system for finding complementary literatures](../papers/swanson_an-interactive-system-for-finding-complementary-literatures.md)
-- [Wang et al. — TargetHunter An In Silico Target Identification Tool for Predicting Therapeutic](../papers/Wang%20et%20al%20%E2%80%94%20TargetHunter%20An%20In%20Silico%20Target%20Iden%202525f1c171664fa49e3d227001b9f72c.md)
+- [Wang et al. — TargetHunter An In Silico Target Identification Tool for Predicting Therapeutic Potential of Small Organic Molecules Based on Chemogenomic Database](../papers/Wang%20et%20al%20%E2%80%94%20TargetHunter%20An%20In%20Silico%20Target%20Iden%202525f1c171664fa49e3d227001b9f72c.md)
 - [Zhou et al.: Hypothesis Generation with Large Language Models](../papers/zhou_hypothesis-generation-with-large-langauge-models.md)
 
-## System (24)
+## System (25)
 
 Implemented interfaces, software systems, agents, or robots.
 
@@ -67,6 +69,7 @@ Implemented interfaces, software systems, agents, or robots.
 - [Garikaparthi et al.: IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery](../papers/garikaparthi_iris-interactive-research-ideation-system-for-accelerating-scientific-discovery.md)
 - [Ghareeb et al.: A multi-agent system for automating scientific discovery](../papers/ghareeb_a-multi-agent-system-for-automating-scientific-discovery.md)
 - [Gottweis et al.: Accelerating scientific discovery with Co-Scientist](../papers/gottweis_accelerating-scientific-discovery-with-co-scientist.md)
+- [Huang et al.: Automated Hypothesis Validation with Agentic Sequential Falsifications](../papers/huang_automated-hypothesis-validation-with-agentic-sequential-falsifications.md)
 - [Kang et al. —  ComLittee: Literature Discovery with Personal Elected Author Committees](../papers/Kang%20et%20al%20%E2%80%94%20ComLittee%20Literature%20Discovery%20with%20P%209a5792decf384a3e8981fa2c7f3848e8.md)
 - [Kehrer et al.: Hypothesis Generation in Climnate Research with Interactive Visual Data Exploration](../papers/kehrer_hypothesis-generation-in-climnate-research-with-interactive-visual-data-exploration.md)
 - [Khanal et al. — A natural language interface for interactively exploring ocean science data](../papers/Khanal%20et%20al%20%E2%80%94%20A%20natural%20language%20interface%20for%20in%2019f0b2facd298058bdc1dce4deeee798.md)
@@ -81,7 +84,7 @@ Implemented interfaces, software systems, agents, or robots.
 - [Shao et al.: SciSciGPT: advancing human–AI collaboration in the science of science](../papers/shao_sciscigpt.md)
 - [Swanson et al.: An interactive system for finding complementary literatures](../papers/swanson_an-interactive-system-for-finding-complementary-literatures.md)
 - [Taylor et al. — At the interface of biology and computation](../papers/Taylor%20et%20al%20%E2%80%94%20At%20the%20interface%20of%20biology%20and%20com%201260b2facd29804eb7e5cda516d08f0b.md)
-- [Wang et al. — TargetHunter An In Silico Target Identification Tool for Predicting Therapeutic](../papers/Wang%20et%20al%20%E2%80%94%20TargetHunter%20An%20In%20Silico%20Target%20Iden%202525f1c171664fa49e3d227001b9f72c.md)
+- [Wang et al. — TargetHunter An In Silico Target Identification Tool for Predicting Therapeutic Potential of Small Organic Molecules Based on Chemogenomic Database](../papers/Wang%20et%20al%20%E2%80%94%20TargetHunter%20An%20In%20Silico%20Target%20Iden%202525f1c171664fa49e3d227001b9f72c.md)
 - [Williams et al. — Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases](../papers/williams_cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-diseases.md)
 
 ## Benchmark (3)
@@ -92,7 +95,7 @@ Tasks, datasets, or metrics intended for systematic comparison.
 - [Lin et al.: HypoBench: Towards Systematic and Principled Benchmarking for Hypothesis Generation](../papers/lin_hypobench.md)
 - [Majumder et al.: DiscoveryBench: Towards Data-Driven Discovery with Large Language Models](../papers/majumder_discoverybench-towards-data-driven-discovery-with-large-language-models.md)
 
-## Empirical Study (41)
+## Empirical Study (42)
 
 Evidence from experiments, observations, interviews, deployments, or user studies.
 
@@ -110,6 +113,7 @@ Evidence from experiments, observations, interviews, deployments, or user studie
 - [Garikaparthi et al.: IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery](../papers/garikaparthi_iris-interactive-research-ideation-system-for-accelerating-scientific-discovery.md)
 - [Ghareeb et al.: A multi-agent system for automating scientific discovery](../papers/ghareeb_a-multi-agent-system-for-automating-scientific-discovery.md)
 - [Gottweis et al.: Accelerating scientific discovery with Co-Scientist](../papers/gottweis_accelerating-scientific-discovery-with-co-scientist.md)
+- [Huang et al.: Automated Hypothesis Validation with Agentic Sequential Falsifications](../papers/huang_automated-hypothesis-validation-with-agentic-sequential-falsifications.md)
 - [Kang et al. —  ComLittee: Literature Discovery with Personal Elected Author Committees](../papers/Kang%20et%20al%20%E2%80%94%20ComLittee%20Literature%20Discovery%20with%20P%209a5792decf384a3e8981fa2c7f3848e8.md)
 - [Kehrer et al.: Hypothesis Generation in Climnate Research with Interactive Visual Data Exploration](../papers/kehrer_hypothesis-generation-in-climnate-research-with-interactive-visual-data-exploration.md)
 - [Khanal et al. — A natural language interface for interactively exploring ocean science data](../papers/Khanal%20et%20al%20%E2%80%94%20A%20natural%20language%20interface%20for%20in%2019f0b2facd298058bdc1dce4deeee798.md)

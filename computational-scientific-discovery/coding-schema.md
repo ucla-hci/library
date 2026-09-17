@@ -46,6 +46,26 @@ The collection uses multi-valued metadata because papers often address several p
 
 `general` denotes a cross-domain account. Other domain codes name the scientific setting directly and may be combined when useful; for example, a therapeutic-target paper may receive both `biomedicine` and `drug-discovery`.
 
+| Code | Meaning |
+| --- | --- |
+| `general` | Cross-domain scientific discovery. |
+| `data-science` | Data science and statistical analysis. |
+| `machine-learning` | Machine-learning research. |
+| `biology` | Biological science. |
+| `biomedicine` | Biomedical research. |
+| `drug-discovery` | Drug discovery and development. |
+| `climate-science` | Climate science. |
+| `ocean-science` | Ocean science. |
+| `environmental-science` | Environmental science. |
+| `high-energy-physics` | High-energy physics. |
+| `nanophotonics` | Nanophotonics. |
+| `science-of-science` | Empirical and computational study of science itself. |
+| `social-science` | Social science. |
+
+The enforcing copy of every code above lives in the `DEFINITIONS` table in
+`rebuild_indexes.py`, which is also what the automated coder is prompted with.
+Add a code there first, then mirror it here.
+
 ## Front matter format
 
 ```yaml

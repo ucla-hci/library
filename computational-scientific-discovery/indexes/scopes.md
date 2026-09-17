@@ -25,7 +25,7 @@ One or two closely related research activities.
 - [Swanson et al.: An interactive system for finding complementary literatures](../papers/swanson_an-interactive-system-for-finding-complementary-literatures.md)
 - [Zhou et al.: Hypothesis Generation with Large Language Models](../papers/zhou_hypothesis-generation-with-large-langauge-models.md)
 
-## Multi Activity (32)
+## Multi Activity (33)
 
 Several connected activities without the full research loop.
 
@@ -42,6 +42,7 @@ Several connected activities without the full research loop.
 - [Gottweis et al.: Accelerating scientific discovery with Co-Scientist](../papers/gottweis_accelerating-scientific-discovery-with-co-scientist.md)
 - [Grolemund & Wickham - A cognitive interpretation of data analysis](../papers/Grolemund%20%26%20Wickham%20-%20A%20cognitive%20interpretation%20o%20e39e8e58d35247198756bcd8a5c99645.md)
 - [Hope et al. — A Computational Inflection for Scientific Discovery](../papers/Hope%20et%20al%20%E2%80%94%20A%20Computational%20Inflection%20for%20Scient%200e09b88b233b4f229210c8e32859691e.md)
+- [Huang et al.: Automated Hypothesis Validation with Agentic Sequential Falsifications](../papers/huang_automated-hypothesis-validation-with-agentic-sequential-falsifications.md)
 - [Joolingen — An Extended Dual Search Space Model of Scientific Discovery Learning](../papers/Joolingen%20%E2%80%94%20An%20Extended%20Dual%20Search%20Space%20Model%20of%200e3b643e3d374b7c80fa4f05b0355e83.md)
 - [Karpatne et al. — Theory-Guided Data Science: A New Paradigm for Scientific Discovery from Data](../papers/Karpatne%20et%20al%20%E2%80%94%20Theory-Guided%20Data%20Science%20A%20New%20%2035354a3f21bc42c4bd01aa2e903d640b.md)
 - [Kehrer et al.: Hypothesis Generation in Climnate Research with Interactive Visual Data Exploration](../papers/kehrer_hypothesis-generation-in-climnate-research-with-interactive-visual-data-exploration.md)
@@ -60,7 +61,7 @@ Several connected activities without the full research loop.
 - [Shao et al.: SciSciGPT: advancing human–AI collaboration in the science of science](../papers/shao_sciscigpt.md)
 - [Spangler et al.: Automated Hypothesis Generation Based on Mining Scientific Literature](../papers/spangler_automated-hypothesis-generation-based-on-mining-scientific-literature.md)
 - [Taylor et al. — At the interface of biology and computation](../papers/Taylor%20et%20al%20%E2%80%94%20At%20the%20interface%20of%20biology%20and%20com%201260b2facd29804eb7e5cda516d08f0b.md)
-- [Wang et al. — TargetHunter An In Silico Target Identification Tool for Predicting Therapeutic](../papers/Wang%20et%20al%20%E2%80%94%20TargetHunter%20An%20In%20Silico%20Target%20Iden%202525f1c171664fa49e3d227001b9f72c.md)
+- [Wang et al. — TargetHunter An In Silico Target Identification Tool for Predicting Therapeutic Potential of Small Organic Molecules Based on Chemogenomic Database](../papers/Wang%20et%20al%20%E2%80%94%20TargetHunter%20An%20In%20Silico%20Target%20Iden%202525f1c171664fa49e3d227001b9f72c.md)
 
 ## End To End (5)
 
