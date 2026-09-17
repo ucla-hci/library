@@ -131,6 +131,7 @@ Notes of what we read
 - [Tohidi et al.: Getting the Right Design and the Design Right](genui/tohidi_getting-the-right-design-and-the-design-right.md)
 - [Uusitalo et al. — “Clay to Play With”: Generative AI Tools in UX and Industrial Design Practice](genui/Uusitalo%20et%20al%20%E2%80%94%20%E2%80%9CClay%20to%20Play%20With%E2%80%9D%20Generative%20AI%2014b490dafda44313835829cab7d537bd.md)
 - [Yang — A study of prototypes, design activity, and design outcome](genui/Yang%20%E2%80%94%20A%20study%20of%20prototypes%2C%20design%20activity%2C%20and%2012e0b2facd2980b7a5f2c7b2a109727d.md)
+- [You et al.: Surprise2Refine: Axis-Centered Exploration-To-Refinement for Agent-Assisted Creative Scaffolding](genui/you_surprise2refine-axis-centered-exploration-to-refinement-for-agent-assisted-creative-scaffolding.md)
 
 ### Pattern GenUI
 
@@ -200,7 +201,6 @@ Notes of what we read
 - [Ludwig et al.: Machine Learning as a Tool for Hypothesis Generation](unsorted/ludwig_machine-learning-as-a-tool-for-hypothesis-generation.md)
 - [Morris et al.: Position: Levels of AGI for Operationalizing Progress on the Path to AGI](unsorted/morris_position-levels-of-agi-for-operationalizing-progress-on-the-path-to-agi.md)
 - [Shao et al.: Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models](unsorted/shao_assisting-in-writing-wikipedia-like-articles-from-scratch-with-large-language-models.md)
-- [You et al.: Surprise2Refine: Axis-Centered Exploration-To-Refinement for Agent-Assisted Creative Scaffolding](unsorted/you_surprise2refine-axis-centered-exploration-to-refinement-for-agent-assisted-creative-scaffolding.md)
 - [Zeng et al.: MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents](unsorted/zeng_mementogui.md)
 
 ### AI with Theory of Mind
