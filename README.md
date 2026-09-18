@@ -6,6 +6,7 @@ Notes of what we read
 - [Basalla et al.: The Evolution of Technology](books/basalla_the-evolution-of-technology.md)
 - [Card, Moran, and Newell: The Psychology of Human-Computer Interaction](books/CardMoranNewell_ThePsychologyofHumanComputerInteraction.md)
 - [Creswell: Research Design](books/Creswell_ResearchDesign.md)
+- [Deutsch et al.: The Beginning of Infinity](books/deutsch_the-beginning-of-infinity.md)
 - [Godfrey-Smith: Theory and Reality](books/godfrey-smith_theory-and-reality.md)
 - [Langley et al.: Scientific Discovery](books/langley_scientific-discovery.md)
 - [The Cognitive Science of Science](books/thagard_cognitive-science-of-science.md)
