@@ -134,12 +134,6 @@ Notes of what we read
 - [Yang — A study of prototypes, design activity, and design outcome](genui/Yang%20%E2%80%94%20A%20study%20of%20prototypes%2C%20design%20activity%2C%20and%2012e0b2facd2980b7a5f2c7b2a109727d.md)
 - [You et al.: Surprise2Refine: Axis-Centered Exploration-To-Refinement for Agent-Assisted Creative Scaffolding](genui/you_surprise2refine-axis-centered-exploration-to-refinement-for-agent-assisted-creative-scaffolding.md)
 
-### Pattern GenUI
-
-- [Borchers — A pattern approach to interaction design](genui/pattern-genui/Borchers%20%E2%80%94%20A%20pattern%20approach%20to%20interaction%20desig%202140b2facd298086a40ed0746c2548a5.md)
-- [Folmer — nteraction Design Patterns. Interaction Design Foundation](genui/pattern-genui/Folmer%20%E2%80%94%20nteraction%20Design%20Patterns%20Interaction%20De%201c10b2facd2980d9be26dd9bcbbf616f.md)
-- [Weisz et al. — Design Principles for Generative AI Applications](genui/pattern-genui/Weisz%20et%20al%20%E2%80%94%20Design%20Principles%20for%20Generative%20AI%20%201c00b2facd29801c8d87f921b74062c5.md)
-
 ### Unread
 
 - [Chung, Hong, et al. — Development and Evaluation of Emerging Design Patterns for Ubiquitous Computing](genui/unread/Chung%20%E2%80%94%20Evaluation%20Emerging%20Patterns%20Ubiquitous%20Computing%20e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6.md)
@@ -167,6 +161,12 @@ Notes of what we read
 - [Bianchi et al. — Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale](human-factors-in-computing/bias/Bianchi%20et%20al%20%E2%80%94%20Easily%20Accessible%20Text-to-Image%20Ge%201ab0b2facd2980be9d44d5f4930edd8b.md)
 - [Kim et al. — Fostering Appropriate Reliance on Large Language Models: The Role of Explanations, Sources, and Inconsistencies](human-factors-in-computing/bias/Kim%20et%20al%20%E2%80%94%20Fostering%20Appropriate%20Reliance%20on%20Larg%201df0b2facd2980118419d44314374ad3.md)
 - [Torralba & Efros — Unbiased look at dataset bias](human-factors-in-computing/bias/Torralba%20%26%20Efros%20%E2%80%94%20Unbiased%20look%20at%20dataset%20bias%201eb0b2facd298029a271dd4ad34b8951.md)
+
+## Interaction Design Patterns
+
+- [Borchers — A pattern approach to interaction design](interaction-design-patterns/Borchers%20%E2%80%94%20A%20pattern%20approach%20to%20interaction%20desig%202140b2facd298086a40ed0746c2548a5.md)
+- [Folmer — nteraction Design Patterns. Interaction Design Foundation](interaction-design-patterns/Folmer%20%E2%80%94%20nteraction%20Design%20Patterns%20Interaction%20De%201c10b2facd2980d9be26dd9bcbbf616f.md)
+- [Weisz et al. — Design Principles for Generative AI Applications](interaction-design-patterns/Weisz%20et%20al%20%E2%80%94%20Design%20Principles%20for%20Generative%20AI%20%201c00b2facd29801c8d87f921b74062c5.md)
 
 ## Others
 
