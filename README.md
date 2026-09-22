@@ -174,6 +174,8 @@ Notes of what we read
 
 ## Search
 
+- [Human Limitations in Scientific Discovery: Theories in the CSD Collection](search/csd-human-factors.md)
+
 ### HCI Hypo Vali
 
 - [Choi et al.: Concept-Driven Visual Analytics](search/hci-hypo-vali/choi_concept-driven-va.md)

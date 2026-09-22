@@ -38,7 +38,7 @@ series = {DIS '00}
 
 > A meaningful, concise *name* identifies the pattern, a *ranking* indicates the validity of the pattern, a *picture* gives a “sensitizing" and easily understood example of the pattern applied, and the *context* explains which larger patterns it helps to implement. Next, a short *problem statement* summarizes the competing “forces", or design tradeoffs, and a more extensive *problem description* gives empirical background information, and shows existing solutions.
 
-The following *solution* is the central pattern component. It generalizes the examples into a clear, but generic set of instructions that can be applied in varying situations. A *diagram* describes this solution and its constituents graphically, and *references* point the reader to smaller patterns that can be used to implement this pattern.
+> The following *solution* is the central pattern component. It generalizes the examples into a clear, but generic set of instructions that can be applied in varying situations. A *diagram* describes this solution and its constituents graphically, and *references* point the reader to smaller patterns that can be used to implement this pattern.
 > 
 
 To sum up—
