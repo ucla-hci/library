@@ -2,18 +2,11 @@ human factors in computing:
 - Appropriate reliance on AI advice
 
 Computational scientific discovery
-https://academic.oup.com/qje/article-abstract/139/2/751/7515309?redirectedFrom=fulltext
-https://www.nature.com/articles/s41586-026-10652-y
-https://www.nature.com/articles/s41586-026-10644-y
 https://github.com/karpathy/autoresearch
 
 genui:
 https://dl.acm.org/doi/10.1145/3772318.3791666
-https://arxiv.org/abs/2503.04084
 https://arxiv.org/pdf/2509.16779
-
-others:
-https://www.tandfonline.com/doi/pdf/10.1207/s15327051hci1302_1?casa_token=4PUjU5R9TP4AAAAA:7qd9V4hYqopm49gjMXcWRfeI9xJqNUU8i8BelSiqDP0MKMM-7Lh_JxNWcgFdso_dsAZOguPkEBR0yxo
 
 HCI theory:
 Hutchins, E. L., Hollan, J. D., & Norman, D. A. (1986). Direct manipulation interfaces. In D. A. Norman & S. W. Draper (Eds.), User centered system design: New perspectives on human-computer interaction (pp. 87–124). Lawrence Erlbaum Associates. Journal version: https://doi.org/10.1207/s15327051hci0104_2
@@ -25,8 +18,6 @@ https://www.cl.cam.ac.uk/~afb21/CognitiveDimensions/papers/Green1989.pdf
 Carrillo et al. related readings:
 Banker et al. (2024), Machine-assisted social psychology hypothesis generation
 https://doi.org/10.1037/amp0001222
-Nuzzo (2015), How scientists fool themselves-and how they can stop
-https://doi.org/10.1038/526182a
 Dell'Acqua (2021), Falling asleep at the wheel: Human/AI collaboration in a field experiment on HR recruiters
 https://static1.squarespace.com/static/604b23e38c22a96e9c78879e/t/62d5d9448d061f7327e8a7e7/1658181956291/Falling+Asleep+at+the+Wheel+-+Fabrizio+DellAcqua.pdf
 
