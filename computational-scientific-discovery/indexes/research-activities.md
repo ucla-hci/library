@@ -74,11 +74,12 @@ Choosing the objects, variables, formats, or visualizations through which data a
 - [Taylor et al. — At the interface of biology and computation](../papers/Taylor%20et%20al%20%E2%80%94%20At%20the%20interface%20of%20biology%20and%20com%201260b2facd29804eb7e5cda516d08f0b.md)
 - [Wang et al. — TargetHunter An In Silico Target Identification Tool for Predicting Therapeutic Potential of Small Organic Molecules Based on Chemogenomic Database](../papers/Wang%20et%20al%20%E2%80%94%20TargetHunter%20An%20In%20Silico%20Target%20Iden%202525f1c171664fa49e3d227001b9f72c.md)
 
-## Hypothesis Generation (48)
+## Hypothesis Generation (49)
 
 Proposing, revising, or prioritizing explanations, relationships, models, or discovery candidates.
 
 - [Abdel-Rehim et al.: Scientific Hypothesis Generation by Large Language Models](../papers/abdel-rehim_scientific-hypothesis-generation-by-large-language-models.md)
+- [Banker et al.: Machine-Assisted Social Psychology Hypothesis Generation](../papers/banker_machine-assisted-social-psychology-hypothesis-generation.md)
 - [Bridewell et al. — An interactive environment for the modeling and discovery of scientific knowledge](../papers/Bridewell%20et%20al%20%E2%80%94%20An%20interactive%20environment%20for%20t%201340b2facd2980a7aa04ce7b51337f2c.md)
 - [Carrillo et al.: A Workflow for Human-Centered Machine-Assisted Hypothesis Generation](../papers/carrillo_a-workflow-for-human-centered-machine-assisted-hypothesis-generation.md)
 - [Chen et al. — Towards an explanatory and computational theory of scientific discovery](../papers/Chen%20et%20al%20%E2%80%94%20Towards%20an%20explanatory%20and%20computatio%2049631e6cb4054d3197be32caf5123009.md)
@@ -200,11 +201,12 @@ Transforming, exploring, or modeling data to extract patterns and results.
 - [Yu et al.: Unlocking the Potential of AI Researchers in Scientific Discovery: What Is Missing?](../papers/yu_unlocking-the-potential-of-ai-researchers-in-scientific-discovery.md)
 - [Zenil et al.: The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence](../papers/zenil_the-future-of-fundamental-science-led-by-generative-closed-loop-artificial-intelligence.md)
 
-## Evidence Evaluation (40)
+## Evidence Evaluation (41)
 
 Assessing support, validity, novelty, plausibility, or competing claims and candidates.
 
 - [Abdel-Rehim et al.: Scientific Hypothesis Generation by Large Language Models](../papers/abdel-rehim_scientific-hypothesis-generation-by-large-language-models.md)
+- [Banker et al.: Machine-Assisted Social Psychology Hypothesis Generation](../papers/banker_machine-assisted-social-psychology-hypothesis-generation.md)
 - [Bridewell et al. — An interactive environment for the modeling and discovery of scientific knowledge](../papers/Bridewell%20et%20al%20%E2%80%94%20An%20interactive%20environment%20for%20t%201340b2facd2980a7aa04ce7b51337f2c.md)
 - [Carrillo et al.: A Workflow for Human-Centered Machine-Assisted Hypothesis Generation](../papers/carrillo_a-workflow-for-human-centered-machine-assisted-hypothesis-generation.md)
 - [Dunbar: Concept Discovery in a Scientific Domain](../papers/dunbar_concept-discovery-in-a-scientific-domain.md)

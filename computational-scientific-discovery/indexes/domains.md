@@ -143,8 +143,9 @@ Empirical and computational study of science itself.
 - [Singer et al. — On biases of attention in scientific discovery](../papers/Singer%20et%20al%20%E2%80%94%20On%20biases%20of%20attention%20in%20scientifi%2030ad9854f5884c0e9fb5929d6234be82.md)
 - [Sourati et al.: Accelerating Science with Human-Aware Artificial Intelligence](../papers/sourati_accelerating-science-with-human-aware-artificial-intelligence.md)
 
-## Social Science (1)
+## Social Science (2)
 
 Social science.
 
+- [Banker et al.: Machine-Assisted Social Psychology Hypothesis Generation](../papers/banker_machine-assisted-social-psychology-hypothesis-generation.md)
 - [Carrillo et al.: A Workflow for Human-Centered Machine-Assisted Hypothesis Generation](../papers/carrillo_a-workflow-for-human-centered-machine-assisted-hypothesis-generation.md)

@@ -87,19 +87,21 @@ Implemented interfaces, software systems, agents, or robots.
 - [Wang et al. — TargetHunter An In Silico Target Identification Tool for Predicting Therapeutic Potential of Small Organic Molecules Based on Chemogenomic Database](../papers/Wang%20et%20al%20%E2%80%94%20TargetHunter%20An%20In%20Silico%20Target%20Iden%202525f1c171664fa49e3d227001b9f72c.md)
 - [Williams et al. — Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases](../papers/williams_cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-diseases.md)
 
-## Benchmark (3)
+## Benchmark (4)
 
 Tasks, datasets, or metrics intended for systematic comparison.
 
+- [Banker et al.: Machine-Assisted Social Psychology Hypothesis Generation](../papers/banker_machine-assisted-social-psychology-hypothesis-generation.md)
 - [Gao et al.: AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation](../papers/gao_autoscientists-self-organizing-agent-teams-for-long-running-scientific-experimentation.md)
 - [Lin et al.: HypoBench: Towards Systematic and Principled Benchmarking for Hypothesis Generation](../papers/lin_hypobench.md)
 - [Majumder et al.: DiscoveryBench: Towards Data-Driven Discovery with Large Language Models](../papers/majumder_discoverybench-towards-data-driven-discovery-with-large-language-models.md)
 
-## Empirical Study (42)
+## Empirical Study (43)
 
 Evidence from experiments, observations, interviews, deployments, or user studies.
 
 - [Abdel-Rehim et al.: Scientific Hypothesis Generation by Large Language Models](../papers/abdel-rehim_scientific-hypothesis-generation-by-large-language-models.md)
+- [Banker et al.: Machine-Assisted Social Psychology Hypothesis Generation](../papers/banker_machine-assisted-social-psychology-hypothesis-generation.md)
 - [Ben-Menahem et al.: Coordinating Knowledge Creation in Multidisciplinary Teams: Evidence from Early-Stage Drug Discovery](../papers/ben-menahem_coordinating-knowledge-creation-in-multidisciplinary-teams.md)
 - [Bridewell et al. — An interactive environment for the modeling and discovery of scientific knowledge](../papers/Bridewell%20et%20al%20%E2%80%94%20An%20interactive%20environment%20for%20t%201340b2facd2980a7aa04ce7b51337f2c.md)
 - [Chen et al. — Towards an explanatory and computational theory of scientific discovery](../papers/Chen%20et%20al%20%E2%80%94%20Towards%20an%20explanatory%20and%20computatio%2049631e6cb4054d3197be32caf5123009.md)

@@ -1,3 +1,16 @@
+---
+activities:
+  - hypothesis-generation
+  - evidence-evaluation
+contributions:
+  - empirical-study
+  - benchmark
+domains:
+  - social-science
+scope: focused
+coding_status: coded
+---
+
 <!-- save as: <last-name-of-first-author>_<paper-title>.md -->
 
 # Banker et al.: Machine-Assisted Social Psychology Hypothesis Generation
