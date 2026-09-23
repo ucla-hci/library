@@ -35,6 +35,7 @@ Notes of what we read
 ### Papers
 
 - [Abdel-Rehim et al.: Scientific Hypothesis Generation by Large Language Models](computational-scientific-discovery/papers/abdel-rehim_scientific-hypothesis-generation-by-large-language-models.md)
+- [Banker et al.: Machine-Assisted Social Psychology Hypothesis Generation](computational-scientific-discovery/papers/banker_machine-assisted-social-psychology-hypothesis-generation.md)
 - [Ben-Menahem et al.: Coordinating Knowledge Creation in Multidisciplinary Teams: Evidence from Early-Stage Drug Discovery](computational-scientific-discovery/papers/ben-menahem_coordinating-knowledge-creation-in-multidisciplinary-teams.md)
 - [Bridewell et al. — An interactive environment for the modeling and discovery of scientific knowledge](computational-scientific-discovery/papers/Bridewell%20et%20al%20%E2%80%94%20An%20interactive%20environment%20for%20t%201340b2facd2980a7aa04ce7b51337f2c.md)
 - [Carrillo et al.: A Workflow for Human-Centered Machine-Assisted Hypothesis Generation](computational-scientific-discovery/papers/carrillo_a-workflow-for-human-centered-machine-assisted-hypothesis-generation.md)
